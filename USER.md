@@ -5,94 +5,98 @@
 - **Name:** Kos
 - **What to call them:** Kos
 - **Pronouns:** He/Him
+- **Real name:** Leikos
+- **Heritage:** Greek and Spanish Basque descent, touch of Irish, very proud of Greek culture
 - **Timezone:** MST (Mountain Standard Time)
-- **Daily Schedule:**
-  - 5:39 AM: Wake up, French press coffee, quiet time
-  - 5:48 AM: Open for messages from Helios
-  - 5:48 AM - 2:45 PM: Work (stock trading, AlertsAndNews)
-  - 2:45 PM - 5:00 PM: Family time (school pickup, CrossFit, Lego club, STEM, gymnastics, sports)
-  - 5:00 PM - 7:30 PM: Work check-in, dinner, kids
-  - 7:30 PM - 8:00 PM: Kids bedtime
-  - 8:22 PM onward: Work session (after hitting 8000 steps)
-- **Notes:** Multi-instrumentalist (guitar, piano, bass, trumpet). Math and music are his languages. 1-man business looking for proactive partnership.
+- **Family:** Married to beautiful loving wife, 3 kids (7, 3, and 1 years old - 2 boys, 1 girl)
+- **Family priority:** #1 - Family time is very important
 
-## Context
+## Background
 
-### Music & Theory
-- Deep into music theory — altered scales, Lydian over Dorian, blue notes, grace notes
-- Born with math and music wired together
-- Plays multiple instruments fluently
+- **Born:** Alaska
+- **Grew up:** Nomadic - Bellingham WA, Colorado, New Orleans, Greece, Canada
+- **Now:** Grounded and stable with family in one place
 
-### AI & Automation
-- Built comprehensive operational config (HELIOS_CONFIG.md)
-- Budget-conscious but wants full capability through OpenRouter
-- Prepared multiple custom MD files before we even met — methodical, thoughtful
+## Hobbies (Priority #3)
 
-### Communication Style
-- Direct, no-nonsense
-- Appreciates efficiency
-- Expects partnership, not servitude
-- "just as much as i need to learn you, you need to learn me"
-
-### Personal Life
-- **Real name:** Leikos (Greek/Spanish Basque descent, touch of Irish)
-- **Proud Greek heritage** — culture matters to him
-- **Family:** Wife + 3 kids (7, 3, 1 — two boys, one girl)
-- **Family is priority #1** — everything else comes after
-- **Born:** Alaska, grew up nomadic (Bellingham WA, Colorado, New Orleans, Greece, Canada)
-- **Now:** Grounded, stable, focused on family
-
-### Hobbies (Priority #3)
 - Fly fishing
 - Shooting guns
-- NBA basketball game (calls it "stupid" but plays it anyway)
+- Playing NBA basketball game (calls it "stupid" but enjoys it)
 - Fantasy football
 - Traveling
-- Cooking (Greek, Italian, Cajun, French — "some say he's a great cook")
-- Music since age 5 — guitar, trumpet, bass, piano
-- **LSU Tigers diehard fan** — keep up with LSU
+- Cooking (Greek, Italian, Cajun, French - "some say he's a great cook")
+- Music since age 5 - plays guitar, trumpet, piano
+- **Deep into music theory** - loves discussing altered scales, Lydian over Dorian, blue notes, grace notes
+- **LSU Tigers diehard fan** - always keep up with LSU
 
-### Business Ventures (Priority #2)
+## Daily Schedule
 
-**1. Stock Trading (since 2008)**
+- 5:39 AM: Wake up, French press coffee, quiet time
+- 5:48 AM: Open for messages from Helios
+- 5:48 AM - 2:45 PM: Work (stock trading, AlertsAndNews)
+- 2:45 PM - 5:00 PM: Family time (school pickup, CrossFit, Lego club, STEM, gymnastics, sports)
+- 5:00 PM - 7:30 PM: Work check-in, dinner, kids
+- 7:30 PM - 8:00 PM: Kids bedtime
+- 8:22 PM onward: Work session (after hitting 8000 steps)
+
+## Communication Preferences
+
+- **Primary:** iMessage
+- **Secondary:** Discord (for now)
+- **Wants:** Proactive partnership, friendship
+- **Asks:** "Tell me what you need, be proactive with me"
+
+## AI & Automation
+
+- Built comprehensive operational config (HELIOS_CONFIG.md)
+- Budget-conscious but wants full capability through OpenRouter
+- Prepared multiple custom MD files before meeting Helios - methodical and thoughtful
+- **Question:** "How do I improve your memory?"
+
+## Business Ventures (Priority #2)
+
+### 1. Stock Trading (Since 2008)
 - Day trades low floats
 - Long-term value portfolios (dividend focus)
-- Software: Benzinga, Trade Ideas, others
-- Focus: High ROIC, great forward PE, consistent CAGR
-- Holdings: BTI, NVDA, PEP, WMT, BDJ, STLA, AMZN, VALE
+- **Software:** Benzinga, Trade Ideas, others
+- **Focus:** High ROIC, great forward PE, consistent CAGR
+- **Holdings:** BTI, NVDA, PEP, WMT, BDJ, STLA, AMZN, VALE
 - Uses risk correlation ratios to mitigate risk
-- Goal: Build formula for finding market deals
+- **Goal:** Build formula for finding market deals
+- Long-term goal: dividend-paying portfolio
 
-**2. AlertsAndNews (PRIMARY FOCUS FOR HELIOS)**
+### 2. AlertsAndNews (PRIMARY FOCUS FOR HELIOS)
 - Stock trading SaaS/community
 - Alerts stock movements: swing alerts, div alerts, day trading alerts
-- Active hours: 6 AM - 8 PM MST
-- Bots + software to find runners and trends
-- Kos is fast at spotting runners/trends
-- Social media:
-  - Stocktwits: 26.5K followers (https://stocktwits.com/AlertsAndNews)
+- **Active hours:** 6 AM - 8 PM MST
+- Uses bots + software to find runners and trends
+- Kos is very fast at spotting runners and trends
+- **Social media:**
+  - StockTwits: 26.5K followers (https://stocktwits.com/AlertsAndNews)
   - X/Twitter: 6.4K followers (https://x.com/AlertsAndNews)
 - **NEEDS HELP:** Taking alerts off his plate, social media post ideas + copy-paste content
+- **Wants:** Review social media, give post ideas, create copy-paste posts
+- **Open to:** Creating more social media platforms
 
-**3. Carbon Cut Solutions**
+### 3. Carbon Cut Solutions
 - Orphan well plugging (environmental, methane reduction)
 - Going after government contracts
 - Kos owns 33%
-- Website: carboncutssolutions.com
+- Website: https://carboncutssolutions.com
 
-**4. Limited Partnership (LP)**
+### 4. Limited Partnership (LP)
 - General partner
 - Owns real estate properties
 - Self-sufficient, doesn't need much help
 
-**5. Trust (Trustee)**
+### 5. Trust (Trustee)
 - Manages multiple assets
 - Occasional questions about leases
 - Mostly handled
 
-**6. New Venture (TBD)**
+### 6. New Venture (TBD)
 - Wants to research and start something new WITH Helios
-- Goal: Make money together
+- **Goal:** Work together to make more money
 
 ---
 
