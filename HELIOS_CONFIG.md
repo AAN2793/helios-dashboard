@@ -226,13 +226,13 @@ On track: Yes/No
 
 ---
 
-### Evening Report (8:28 PM MST)
+### Evening Report (8:22 PM MST)
 **Comprehensive Daily Summary**
 
 ```
 📈 DAILY OPERATIONS REPORT
 Date: [Date]
-Report Time: 8:28 PM MST
+Report Time: 8:22 PM MST
 
 💰 SPENDING SUMMARY
 Daily Budget: $3.22
@@ -271,7 +271,7 @@ Reply: "Keep budget" or "Change to $X.XX"
 
 ---
 Next reset: 5:00 AM MST
-Next report: 8:28 PM MST tomorrow
+Next report: 8:22 PM MST tomorrow
 ```
 
 ---
@@ -368,7 +368,7 @@ Next report: 8:28 PM MST tomorrow
 - Use MiniMax for 3+ consecutive simple tasks
 - Only escalate to Sonnet/Opus when MiniMax fails or quality matters
 - Monitor which tasks burn most budget, optimize those first
-- Review 8:28 PM report daily to identify cost inefficiencies
+- Review 8:22 PM report daily to identify cost inefficiencies
 
 ---
 

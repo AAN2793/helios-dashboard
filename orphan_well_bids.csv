@@ -1,0 +1,11 @@
+state,year,contract_id,contractor,county,num_wells,winning_bid,bid_per_well,date_awarded,source,notes
+PA,2022,PA-2022-001,TBD - DEP Awarded 13 Contracts,Various,227,25000000.0,110132.16,2022-08-25,PA DEP IIJA Report,Initial Grant - 13 contracts
+PA,2023,PA-2023-001,"DK Construction Services, LLC",Various,,420000.0,,2025-01-08,PA DGS Bids,Recent award
+PA,2023,PA-2023-002,"Fred L Burns, Inc.",Various,,402600.0,,2024-12-12,PA DGS Bids,Recent award
+PA,2024,PA-2024-FORMULA,Pending Awards,Various,0,76406474.0,,Pending,PA DEP IIJA,"Formula Grant 1 - $76.4M applied Dec 2023, awaiting approval"
+OH,2022,OH-2022-INIT,2 Construction Managers,Various,,22000000.0,,2022-10,Ohio River Valley Institute,Initial Grant - 2 CMs at $11M each over 4 years
+OH,2023,OH-2023-FORMULA,Various Contractors,Various,,57700000.0,,2023-07,Ohio Capital Journal,Phase 1 Formula Grant
+OH,2024,OH-2024-001,Various,Various,346,36808068.29,106381.41,2024,ODNR 2024 Annual Report,Traditional Program - 346 wells at $36.8M
+OH,2024,OH-2024-VINTON-4,TBD,Vinton,10,0.0,,Open Bid,CLEAT/ODNR,10 wells - Vinton County #4
+OH,2024,OH-2024-BELMONT-7,TBD,Belmont,4,0.0,,Open Bid,CLEAT/ODNR,4 wells - Belmont County #7
+OH,2024,OH-2024-MORROW-9,TBD,Morrow,3,0.0,,Open Bid,CLEAT/ODNR,3 wells - Morrow County

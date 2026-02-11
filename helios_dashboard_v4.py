@@ -967,11 +967,11 @@ with st.expander("PORTFOLIO HOLDINGS", expanded=True):
             'Symbol': st.column_config.TextColumn('SYMBOL', width='small'),
             'Qty': st.column_config.NumberColumn('QTY', width='small'),
             'Price': st.column_config.NumberColumn('PRICE', format='$%.2f', width='small'),
-            'Change': st.column_config.Number_column('CHG', format='%+.2f', width='small'),
+            'Change': st.column_config.NumberColumn('CHG', format='%+.2f', width='small'),
             'ROIC': st.column_config.TextColumn('ROIC', width='small'),
             'PE': st.column_config.TextColumn('P/E', width='small'),
             'Value': st.column_config.NumberColumn('VALUE', format='$%,.0f', width='medium'),
-            'Day P&L': st.column_config.Number_column('P&L', format='%+,.2f', width='small')
+            'Day P&L': st.column_config.NumberColumn('P&L', format='%+,.2f', width='small')
         }
     )
     
