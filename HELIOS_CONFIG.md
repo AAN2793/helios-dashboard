@@ -180,98 +180,72 @@ Override: Manual approval required
 
 ## Daily Reporting
 
-### Morning Brief (6:00 AM MST)
-**Powered by Grok + Sonnet**
+### Morning Brief (5:50 AM MST)
+**Tom scans at 5:40 AM, Helios creates posts**
 
-1. **Grok** scans:
-   - News headlines across major sources
-   - Twitter/X trending topics
-   - Market movements (if applicable)
-   - Breaking news alerts
+**Powered by Tom + MiniMax/Grok**
 
-2. **Sonnet** synthesizes into brief:
-   - Top 5 news stories
-   - 3 trending topics on X
-   - Actionable insights
-   - Relevant to Kos's interests
+1. **Tom** scans Twitter accounts:
+   - Breaking News: @wallstengine, @StockMKTNewz, @DeItaone, @OracleNYSE, @TheInsiderPaper
+   - Unusual Options: @unusual_whales, @CheddarFlow
+   - Stock Alerts: @AlertsAndNews, @PlayBookTrades
 
-3. **Delivery via Telegram:**
+2. **Helios** synthesizes into brief:
+   - Top breaking news items
+   - Unusual options activity
+   - Stock alerts and movers
+
+3. **Delivery via iMessage:**
    ```
-   🌅 MORNING BRIEF
+   MORNING BRIEF (5:50 AM)
    
-   📰 Top News:
-   1. [Headline + key detail]
-   2. [Headline + key detail]
-   3. [Headline + key detail]
-   4. [Headline + key detail]
-   5. [Headline + key detail]
+   Breaking News:
+   - [Top story from Tom scan]
+   - [Second story]
    
-   🔥 Trending on X:
-   - [Topic 1 + context]
-   - [Topic 2 + context]
-   - [Topic 3 + context]
+   Unusual Options:
+   - [Key activity]
    
-   💡 Actionable: [1-2 sentence insight]
+   Stock Alerts:
+   - [Key alerts]
    ```
 
 ---
 
-### Mid-Day Check (12:00 PM MST)
+### Mid-Day Check (11:22 AM MST)
+**Tom scans at 11:12 AM, Helios creates content**
 ```
-📊 Budget Status
-Spent: $X.XX / $2.80 target
-Tasks: XXX completed
-On track: Yes/No
+📊 MIDDAY UPDATE (11:22 AM)
+Tom Scan Results:
+- [News from 11:12 scan]
+- [Options activity]
+- [Alerts]
 ```
 
 ---
 
 ### Evening Report (8:22 PM MST)
-**Comprehensive Daily Summary**
-
+**Tom scans at 8:12 PM, Helios creates content + emails**
 ```
 📈 DAILY OPERATIONS REPORT
-Date: [Date]
-Report Time: 8:22 PM MST
+Tom Scan (8:12 PM):
+- [Evening news]
+- [After-hours activity]
 
-💰 SPENDING SUMMARY
-Daily Budget: $3.22
-Target: $2.80
-Actual Spend: $X.XX
-Status: [Under Budget / At Target / Over Budget / Cap Hit]
-
-📊 MODEL BREAKDOWN
-- MiniMax: XX% ($X.XX) - XXX tasks
-- Sonnet: XX% ($X.XX) - XXX tasks
-- Opus: XX% ($X.XX) - XXX tasks
-- Grok: XX% ($X.XX) - XXX tasks
-Total Tasks: XXX
-
-✅ KEY ACCOMPLISHMENTS TODAY
-• [Major task 1 - outcome]
-• [Major task 2 - outcome]
-• [Major task 3 - outcome]
-• [Major task 4 - outcome]
-• [Major task 5 - outcome]
-
-🔔 ALERTS & ISSUES
-• [Any warnings, errors, or notable events]
-• [Budget alerts if any]
-• [Failed tasks if any]
-
-📅 TOMORROW'S SCHEDULE
-• 6:00 AM - Morning brief
-• [Any scheduled tasks]
-• [Recurring automation]
-
-💬 Budget Adjustment?
-Current target: $2.80/day | Hard cap: $3.22/day
-Would you like to adjust tomorrow's budget?
-Reply: "Keep budget" or "Change to $X.XX"
+Email Check: Complete
+```
 
 ---
-Next reset: 5:00 AM MST
-Next report: 8:22 PM MST tomorrow
+
+## Weekend Schedule
+
+### Weekend Content (1:28 PM MST)
+**Tom scans at 1:18 PM, Helios creates posts**
+```
+WEEKEND UPDATE (1:28 PM)
+Tom Scan (1:18 PM):
+- [Weekend news]
+- [Key developments]
 ```
 
 ---
