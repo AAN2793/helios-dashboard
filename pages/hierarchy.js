@@ -74,8 +74,8 @@ const hierarchy = {
       updateFrequency: 'Awaiting API credits',
       categories: [
         { name: 'Breaking News', accounts: ['@wallstengine', '@StockMKTNewz', '@DeItaone', '@OracleNYSE', '@TheInsiderPaper'] },
-        { name: 'Unusual Options', accounts: ['@unusual_whales', '@CheddarFlow'] },
-        { name: 'Stock Alerts', accounts: ['@AlertsAndNews', '@PlayBookTrades'] }
+        { name: 'Unusual Options', accounts: ['@unusual_whales'] },
+        { name: 'Stock Alerts', accounts: ['@PlayBookTrades'] }
       ],
       tasks: ['Monitor Twitter accounts', 'Identify breaking news', 'Report findings to Helios', 'Fact-based reporting'],
       sources: ['TwitterAPI.io - Key: [Available in CREDENTIALS_NOTES.md]'],
