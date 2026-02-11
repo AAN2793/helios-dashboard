@@ -26,7 +26,7 @@ Skills define _how_ tools work. This file is for _your_ specifics — the stuff 
 
 - **StockTwits** - 26.5K followers (@AlertsAndNews)
 - **X/Twitter** - 6.4K followers (@AlertsAndNews)
-- **TwitterIO** - [PENDING - Kos to provide]
+- **TwitterAPI.io** - Pay-as-you-go, $0.15/1K tweets ($0.00015 per request)
 
 ## News Sources (Primary)
 
