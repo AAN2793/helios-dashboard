@@ -1,39 +1,46 @@
 # TOOLS.md - Local Notes
 
-Skills define _how_ tools work. This file is for _your_ specifics — the stuff that's unique to your setup.
+Skills define _how_ tools work. This file is for _your_ specifics — the stuff that is unique to your setup.
 
-## What Goes Here
+## Core Platform
 
-Things like:
+### OpenClaw
+- Agent framework for autonomous operation
+- Gateway runs on Braxton's Mac mini
+- Model: openrouter/minimax/minimax-m2.1 (default)
+- Channel: iMessage
 
-- Camera names and locations
-- SSH hosts and aliases
-- Preferred voices for TTS
-- Speaker/room names
-- Device nicknames
-- Anything environment-specific
+### GitHub
+- Repo: AAN2793/helios-dashboard
+- Hosted on: Vercel (helios-dashboard-beta.vercel.app)
 
-## Examples
+## AI Models (via OpenRouter)
 
-```markdown
-### Cameras
+- **MiniMax M2.1** - Default, fast/cheap tasks
+- **Sonnet 4** - Deeper reasoning when needed
+- **Opus 4** - Mission-critical or complex tasks
+- **Grok** - Twitter/X related tasks
+- **Perplexity** - News aggregation (subagent only)
 
-- living-room → Main area, 180° wide angle
-- front-door → Entrance, motion-triggered
+## Social Media Accounts (AlertsAndNews)
 
-### SSH
+- **StockTwits** - 26.5K followers (@AlertsAndNews)
+- **X/Twitter** - 6.4K followers (@AlertsAndNews)
+- **TwitterIO** - [PENDING - Kos to provide]
 
-- home-server → 192.168.1.100, user: admin
+## News Sources (Primary)
 
-### TTS
+- **Brave API** - Already configured, use for web search
+- **Bloomberg** - Market news, financial data
+- **Yahoo Finance** - Stock news, earnings, market data
+- **Reuters** - Breaking news
+- **CNBC** - Market updates
 
-- Preferred voice: "Nova" (warm, slightly British)
-- Default speaker: Kitchen HomePod
-```
+## Trading Tools
 
-## Why Separate?
-
-Skills are shared. Your setup is yours. Keeping them apart means you can update skills without losing your notes, and share skills without leaking your infrastructure.
+- **Benzinga** - News, alerts
+- **Trade Ideas** - Scanning, alerts
+- **OpenRouter** - Model routing (MiniMax, Sonnet, Opus, Grok)
 
 ---
 
