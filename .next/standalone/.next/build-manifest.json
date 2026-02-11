@@ -1,0 +1,132 @@
+{
+  "pages": {
+    "/": [
+      "static/chunks/2b538c7e7e60e628.js",
+      "static/chunks/49c75c2ed6206f46.js",
+      "static/chunks/da0ff8adaa6cce90.js",
+      "static/chunks/turbopack-ad42f79705aa67b2.js"
+    ],
+    "/_app": [
+      "static/chunks/be4df31bb6468775.js",
+      "static/chunks/49c75c2ed6206f46.js",
+      "static/chunks/da0ff8adaa6cce90.js",
+      "static/chunks/dfdaeee1a4029ba5.css",
+      "static/chunks/turbopack-8c64a53051d25a69.js"
+    ],
+    "/_error": [
+      "static/chunks/fa9d9e1fe6f93133.js",
+      "static/chunks/49c75c2ed6206f46.js",
+      "static/chunks/da0ff8adaa6cce90.js",
+      "static/chunks/turbopack-b3849600cc830748.js"
+    ],
+    "/activity": [
+      "static/chunks/ff1b19fcd94cbcc3.js",
+      "static/chunks/49c75c2ed6206f46.js",
+      "static/chunks/da0ff8adaa6cce90.js",
+      "static/chunks/turbopack-868bbfa68d716a62.js"
+    ],
+    "/completed": [
+      "static/chunks/7db1bbf0ba53aabe.js",
+      "static/chunks/49c75c2ed6206f46.js",
+      "static/chunks/da0ff8adaa6cce90.js",
+      "static/chunks/turbopack-c6e569863549535f.js"
+    ],
+    "/flight": [
+      "static/chunks/8785759d6a5b861a.js",
+      "static/chunks/49c75c2ed6206f46.js",
+      "static/chunks/da0ff8adaa6cce90.js",
+      "static/chunks/turbopack-da72eb8fece2eab8.js"
+    ],
+    "/future-tasks": [
+      "static/chunks/d59b2a18f3a4d17b.js",
+      "static/chunks/49c75c2ed6206f46.js",
+      "static/chunks/da0ff8adaa6cce90.js",
+      "static/chunks/turbopack-edc2a27409e48390.js"
+    ],
+    "/hierarchy": [
+      "static/chunks/2907fdce9947c706.js",
+      "static/chunks/49c75c2ed6206f46.js",
+      "static/chunks/da0ff8adaa6cce90.js",
+      "static/chunks/turbopack-ab7ee3152f16d5c7.js"
+    ],
+    "/ideas": [
+      "static/chunks/321c9d2b5225174d.js",
+      "static/chunks/49c75c2ed6206f46.js",
+      "static/chunks/da0ff8adaa6cce90.js",
+      "static/chunks/turbopack-bb11baeb54b4fc1a.js"
+    ],
+    "/market": [
+      "static/chunks/47931bb50e23559c.js",
+      "static/chunks/49c75c2ed6206f46.js",
+      "static/chunks/da0ff8adaa6cce90.js",
+      "static/chunks/turbopack-0e6bbf94dcf3114b.js"
+    ],
+    "/new-task": [
+      "static/chunks/e36fa7a5b67335a0.js",
+      "static/chunks/49c75c2ed6206f46.js",
+      "static/chunks/da0ff8adaa6cce90.js",
+      "static/chunks/turbopack-93feb3f77069a679.js"
+    ],
+    "/settings": [
+      "static/chunks/eb1ccf94d7c3ee30.js",
+      "static/chunks/49c75c2ed6206f46.js",
+      "static/chunks/da0ff8adaa6cce90.js",
+      "static/chunks/turbopack-500038ff5b0eb700.js"
+    ],
+    "/skills": [
+      "static/chunks/9402a9dd4df0bb1e.js",
+      "static/chunks/49c75c2ed6206f46.js",
+      "static/chunks/da0ff8adaa6cce90.js",
+      "static/chunks/turbopack-05ef01cc0f72fa69.js"
+    ],
+    "/skills/heartbeat": [
+      "static/chunks/9a631c71e7f73bbd.js",
+      "static/chunks/49c75c2ed6206f46.js",
+      "static/chunks/da0ff8adaa6cce90.js",
+      "static/chunks/turbopack-329edbb2b216ef53.js"
+    ],
+    "/skills/memory": [
+      "static/chunks/6d6887751b219908.js",
+      "static/chunks/49c75c2ed6206f46.js",
+      "static/chunks/da0ff8adaa6cce90.js",
+      "static/chunks/turbopack-9f910da86b0e0c85.js"
+    ],
+    "/skills/soul": [
+      "static/chunks/08dda36c0f7c4513.js",
+      "static/chunks/49c75c2ed6206f46.js",
+      "static/chunks/da0ff8adaa6cce90.js",
+      "static/chunks/turbopack-e654b0cbbc312558.js"
+    ],
+    "/social-posts": [
+      "static/chunks/f45b40266b41b5df.js",
+      "static/chunks/49c75c2ed6206f46.js",
+      "static/chunks/da0ff8adaa6cce90.js",
+      "static/chunks/turbopack-3d677a983f65c15b.js"
+    ],
+    "/tasks-in-progress": [
+      "static/chunks/8dd558f70a55e533.js",
+      "static/chunks/49c75c2ed6206f46.js",
+      "static/chunks/da0ff8adaa6cce90.js",
+      "static/chunks/turbopack-244f2208619e45e1.js"
+    ],
+    "/tools": [
+      "static/chunks/c68d80ff8a2b7073.js",
+      "static/chunks/49c75c2ed6206f46.js",
+      "static/chunks/da0ff8adaa6cce90.js",
+      "static/chunks/turbopack-67d62d69cda03962.js"
+    ],
+    "/wip": [
+      "static/chunks/b029f38d33e23bb8.js",
+      "static/chunks/49c75c2ed6206f46.js",
+      "static/chunks/da0ff8adaa6cce90.js",
+      "static/chunks/turbopack-8db027431c48025d.js"
+    ]
+  },
+  "devFiles": [],
+  "polyfillFiles": [],
+  "lowPriorityFiles": [
+    "static/EcmHO98Lg_JTXT5dfjIt8/_ssgManifest.js",
+    "static/EcmHO98Lg_JTXT5dfjIt8/_buildManifest.js"
+  ],
+  "rootMainFiles": []
+}

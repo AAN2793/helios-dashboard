@@ -1,0 +1,22 @@
+{
+  "name": "orphan-well-dashboard",
+  "version": "1.0.0",
+  "description": "Orphan Well Analysis Tool & Helios Dashboard",
+  "main": "api/index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "@tailwindcss/postcss": "latest"
+  },
+  "devDependencies": {
+    "autoprefixer": "latest",
+    "postcss": "latest",
+    "tailwindcss": "latest"
+  }
+}

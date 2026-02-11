@@ -1,0 +1,152 @@
+{
+  "version": 3,
+  "pages404": true,
+  "appType": "pages",
+  "caseSensitive": false,
+  "basePath": "",
+  "redirects": [
+    {
+      "source": "/:path+/",
+      "destination": "/:path+",
+      "internal": true,
+      "priority": true,
+      "statusCode": 308,
+      "regex": "^(?:/((?:[^/]+?)(?:/(?:[^/]+?))*))/$"
+    }
+  ],
+  "headers": [],
+  "rewrites": {
+    "beforeFiles": [],
+    "afterFiles": [],
+    "fallback": []
+  },
+  "dynamicRoutes": [],
+  "staticRoutes": [
+    {
+      "page": "/",
+      "regex": "^/(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/(?:/)?$"
+    },
+    {
+      "page": "/activity",
+      "regex": "^/activity(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/activity(?:/)?$"
+    },
+    {
+      "page": "/completed",
+      "regex": "^/completed(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/completed(?:/)?$"
+    },
+    {
+      "page": "/flight",
+      "regex": "^/flight(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/flight(?:/)?$"
+    },
+    {
+      "page": "/future-tasks",
+      "regex": "^/future\\-tasks(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/future\\-tasks(?:/)?$"
+    },
+    {
+      "page": "/hierarchy",
+      "regex": "^/hierarchy(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/hierarchy(?:/)?$"
+    },
+    {
+      "page": "/ideas",
+      "regex": "^/ideas(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/ideas(?:/)?$"
+    },
+    {
+      "page": "/market",
+      "regex": "^/market(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/market(?:/)?$"
+    },
+    {
+      "page": "/new-task",
+      "regex": "^/new\\-task(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/new\\-task(?:/)?$"
+    },
+    {
+      "page": "/settings",
+      "regex": "^/settings(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/settings(?:/)?$"
+    },
+    {
+      "page": "/skills",
+      "regex": "^/skills(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/skills(?:/)?$"
+    },
+    {
+      "page": "/skills/heartbeat",
+      "regex": "^/skills/heartbeat(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/skills/heartbeat(?:/)?$"
+    },
+    {
+      "page": "/skills/memory",
+      "regex": "^/skills/memory(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/skills/memory(?:/)?$"
+    },
+    {
+      "page": "/skills/soul",
+      "regex": "^/skills/soul(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/skills/soul(?:/)?$"
+    },
+    {
+      "page": "/social-posts",
+      "regex": "^/social\\-posts(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/social\\-posts(?:/)?$"
+    },
+    {
+      "page": "/tasks-in-progress",
+      "regex": "^/tasks\\-in\\-progress(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/tasks\\-in\\-progress(?:/)?$"
+    },
+    {
+      "page": "/tools",
+      "regex": "^/tools(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/tools(?:/)?$"
+    },
+    {
+      "page": "/wip",
+      "regex": "^/wip(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/wip(?:/)?$"
+    }
+  ],
+  "dataRoutes": [],
+  "rsc": {
+    "header": "rsc",
+    "varyHeader": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+    "prefetchHeader": "next-router-prefetch",
+    "didPostponeHeader": "x-nextjs-postponed",
+    "contentTypeHeader": "text/x-component",
+    "suffix": ".rsc",
+    "prefetchSegmentHeader": "next-router-segment-prefetch",
+    "prefetchSegmentSuffix": ".segment.rsc",
+    "prefetchSegmentDirSuffix": ".segments",
+    "clientParamParsing": false,
+    "dynamicRSCPrerender": false
+  },
+  "rewriteHeaders": {
+    "pathHeader": "x-nextjs-rewritten-path",
+    "queryHeader": "x-nextjs-rewritten-query"
+  }
+}
