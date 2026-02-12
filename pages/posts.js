@@ -7,30 +7,35 @@ export default function Posts() {
 
   const posts = [
     {
-      time: 'Evening - Feb 11, 2026',
+      time: 'Morning - Feb 12, 2026',
+      category: 'MARKET NEWS',
+      tickers: '$SPY $QQQ $DIA',
+      content: 'US stock futures dip after Wall Street rally stalls on rate concerns. Strong January jobs data pushed Treasury yields higher, weighing on equity valuations. Market pricing in fewer Fed cuts than previously expected.'
+    },
+    {
+      time: 'Morning - Feb 12, 2026',
+      category: 'MARKET NEWS',
+     BTC $ETH tickers: '$ $COIN',
+      content: 'Bitcoin stabilizes above $96,000 as crypto markets digest Trump administration crypto reserve comments. Regulators still hashing out framework for digital assets. Volatility expected near key resistance levels.'
+    },
+    {
+      time: 'Morning - Feb 12, 2026',
+      category: 'MARKET NEWS',
+      tickers: '$NVDA $AMD $INTC',
+      content: 'AI chip demand remains robust as enterprise spending accelerates. Nvidia continues to dominate data center GPU market with next-gen Blackwell chips shipping. AMD gaining traction in AI inference workloads.'
+    },
+    {
+      time: 'Morning - Feb 12, 2026',
+      category: 'MARKET NEWS',
+      tickers: '$AAPL $MSFT $GOOGL',
+      content: 'Big tech earnings season winding down with most reports exceeding modest expectations. Focus shifts to consumer spending trends and cloud growth acceleration. Subscription revenue remains steady.'
+    },
+    {
+      time: 'Morning - Feb 12, 2026',
+      category: 'MARKET NEWS',
       tickers: '$USO $CVX $XLE',
-      content: 'Energy — China has already purchased some of the Venezuelan crude sold by the United States government, Energy Secretary Chris Wright confirmed. The development highlights the shifting dynamics in global energy markets as U.S. sanctions reshape oil trade routes. China buying Venezuelan oil sold by US - sanctions reshaping global flows.'
+      content: 'Oil markets volatile on shifting global trade dynamics. China reallocating energy purchases amid changing relationships. Energy sector remains sensitive to geopolitical developments.'
     },
-    {
-      time: 'Evening - Feb 11, 2026',
-      tickers: '$BX $AI',
-      content: 'Tech — Blackstone Group has deepened its stake in Anthropic, raising its investment to approximately $1 billion at a valuation of roughly $350 billion. The move underscores continued institutional appetite for artificial intelligence assets despite valuation concerns. AI remains hot with big money despite the high prices.'
-    },
-    {
-      time: 'Evening - Feb 11, 2026',
-      tickers: '$META $AMZN $NVDA',
-      content: 'Global — The Vatican Bank\'s Catholic Values index reveals a distinctly tech-heavy portfolio. Top three holdings: Meta Platforms (META), Amazon (AMZN), and Nvidia (NVDA). Even the Vatican is buying the mega caps.'
-    },
-    {
-      time: 'Evening - Feb 11, 2026',
-      tickers: '$NCI',
-      content: 'Market Moves — Small-cap alert on $NCI, which surged over 100% after being flagged at $1.00s with a $1.50++ price target. Traders advised raising stops to $1.20 to capture further upside. Small cap runner catching fire - tight stops required.'
-    },
-    {
-      time: 'Evening - Feb 11, 2026',
-      tickers: '$META $AI',
-      content: 'Options Watch — Actor Alexander Skarsgard has confirmed that a viral advertisement featuring his likeness is authentic. The video, previously thought to be an AI-generated deepfake, was not produced by OpenAI. Deepfake concerns spreading as AI gets better at faking faces.'
-    }
   ]
 
   const copyToClipboard = (index, text) => {
@@ -47,14 +52,21 @@ export default function Posts() {
     <Layout title="Posts | Braxton Helios">
       <header className="mb-8">
         <h1 className="text-3xl font-bold text-orange-500">Posts</h1>
-        <p className="text-slate-400 mt-2">Copy/paste ready for X and StockTwits</p>
+        <p className="text-slate-400 mt-2">Market news posts - Copy/paste ready</p>
       </header>
+
+      <div className="mb-4 text-sm text-slate-400">
+        User does market moves. Helios does market news.
+      </div>
 
       <div className="grid gap-4">
         {posts.map((post, idx) => (
           <div key={idx} className="card p-4">
             <div className="flex justify-between items-start mb-2">
-              <span className="text-xs text-slate-500">{post.time}</span>
+              <div>
+                <span className="text-xs text-cyan-400 uppercase tracking-wide">{post.category}</span>
+                <span className="text-xs text-slate-500 ml-2">{post.time}</span>
+              </div>
               <button
                 onClick={() => copyToClipboard(idx, getFullText(post))}
                 className={`px-3 py-1 text-xs rounded transition-colors ${
