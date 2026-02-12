@@ -8,33 +8,39 @@ export default function Posts() {
   const posts = [
     {
       time: 'Morning - Feb 12, 2026',
-      category: 'MARKET NEWS',
-      tickers: '$SPY $QQQ $DIA',
-      content: 'US stock futures dip after Wall Street rally stalls on rate concerns. Strong January jobs data pushed Treasury yields higher, weighing on equity valuations. Market pricing in fewer Fed cuts than previously expected.'
+      category: 'TRENDING',
+      tickers: 'NVCR',
+      content: 'NVCR EXPLODES 30%+ overnight! FDA approves Optune Pax for locally advanced pancreatic cancer treatment. Major catalyst alert. Biotech magic at work.'
     },
     {
       time: 'Morning - Feb 12, 2026',
-      category: 'MARKET NEWS',
-      tickers: 'BTC ETH COIN',
-      content: 'Bitcoin stabilizes above $96,000 as crypto markets digest Trump administration crypto reserve comments. Regulators still hashing out framework for digital assets. Volatility expected near key resistance levels.'
+      category: 'TRENDING',
+      tickers: 'VKTX',
+      content: 'VKTX rips +9% after-hours. Oral obesity drug heading to Phase 3 trials this quarter. The obesity drug trade is not done. Viking charging forward.'
     },
     {
       time: 'Morning - Feb 12, 2026',
-      category: 'MARKET NEWS',
-      tickers: '$NVDA $AMD $INTC',
-      content: 'AI chip demand remains robust as enterprise spending accelerates. Nvidia continues to dominate data center GPU market with next-gen Blackwell chips shipping. AMD gaining traction in AI inference workloads.'
+      category: 'RETAIL SENTIMENT',
+      tickers: 'IGV',
+      content: 'IGV sees RECORD retail buying: $176 million last month alone. Thats 12x higher than January. Retail going all-in on the software dip despite being in a bear market.'
     },
     {
       time: 'Morning - Feb 12, 2026',
-      category: 'MARKET NEWS',
-      tickers: '$AAPL $MSFT $GOOGL',
-      content: 'Big tech earnings season winding down with most reports exceeding modest expectations. Focus shifts to consumer spending trends and cloud growth acceleration. Subscription revenue remains steady.'
+      category: 'RETAIL SENTIMENT',
+      tickers: 'AMZN',
+      content: 'Amazon is now the #1 most-purchased stock by RETAIL investors. Overtakes NVIDIA per The Kobeissi Letter. Post-earnings dip drawing buyers.'
     },
     {
       time: 'Morning - Feb 12, 2026',
-      category: 'MARKET NEWS',
-      tickers: '$USO $CVX $XLE',
-      content: 'Oil markets volatile on shifting global trade dynamics. China reallocating energy purchases amid changing relationships. Energy sector remains sensitive to geopolitical developments.'
+      category: 'TRENDING',
+      tickers: 'MU',
+      content: 'MU ripping +10%! Deutsche Bank raises PT to $500 (from $300). Samsung sees memory chip demand staying hot through 2026. Memory is the new oil.'
+    },
+    {
+      time: 'Morning - Feb 12, 2026',
+      category: 'TRENDING',
+      tickers: 'VRT',
+      content: 'VRT EXPLODES 25%+ on guidance beat. AI data center infrastructure play crushing it. Q1 guidance absolutely on fire. Pickaxe play for the AI gold rush.'
     },
   ]
 
