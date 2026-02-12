@@ -7,52 +7,52 @@ export default function Posts() {
 
   const posts = [
     {
-      time: '5:40 AM - Feb 12, 2026',
-      category: 'BREAKING',
-      tickers: 'NOTE',
-      content: 'FiscalNote $NOTE is moving into political prediction markets, launching a preview at PoliticalPredictions.com and signing an MOU with 365Prediction. Strategy discussion Feb 18 at 11AM ET.'
+      time: '11:13 AM - Feb 12, 2026',
+      category: 'FLASH CRASH',
+      tickers: 'SILVER',
+      content: 'Silver crashes 10% in less than 30 minutes. Major volatility event hitting precious metals. Quick move caught many off guard.'
     },
     {
-      time: '5:40 AM - Feb 12, 2026',
-      category: 'EARNINGS',
-      tickers: 'CROX',
-      content: 'Crocs Q4 BEAT: Revenue $958M (est $916M), EPS $2.29 (est $1.91). DTC sales +4.7% YoY. FY guidance raised. HEYDUDE still weak at -16.9%.'
-    },
-    {
-      time: '5:40 AM - Feb 12, 2026',
-      category: 'EARNINGS',
-      tickers: 'NBIS',
-      content: 'NebuData Q4 MIXED: Revenue $227M miss, EPS -$0.68 miss. But ARR now $1.25B, targeting $7-9B by YE26. Contracted power raised to 3+ GW.'
-    },
-    {
-      time: '5:40 AM - Feb 12, 2026',
-      category: 'UPGRADE',
-      tickers: 'SHOP',
-      content: 'MoffettNathanson upgrades Shopify to Buy, PT $150 from $122. Analyst: "Software wipeout on vibe coding fears hit SHOP despite not being a traditional software company."'
-    },
-    {
-      time: '5:40 AM - Feb 12, 2026',
-      category: 'SEMICONDUCTORS',
-      tickers: 'CXMT',
-      content: 'China\'s CXMT DRAM capacity plateauing at ~240k wafers/month, roughly half of SK Hynix. CXMT 1x DRAM yields 42% below competitors in 2024.'
-    },
-    {
-      time: '5:40 AM - Feb 12, 2026',
-      category: 'LABOR MARKET',
-      tickers: 'US ECON',
-      content: '26% of the 7.5 million unemployed Americans have been searching for work for more than 6 months, per Financial Times via @unusual_whales.'
-    },
-    {
-      time: '5:40 AM - Feb 12, 2026',
-      category: 'QUANTUM',
-      tickers: 'LEQT',
-      content: 'Unusual Whales hosting Infleqtion webinar at 12PM EST to discuss positioning for quantum computing investments. Quantum investing gaining traction.'
-    },
-    {
-      time: '5:40 AM - Feb 12, 2026',
+      time: '11:13 AM - Feb 12, 2026',
       category: 'TECH',
-      tickers: 'AI',
-      content: 'AI disruption continues reshaping tech landscape. "Vibe coding" fears driving software selloff. Selective buying in AI infrastructure plays.'
+      tickers: 'AAPL',
+      content: 'Apple $AAPL down 5% today. Tech weakness continues spreading across the sector. Market rotation away from mega-cap tech.'
+    },
+    {
+      time: '11:13 AM - Feb 12, 2026',
+      category: 'AI',
+      tickers: 'GOOGL',
+      content: 'Google $GOOGL updates Gemini 3 Deep Think to accelerate modern science, research and engineering. AI arms race intensifies.'
+    },
+    {
+      time: '11:13 AM - Feb 12, 2026',
+      category: 'AI',
+      tickers: 'MSFT AI',
+      content: 'Microsoft AI CEO Mustafa Suleyman: "Most white collar tasks fully automated by AI within 12-18 months." Major disruption ahead.'
+    },
+    {
+      time: '11:13 AM - Feb 12, 2026',
+      category: 'GEOPOLITICS',
+      tickers: 'RUBLE USD',
+      content: 'Russia considering return to dollar-based financial system per Kremlin memo. Economic partnership pitch to Trump administration.'
+    },
+    {
+      time: '11:13 AM - Feb 12, 2026',
+      category: 'MARKET',
+      tickers: 'DIA',
+      content: 'Dow below 50,000. Market sentiment turning cautious as major averages face resistance levels.'
+    },
+    {
+      time: '11:13 AM - Feb 12, 2026',
+      category: 'REAL ESTATE',
+      tickers: 'WALDORF',
+      content: 'Chinese owners of NYC iconic Waldorf Astoria preparing to sell. Just months after multibillion-dollar overhaul. Source: WSJ.'
+    },
+    {
+      time: '11:13 AM - Feb 12, 2026',
+      category: 'DEMOGRAPHICS',
+      tickers: 'GEN Z',
+      content: 'Gen Z and millennials swimming in student debt, may never own homes, but splurging on gut-healthy juices and rotisserie chickens. Source: WSJ.'
     },
   ]
 
