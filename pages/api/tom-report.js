@@ -2,9 +2,25 @@ import fs from 'fs'
 import path from 'path'
 
 export default function handler(req, res) {
-  const reportFile = '/Users/helios/.openclaw/workspace/twitter_tom_report.txt'
+  // Try to read from the data folder (synced from Tom)
+  const jsonFile = path.join(process.cwd(), 'data', 'tom-report.json')
 
   try {
+    if (fs.existsSync(jsonFile)) {
+      const jsonData = JSON.parse(fs.readFileSync(jsonFile, 'utf-8'))
+      return res.status(200).json(jsonData)
+    }
+    
+    // Fallback: try local report file
+    const reportFile = '/Users/helios/.openclaw/workspace/twitter_tom_report.txt'
+    if (!fs.existsSync(reportFile)) {
+      return res.status(200).json({
+        generated: new Date().toISOString(),
+        categories: {},
+        message: 'No Tom report available yet. Tom runs at 5:40 AM, 11:12 AM, 4:45 PM, 8:12 PM weekdays.'
+      })
+    }
+    
     const content = fs.readFileSync(reportFile, 'utf-8')
     const lines = content.split('\n')
     
