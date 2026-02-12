@@ -10,13 +10,13 @@ export default function Posts() {
       time: '5:40 AM - Feb 12, 2026',
       category: 'BREAKING',
       tickers: 'NOTE',
-      content: 'FiscalNote $NOTE is moving into political prediction markets, launching a preview at PoliticalPredictions.com and signing an MOU with 365Prediction to build out market design and backend tech. Strategy discussion Feb 18 at 11AM ET.'
+      content: 'FiscalNote $NOTE is moving into political prediction markets, launching a preview at PoliticalPredictions.com and signing an MOU with 365Prediction. Strategy discussion Feb 18 at 11AM ET.'
     },
     {
       time: '5:40 AM - Feb 12, 2026',
       category: 'EARNINGS',
       tickers: 'CROX',
-      content: 'Crocs Q4 BEAT: Revenue $958M (est $916M), EPS $2.29 (est $1.91). Crocs brand +0.8% YoY, HEYDUDE -16.9% YoY. FY guidance raised.'
+      content: 'Crocs Q4 BEAT: Revenue $958M (est $916M), EPS $2.29 (est $1.91). DTC sales +4.7% YoY. FY guidance raised. HEYDUDE still weak at -16.9%.'
     },
     {
       time: '5:40 AM - Feb 12, 2026',
@@ -32,9 +32,27 @@ export default function Posts() {
     },
     {
       time: '5:40 AM - Feb 12, 2026',
-      category: 'MACRO',
+      category: 'SEMICONDUCTORS',
+      tickers: 'CXMT',
+      content: 'China\'s CXMT DRAM capacity plateauing at ~240k wafers/month, roughly half of SK Hynix. CXMT 1x DRAM yields 42% below competitors in 2024.'
+    },
+    {
+      time: '5:40 AM - Feb 12, 2026',
+      category: 'LABOR MARKET',
       tickers: 'US ECON',
       content: '26% of the 7.5 million unemployed Americans have been searching for work for more than 6 months, per Financial Times via @unusual_whales.'
+    },
+    {
+      time: '5:40 AM - Feb 12, 2026',
+      category: 'QUANTUM',
+      tickers: 'LEQT',
+      content: 'Unusual Whales hosting Infleqtion webinar at 12PM EST to discuss positioning for quantum computing investments. Quantum investing gaining traction.'
+    },
+    {
+      time: '5:40 AM - Feb 12, 2026',
+      category: 'TECH',
+      tickers: 'AI',
+      content: 'AI disruption continues reshaping tech landscape. "Vibe coding" fears driving software selloff. Selective buying in AI infrastructure plays.'
     },
   ]
 
