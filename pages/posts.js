@@ -10,49 +10,49 @@ export default function Posts() {
       time: '11:13 AM - Feb 12, 2026',
       category: 'FLASH CRASH',
       tickers: 'SILVER',
-      content: 'Silver crashes 10% in less than 30 minutes. Major volatility event hitting precious metals. Quick move caught many off guard.'
+      content: 'Silver crashed 10% in less than 30 minutes, marking one of the fastest declines in precious metals this year. The flash crash overwhelmed buyers during thin liquidity hours and caught algo traders flatfooted. Silver miners including $SLV and $PAAS may face continued pressure if gold follows.'
     },
     {
       time: '11:13 AM - Feb 12, 2026',
       category: 'TECH',
       tickers: 'AAPL',
-      content: 'Apple $AAPL down 5% today. Tech weakness continues spreading across the sector. Market rotation away from mega-cap tech.'
+      content: 'Apple $AAPL dropped 5% today as tech weakness continues spreading across the sector. The move comes amid broader rotation away from mega-cap tech names as investors digest Fed signals and AI disruption concerns. Key support levels being tested.'
     },
     {
       time: '11:13 AM - Feb 12, 2026',
       category: 'AI',
       tickers: 'GOOGL',
-      content: 'Google $GOOGL updates Gemini 3 Deep Think to accelerate modern science, research and engineering. AI arms race intensifies.'
+      content: 'Google $GOOGL updated Gemini 3 Deep Think to accelerate modern science, research and engineering capabilities. The move signals continued AI arms race among tech giants. Investors watching closely for commercial applications and competitive positioning.'
     },
     {
       time: '11:13 AM - Feb 12, 2026',
       category: 'AI',
       tickers: 'MSFT AI',
-      content: 'Microsoft AI CEO Mustafa Suleyman: "Most white collar tasks fully automated by AI within 12-18 months." Major disruption ahead.'
+      content: 'Microsoft AI CEO Mustafa Suleyman warned most white collar tasks will be fully automated by AI within 12-18 months. The bold prediction highlights massive disruption ahead for professional services sectors. Labor markets may face significant restructuring.'
     },
     {
       time: '11:13 AM - Feb 12, 2026',
       category: 'GEOPOLITICS',
       tickers: 'RUBLE USD',
-      content: 'Russia considering return to dollar-based financial system per Kremlin memo. Economic partnership pitch to Trump administration.'
+      content: 'Russia considering return to dollar-based financial system per Kremlin memo, signaling potential economic partnership with Trump administration. The move would reverse years of de-dollarization efforts and could reshape global finance. Western officials remain skeptical but monitoring closely.'
     },
     {
       time: '11:13 AM - Feb 12, 2026',
       category: 'MARKET',
       tickers: 'DIA',
-      content: 'Dow below 50,000. Market sentiment turning cautious as major averages face resistance levels.'
+      content: 'Dow fell below 50,000 for the first time this week as market sentiment turns cautious. The psychological level breach signals growing investor uncertainty amid rate cut timing and geopolitical headlines. Key support being tested.'
     },
     {
       time: '11:13 AM - Feb 12, 2026',
       category: 'REAL ESTATE',
       tickers: 'WALDORF',
-      content: 'Chinese owners of NYC iconic Waldorf Astoria preparing to sell. Just months after multibillion-dollar overhaul. Source: WSJ.'
+      content: 'Chinese owners of NYC iconic Waldorf Astoria preparing to sell the property just months after its multibillion-dollar overhaul reopened. The sale could test the strength of luxury hotel markets and Chinese capital flows into US real estate. Source: WSJ.'
     },
     {
       time: '11:13 AM - Feb 12, 2026',
-      category: 'DEMOGRAPHICS',
+      category: 'CONSUMER',
       tickers: 'GEN Z',
-      content: 'Gen Z and millennials swimming in student debt, may never own homes, but splurging on gut-healthy juices and rotisserie chickens. Source: WSJ.'
+      content: 'Gen Z and millennials swimming in student debt may never own homes, yet splurging on gut-healthy juices and rotisserie chickens. The spending pattern highlights generational wealth divide and consumer sector opportunities. Food stocks benefiting from premium positioning.'
     },
   ]
 
