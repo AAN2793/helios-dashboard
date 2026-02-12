@@ -7,40 +7,34 @@ export default function Posts() {
 
   const posts = [
     {
-      time: '11:30 AM - Feb 12, 2026',
-      category: 'HEDGE FUNDS',
-      tickers: 'SOFTWARE',
-      content: 'Hedge funds made $24 billion shorting software stocks in 2026 so far, and they are increasing the bet, per CNBC. Software wipeout continues.'
+      time: '5:40 AM - Feb 12, 2026',
+      category: 'BREAKING',
+      tickers: 'NOTE',
+      content: 'FiscalNote $NOTE is moving into political prediction markets, launching a preview at PoliticalPredictions.com and signing an MOU with 365Prediction to build out market design and backend tech. Strategy discussion Feb 18 at 11AM ET.'
     },
     {
-      time: '11:30 AM - Feb 12, 2026',
-      category: 'SECTOR',
-      tickers: 'XLE',
-      content: 'Energy entering rotational bull market, BofA says. XLE ETF outperformed S&P 500 by 13% in January. Mid-cap energy names (DVN, CTRA, OVV, CRC) more attractive than large-cap.'
+      time: '5:40 AM - Feb 12, 2026',
+      category: 'EARNINGS',
+      tickers: 'CROX',
+      content: 'Crocs Q4 BEAT: Revenue $958M (est $916M), EPS $2.29 (est $1.91). Crocs brand +0.8% YoY, HEYDUDE -16.9% YoY. FY guidance raised.'
     },
     {
-      time: '11:30 AM - Feb 12, 2026',
-      category: 'AI',
-      tickers: 'MSFT AI',
-      content: 'Microsoft AI CEO Mustafa Suleyman: Most accountant, lawyer and professional tasks fully automated by AI within 12-18 months. Major disruption ahead.'
+      time: '5:40 AM - Feb 12, 2026',
+      category: 'EARNINGS',
+      tickers: 'NBIS',
+      content: 'NebuData Q4 MIXED: Revenue $227M miss, EPS -$0.68 miss. But ARR now $1.25B, targeting $7-9B by YE26. Contracted power raised to 3+ GW.'
     },
     {
-      time: '11:30 AM - Feb 12, 2026',
-      category: 'CRYPTO',
-      tickers: 'BTC ETH',
-      content: 'Bitcoin down 50% from October highs. Wolfe Research warns average 75% drawdowns in past cycles could push BTC to $30K. Standard Chartered cuts target to $100K.'
+      time: '5:40 AM - Feb 12, 2026',
+      category: 'UPGRADE',
+      tickers: 'SHOP',
+      content: 'MoffettNathanson upgrades Shopify to Buy, PT $150 from $122. Analyst: "Software wipeout on vibe coding fears hit SHOP despite not being a traditional software company."'
     },
     {
-      time: '11:30 AM - Feb 12, 2026',
+      time: '5:40 AM - Feb 12, 2026',
       category: 'MACRO',
-      tickers: 'HOUSING',
-      content: 'US Existing Home Sales -8.4% to 3.91M rate (est 4.15M). Median home price +0.9% YoY to $396,800. Housing market continues to slow.'
-    },
-    {
-      time: '11:30 AM - Feb 12, 2026',
-      category: 'AUTONOMOUS',
-      tickers: 'GOOGL WAYMO',
-      content: 'Waymo targets 1 million weekly rides by 2026, up from 400K now. Planning 20+ city expansions this year. International launch in London, Tokyo next.'
+      tickers: 'US ECON',
+      content: '26% of the 7.5 million unemployed Americans have been searching for work for more than 6 months, per Financial Times via @unusual_whales.'
     },
   ]
 
