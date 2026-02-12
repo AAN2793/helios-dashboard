@@ -7,52 +7,40 @@ export default function Posts() {
 
   const posts = [
     {
-      time: '11:13 AM - Feb 12, 2026',
-      category: 'FLASH CRASH',
-      tickers: 'SILVER',
-      content: 'Silver crashed 10% in less than 30 minutes, marking one of the fastest declines in precious metals this year. The flash crash overwhelmed buyers during thin liquidity hours and caught algo traders flatfooted. Silver miners including $SLV and $PAAS may face continued pressure if gold follows.'
-    },
-    {
-      time: '11:13 AM - Feb 12, 2026',
+      time: '4:45 PM - Feb 12, 2026',
       category: 'TECH',
       tickers: 'AAPL',
-      content: 'Apple $AAPL dropped 5% today as tech weakness continues spreading across the sector. The move comes amid broader rotation away from mega-cap tech names as investors digest Fed signals and AI disruption concerns. Key support levels being tested.'
+      content: 'Apple $AAPL suffered its worst single-day decline since April 2025, leading tech sector retreat. The slump reflects growing concerns about consumer spending in premium electronics. Tech names broadly under pressure as investors rotate away from mega-cap growth.'
     },
     {
-      time: '11:13 AM - Feb 12, 2026',
-      category: 'AI',
-      tickers: 'GOOGL',
-      content: 'Google $GOOGL updated Gemini 3 Deep Think to accelerate modern science, research and engineering capabilities. The move signals continued AI arms race among tech giants. Investors watching closely for commercial applications and competitive positioning.'
+      time: '4:45 PM - Feb 12, 2026',
+      category: 'INSTITUTIONAL',
+      tickers: 'FISHER',
+      content: 'Fisher Investments ($298.7B AUM) filed Q4 portfolio updates, maintaining diversified equity exposure with notable shifts in technology and healthcare sectors. Big money continues repositioning for 2026 market conditions.'
     },
     {
-      time: '11:13 AM - Feb 12, 2026',
-      category: 'AI',
-      tickers: 'MSFT AI',
-      content: 'Microsoft AI CEO Mustafa Suleyman warned most white collar tasks will be fully automated by AI within 12-18 months. The bold prediction highlights massive disruption ahead for professional services sectors. Labor markets may face significant restructuring.'
+      time: '4:45 PM - Feb 12, 2026',
+      category: 'INSTITUTIONAL',
+      tickers: 'SOUND SHORE',
+      content: 'Sound Shore Management ($3.1B AUM) realigned positions, increasing cash positions while selectively adding to quality growth names. Institutional caution evident as money managers hedge near-term uncertainty.'
     },
     {
-      time: '11:13 AM - Feb 12, 2026',
-      category: 'GEOPOLITICS',
-      tickers: 'RUBLE USD',
-      content: 'Russia considering return to dollar-based financial system per Kremlin memo, signaling potential economic partnership with Trump administration. The move would reverse years of de-dollarization efforts and could reshape global finance. Western officials remain skeptical but monitoring closely.'
+      time: '4:45 PM - Feb 12, 2026',
+      category: 'INSTITUTIONAL',
+      tickers: 'EGERTON',
+      content: 'Egerton Capital ($9.2B AUM) under John Armitage made targeted adjustments to its long-short equity book. Active managers positioning defensively while maintaining quality exposure.'
     },
     {
-      time: '11:13 AM - Feb 12, 2026',
-      category: 'MARKET',
-      tickers: 'DIA',
-      content: 'Dow fell below 50,000 for the first time this week as market sentiment turns cautious. The psychological level breach signals growing investor uncertainty amid rate cut timing and geopolitical headlines. Key support being tested.'
+      time: '4:45 PM - Feb 12, 2026',
+      category: 'POLITICS',
+      tickers: 'GABBARD KUSHNER',
+      content: 'Whistleblower complaint emerged involving Tulsi Gabbard and Jared Kushner. Classified complaint filed with intelligence inspectors general contains allegations related to foreign conversation intercepted last spring. Congressional committees reviewing.'
     },
     {
-      time: '11:13 AM - Feb 12, 2026',
-      category: 'REAL ESTATE',
-      tickers: 'WALDORF',
-      content: 'Chinese owners of NYC iconic Waldorf Astoria preparing to sell the property just months after its multibillion-dollar overhaul reopened. The sale could test the strength of luxury hotel markets and Chinese capital flows into US real estate. Source: WSJ.'
-    },
-    {
-      time: '11:13 AM - Feb 12, 2026',
-      category: 'CONSUMER',
-      tickers: 'GEN Z',
-      content: 'Gen Z and millennials swimming in student debt may never own homes, yet splurging on gut-healthy juices and rotisserie chickens. The spending pattern highlights generational wealth divide and consumer sector opportunities. Food stocks benefiting from premium positioning.'
+      time: '4:45 PM - Feb 12, 2026',
+      category: 'OPTIONS',
+      tickers: 'SEMIS SOFTWARE',
+      content: 'Elevated put volumes in semiconductor and software names suggest increased hedging behavior. Options market indicating institutional concern about near-term downside in tech sectors.'
     },
   ]
 
