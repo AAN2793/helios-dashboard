@@ -1,0 +1,43 @@
+{
+  "generated": "2026-02-12 06:40",
+  "updated": "2026-02-12T13:40:00.000Z",
+  "categories": {
+    "Breaking News": [
+      {
+        "text": "FiscalNote $NOTE is moving into political prediction markets, launching a preview at PoliticalPredictions.com",
+        "id": "12345",
+        "created_at": "2026-02-12 05:28:27",
+        "author": "wallstengine",
+        "retweet_count": 1,
+        "like_count": 7
+      },
+      {
+        "text": "$CROX Q4'25 EARNINGS: Revenue $958M (Est $916M), EPS $2.29 (Est $1.91)",
+        "id": "12346",
+        "created_at": "2026-02-12 05:18:58",
+        "author": "wallstengine",
+        "retweet_count": 5,
+        "like_count": 27
+      },
+      {
+        "text": "MoffettNathanson Upgrades $SHOP to Buy, PT to $150 from $122",
+        "id": "12347",
+        "created_at": "2026-02-12 04:45:31",
+        "author": "wallstengine",
+        "retweet_count": 2,
+        "like_count": 23
+      }
+    ],
+    "Unusual Options": [
+      {
+        "text": "26% of the 7.5 million unemployed in the US have been looking for work for more than 6 months",
+        "id": "12348",
+        "created_at": "2026-02-12 05:17:00",
+        "author": "unusual_whales",
+        "retweet_count": 32,
+        "like_count": 175
+      }
+    ],
+    "Stock Alerts": []
+  }
+}
