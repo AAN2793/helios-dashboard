@@ -7,40 +7,34 @@ export default function Posts() {
 
   const posts = [
     {
-      time: 'Morning - Feb 12, 2026',
-      category: 'TRENDING',
-      tickers: 'NVCR',
-      content: 'NVCR EXPLODES 30%+ overnight! FDA approves Optune Pax for locally advanced pancreatic cancer treatment. Major catalyst alert. Biotech magic at work.'
+      time: '5:41 AM - Feb 12, 2026',
+      category: 'BREAKING',
+      tickers: 'NOTE',
+      content: 'FiscalNote $NOTE is moving into political prediction markets, launching a preview at PoliticalPredictions.com and signing an MOU with 365Prediction to build out market design and backend tech. Strategy discussion Feb 18 at 11AM ET.'
     },
     {
-      time: 'Morning - Feb 12, 2026',
-      category: 'TRENDING',
-      tickers: 'VKTX',
-      content: 'VKTX rips +9% after-hours. Oral obesity drug heading to Phase 3 trials this quarter. The obesity drug trade is not done. Viking charging forward.'
+      time: '5:41 AM - Feb 12, 2026',
+      category: 'EARNINGS',
+      tickers: 'CROX',
+      content: 'Crocs Q4 BEAT: Revenue $958M (est $916M), EPS $2.29 (est $1.91). Crocs brand +0.8% YoY, HEYDUDE -16.9% YoY. FY guidance raised.'
     },
     {
-      time: 'Morning - Feb 12, 2026',
-      category: 'RETAIL SENTIMENT',
-      tickers: 'IGV',
-      content: 'IGV sees RECORD retail buying: $176 million last month alone. Thats 12x higher than January. Retail going all-in on the software dip despite being in a bear market.'
+      time: '5:41 AM - Feb 12, 2026',
+      category: 'EARNINGS',
+      tickers: 'NBIS',
+      content: 'NebuData Q4 MIXED: Revenue $227M miss, EPS -$0.68 miss. But ARR now $1.25B, targeting $7-9B by YE26. Contracted power raised to 3+ GW.'
     },
     {
-      time: 'Morning - Feb 12, 2026',
-      category: 'RETAIL SENTIMENT',
-      tickers: 'AMZN',
-      content: 'Amazon is now the #1 most-purchased stock by RETAIL investors. Overtakes NVIDIA per The Kobeissi Letter. Post-earnings dip drawing buyers.'
+      time: '5:41 AM - Feb 12, 2026',
+      category: 'UPGRADE',
+      tickers: 'SHOP',
+      content: 'MoffettNathanson upgrades Shopify to Buy, PT $150 from $122. Analyst: "Software wipeout on vibe coding fears hit SHOP despite not being a traditional software company."'
     },
     {
-      time: 'Morning - Feb 12, 2026',
-      category: 'TRENDING',
-      tickers: 'MU',
-      content: 'MU ripping +10%! Deutsche Bank raises PT to $500 (from $300). Samsung sees memory chip demand staying hot through 2026. Memory is the new oil.'
-    },
-    {
-      time: 'Morning - Feb 12, 2026',
-      category: 'TRENDING',
-      tickers: 'VRT',
-      content: 'VRT EXPLODES 25%+ on guidance beat. AI data center infrastructure play crushing it. Q1 guidance absolutely on fire. Pickaxe play for the AI gold rush.'
+      time: '5:41 AM - Feb 12, 2026',
+      category: 'MACRO',
+      tickers: 'US ECON',
+      content: '26% of the 7.5 million unemployed Americans have been searching for work for more than 6 months, per Financial Times via @unusual_whales.'
     },
   ]
 
