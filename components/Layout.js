@@ -35,6 +35,7 @@ export default function Layout({ children, title = 'Braxton Helios' }) {
   const navItems = [
     { name: 'Dashboard', path: '/', emoji: '◈' },
     { name: 'Hierarchy', path: '/hierarchy', emoji: '◎' },
+    { name: 'Posts', path: '/posts', emoji: '◉' },
     { name: 'Tasks', path: '/tasks', emoji: '○' },
     { name: 'Tools', path: '/tools', emoji: '◇' },
     { name: 'Settings', path: '/settings', emoji: '◇' },
