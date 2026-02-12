@@ -15,7 +15,7 @@ export default function Posts() {
     {
       time: 'Morning - Feb 12, 2026',
       category: 'MARKET NEWS',
-     BTC $ETH tickers: '$ $COIN',
+      tickers: '$BTC $ETH $COIN',
       content: 'Bitcoin stabilizes above $96,000 as crypto markets digest Trump administration crypto reserve comments. Regulators still hashing out framework for digital assets. Volatility expected near key resistance levels.'
     },
     {
