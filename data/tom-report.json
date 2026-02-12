@@ -1,369 +1,89 @@
 {
-  "generated": "2026-02-12 11:13",
-  "updated": "2026-02-12T11:13:24.408653",
+  "generated": "2026-02-12 16:46",
+  "updated": "2026-02-12T16:46:02.598955",
   "categories": {
     "Breaking News": [
       {
-        "text": "SILVER CRASHES 10% IN LESS THAN 30MINS https://t.co/ZngVVXRNys",
-        "id": "2021985434528870704",
-        "created_at": " hu Feb 12 16:31:08",
-        "author": "wallstengine",
-        "retweet_count": 27,
-        "like_count": 171
-      },
-      {
-        "text": "Apple $AAPL stock is down by 5% so far today \n\n\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 https://t.co/iDuhJNYTdc",
-        "id": "2022008030582501621",
-        "created_at": " hu Feb 12 18:00:56",
+        "text": "Here\u2019s how the \ud83c\uddfa\ud83c\uddf8 stock market performed today \n\nThis is what Apple\u2019s worst day since April 2025 looks like \n\n\ud83d\udd34\ud83d\udd34 https://t.co/T10bU8dxIK",
+        "id": "2022093384073224313",
+        "created_at": " hu Feb 12 23:40:06",
         "author": "StockMKTNewz",
-        "retweet_count": 1,
-        "like_count": 37
-      },
-      {
-        "text": "The Chinese \ud83c\udde8\ud83c\uddf3 owners of the famed Waldorf Astoria in New York City \ud83c\udf4e are preparing to put the hotel up for sale, only months after it reopened following a multibillion-dollar, much-delayed overhaul - WSJ https://t.co/VKZSydVcTP",
-        "id": "2022007470068314504",
-        "created_at": " hu Feb 12 17:58:42",
-        "author": "StockMKTNewz",
-        "retweet_count": 4,
-        "like_count": 33
-      },
-      {
-        "text": "People who have a credit score over 800 https://t.co/UcEjg4lARp",
-        "id": "2022002889536024817",
-        "created_at": " hu Feb 12 17:40:30",
-        "author": "StockMKTNewz",
-        "retweet_count": 8,
-        "like_count": 102
-      },
-      {
-        "text": "Google $GOOGL just posted this:\n\n\u201cToday, we updated Gemini 3 Deep Think to further accelerate modern science, research and engineering.\u201d\n\n https://t.co/gyqcsM44MT",
-        "id": "2021989782226972925",
-        "created_at": " hu Feb 12 16:48:25",
-        "author": "StockMKTNewz",
-        "retweet_count": 22,
-        "like_count": 193
-      },
-      {
-        "text": "Here's how many cars Ferrari $RACE has sold every year since 1947 https://t.co/2OSP2n3E0P",
-        "id": "2021986421389897878",
-        "created_at": " hu Feb 12 16:35:04",
-        "author": "StockMKTNewz",
-        "retweet_count": 13,
-        "like_count": 59
-      },
-      {
-        "text": "S&amp;P 500 BANKS INDEX HITS TWO-WEEK LOW, LAST DOWN 3.5%",
-        "id": "2022010567461155067",
-        "created_at": " hu Feb 12 18:11:01",
-        "author": "DeItaone",
         "retweet_count": 2,
-        "like_count": 25
+        "like_count": 15
       },
       {
-        "text": "$AAPL - APPLE SHARES FALL 5%, ON TRACK FOR BIGGEST ONE-DAY DROP SINCE APRIL 2025",
-        "id": "2022009690457354349",
-        "created_at": " hu Feb 12 18:07:31",
-        "author": "DeItaone",
-        "retweet_count": 5,
-        "like_count": 53
-      },
-      {
-        "text": "*US 30Y BONDS DRAW 4.750% VS 4.771% PRE-SALE WHEN-ISSUED YIELD",
-        "id": "2022008497664405753",
-        "created_at": " hu Feb 12 18:02:47",
-        "author": "DeItaone",
-        "retweet_count": 7,
-        "like_count": 41
-      },
-      {
-        "text": "CPI REPORT COULD JOLT STOCKS, JPMORGAN WARNS\n\nU.S. stocks could swing sharply after Friday\u2019s CPI report, according to JPMorgan\u2019s trading desk. Economists expect core inflation to rise about 0.3% in January (2.5% year over year), while JPMorgan forecasts a hotter 0.39% monthly gain.\n\nThe bank sees a 42.5% chance of a 0.35%\u20130.4% reading, which could lift the S&P 500 by 0.25%\u20130.75%. But a print above 0.45%\u2014a 5% probability\u2014could trigger a 1.25%\u20132.5% drop.\n\nJPMorgan says a hawkish surprise is more likely than a soft one, though it expects limited market reaction to a stagflation-style reading.",
-        "id": "2022002756949602567",
-        "created_at": " hu Feb 12 17:39:58",
-        "author": "DeItaone",
-        "retweet_count": 41,
-        "like_count": 191
-      },
-      {
-        "text": "CBOE VOLATILITY INDEX AT ALMOST ONE-WEEK HIGH; LAST UP 2.48 POINTS AT 20.05",
-        "id": "2021998837699948997",
-        "created_at": " hu Feb 12 17:24:24",
-        "author": "DeItaone",
-        "retweet_count": 8,
-        "like_count": 70
-      },
-      {
-        "text": "BITCOIN CRASH BATTERS EL SALVADOR, IMPERILS IMF DEAL\n\nBitcoin\u2019s plunge has slashed the value of El Salvador\u2019s holdings by roughly $300 million, exposing the risks of President Bukele\u2019s crypto bet and shaking the country\u2019s debt markets.\n\nDespite the losses, Bukele keeps buying Bitcoin, alarming investors and complicating talks over a $1.4 billion IMF loan. Credit risk has jumped, bonds have swung, and analysts warn that continued crypto purchases and delayed pension reforms could derail IMF support \u2014 a key pillar for El Salvador\u2019s finances.\n\nWith major debt payments looming, Bukele\u2019s Bitcoin gamble is now colliding head-on with the country\u2019s fiscal stability.",
-        "id": "2021998418994847759",
-        "created_at": " hu Feb 12 17:22:44",
-        "author": "DeItaone",
-        "retweet_count": 87,
-        "like_count": 414
-      },
-      {
-        "text": "UBS: S&P 500 TO HIT 7,700 BY YEAR-END\n\nUBS Wealth Management expects the S&P 500 to climb to 7,700 by year-end\u2014about 12% above current levels\u2014driven by Fed easing, solid economic growth, and continued AI momentum.\n\nWhile bullish on 2026, UBS says markets may see near-term volatility after a strong start to the year. Tech earnings remain strong, but investor expectations are higher and some major names have stumbled post-earnings. AI is still powering big tech profits, though spending and return on investment are under closer scrutiny.\n\nUBS advises investors to look beyond the \u201cMagnificent Seven\u201d and position for a broader rally, favoring sectors such as Financials, Healthcare, and Utilities. A diversified portfolio, the firm argues, offers the best balance of upside participation and downside protection.",
-        "id": "2021996094398304767",
-        "created_at": " hu Feb 12 17:13:30",
-        "author": "DeItaone",
-        "retweet_count": 24,
-        "like_count": 164
-      },
-      {
-        "text": "NETANYAHU: I EXPRESSED GENERAL SKEPTICISM ABOUT THE QUALITY OF ANY AGREEMENT WITH IRAN",
-        "id": "2021992054432350486",
-        "created_at": " hu Feb 12 16:57:27",
-        "author": "DeItaone",
-        "retweet_count": 14,
-        "like_count": 158
-      },
-      {
-        "text": "ISRAEL'S NETANYAHU: CONDITIONS CREATED BY TRUMP MAY CREATE CIRCUMSTANCES FOR ACHIEVING A GOOD DEAL WITH IRAN",
-        "id": "2021991978599403861",
-        "created_at": " hu Feb 12 16:57:09",
-        "author": "DeItaone",
-        "retweet_count": 26,
-        "like_count": 214
-      },
-      {
-        "text": "HIGH-INCOME AMERICANS START FALLING BEHIND ON PAYMENTS\n\nFinancial stress is spreading beyond low-income households, with higher earners now struggling to keep up with debt. Credit-counseling agencies report that the average client earns $70,000 a year and carries $35,000 in unsecured debt\u2014double the pre-pandemic ratio.\n\nMore borrowers are missing payments even on structured repayment plans, pushing the NFCC\u2019s financial stress gauge to record highs. Federal data show U.S. household delinquencies at 4.8%, the highest since 2017, with serious credit-card and auto loan delinquencies near post-2009 levels.\n\nCounselors warn that many households rely on revolving credit as a lifeline, masking deeper financial fragility. When buffers run out, stress spikes sharply.",
-        "id": "2021990504271958498",
-        "created_at": " hu Feb 12 16:51:17",
-        "author": "DeItaone",
-        "retweet_count": 159,
-        "like_count": 746
-      },
-      {
-        "text": "NETANYAHU SAYS HE REMAINS SKEPTICAL ABOUT DEAL WITH IRAN: AXIOS",
-        "id": "2021990390761750781",
-        "created_at": " hu Feb 12 16:50:50",
-        "author": "DeItaone",
-        "retweet_count": 11,
-        "like_count": 100
-      },
-      {
-        "text": "SPOT SILVER  FALLS OVER 10% TO $ 75.47/OZ",
-        "id": "2021990259685511309",
-        "created_at": " hu Feb 12 16:50:19",
-        "author": "DeItaone",
-        "retweet_count": 17,
-        "like_count": 191
-      },
-      {
-        "text": "\ud83d\udea8 NETANYAHU SAYS TRUMP MAY REACH GOOD DEAL WITH IRAN: AXIOS",
-        "id": "2021989950825394313",
-        "created_at": " hu Feb 12 16:49:05",
-        "author": "DeItaone",
-        "retweet_count": 47,
-        "like_count": 546
-      },
-      {
-        "text": "CME GROUP TO APPROVE WAREHOUSES FOR ALUMINIUM STORAGE IN TAIWAN AND HONG KONG, SOURCES SAY",
-        "id": "2021989123930886432",
-        "created_at": " hu Feb 12 16:45:48",
-        "author": "DeItaone",
-        "retweet_count": 14,
-        "like_count": 129
-      },
-      {
-        "text": "CORPORATE BOND RALLY SPARKS \u2018BUBBLE\u2019 FEARS\n\nA surge in corporate bonds has pushed yields on risky debt to historic lows, fueling concerns of bubble-like behavior. Strong demand, driven by expectations of a hot U.S. economy, has sent spreads on top-rated U.S. and European firms to pre-2008 lows, while riskier debt offers minimal extra return.\n\nTech giants like Alphabet and Oracle are capitalizing with large bond sales, but some investors are cautious. Phoenix Group, for example, has trimmed corporate holdings, shifted to safer bonds, and moved up in quality to guard against a sudden market repricing.",
-        "id": "2021986699648041058",
-        "created_at": " hu Feb 12 16:36:10",
-        "author": "DeItaone",
-        "retweet_count": 33,
-        "like_count": 214
-      },
-      {
-        "text": "SPOT SILVER  EXTENDS DECLINE, LAST DOWN 9% AT $76.13/OZ",
-        "id": "2021984474192654533",
-        "created_at": " hu Feb 12 16:27:19",
-        "author": "DeItaone",
-        "retweet_count": 31,
-        "like_count": 242
-      },
-      {
-        "text": "WHO REALLY PAYS FOR U.S. TARIFFS? - NY FED\n\nIn 2025, U.S. tariffs soared from 2.6% to 13%, but nearly 90% of the cost hit American consumers and businesses\u2014not foreign exporters. Sharp hikes on Chinese goods in April and May pushed importers toward Mexico and Vietnam, but most exporters didn\u2019t lower prices, passing the burden straight to U.S. buyers. By year\u2019s end, import prices for tariffed goods were up 11%, forcing firms to shift supply chains and leaving Americans footing the bill.",
-        "id": "2021982883305365973",
-        "created_at": " hu Feb 12 16:21:00",
-        "author": "DeItaone",
-        "retweet_count": 63,
-        "like_count": 232
-      },
-      {
-        "text": "SPOT GOLD  EXTENDS FALL, LAST DOWN OVER 3% AT $4,913.69/OZ",
-        "id": "2021982604095107222",
-        "created_at": " hu Feb 12 16:19:54",
-        "author": "DeItaone",
-        "retweet_count": 13,
-        "like_count": 146
-      },
-      {
-        "text": "SPOT SILVER  FALLS OVER 7% TO $77.80/OZ",
-        "id": "2021982304735048021",
-        "created_at": " hu Feb 12 16:18:42",
-        "author": "DeItaone",
-        "retweet_count": 22,
-        "like_count": 200
-      },
-      {
-        "text": "SPOT GOLD  FALLS OVER 2% TO $4,938.66/OZ",
-        "id": "2021981854543257999",
-        "created_at": " hu Feb 12 16:16:55",
-        "author": "DeItaone",
-        "retweet_count": 17,
-        "like_count": 174
-      },
-      {
-        "text": "$WYFI \n\nOpen AI: Codex Powered by Cerebras",
-        "id": "2022010194952368408",
-        "created_at": " hu Feb 12 18:09:32",
-        "author": "OracleNYSE",
-        "retweet_count": 1,
-        "like_count": 1
-      },
-      {
-        "text": "$DOCU \n\nFree Docusign platform clone has surfaced on github",
-        "id": "2022003455511212302",
-        "created_at": " hu Feb 12 17:42:45",
-        "author": "OracleNYSE",
+        "text": "Apple $AAPL stock just had its worst day since April 2025",
+        "id": "2022079665452757350",
+        "created_at": " hu Feb 12 22:45:35",
+        "author": "StockMKTNewz",
         "retweet_count": 2,
-        "like_count": 1
+        "like_count": 55
       },
       {
-        "text": "$LVO $WMT partnership speculation\n\nKeys: Sounds like LiveOne has a deal in the works with Walmart tied to its Walmart Plus service",
-        "id": "2021989009967526316",
-        "created_at": " hu Feb 12 16:45:21",
-        "author": "OracleNYSE",
-        "retweet_count": 0,
-        "like_count": 2
+        "text": "KEN FISHER AND FISHER ASSET MANAGEMENT JUST UPDATED THEIR $298.7 BILLION PORTFOLIO\n\nHere is their 100 largest holdings as of the end of Q4 (December 31st) https://t.co/da6apBTqnW",
+        "id": "2022072940834304145",
+        "created_at": " hu Feb 12 22:18:52",
+        "author": "StockMKTNewz",
+        "retweet_count": 9,
+        "like_count": 77
       },
       {
-        "text": "$PTC Google gemini encroaches on turf\n\nDeep Think analyzes the drawing, builds the complex shape, and generates a file so you can create the physical object with 3D printing https://t.co/wBAXreh9SB",
-        "id": "2021984946517361101",
-        "created_at": " hu Feb 12 16:29:12",
-        "author": "OracleNYSE",
-        "retweet_count": 0,
-        "like_count": 1
-      },
-      {
-        "text": "Niger must prepare for 'war' with France: junta member https://t.co/7l7WNOBccv https://t.co/EeRgsnR16g",
-        "id": "2022010312392929383",
-        "created_at": " hu Feb 12 18:10:00",
-        "author": "TheInsiderPaper",
-        "retweet_count": 3,
-        "like_count": 2
-      },
-      {
-        "text": "BREAKING - Netanyahu says Trump creating conditions that may lead to 'good deal' with Iran https://t.co/TSUyh24TlQ https://t.co/BOT9ZMm1Pu",
-        "id": "2022002762582835367",
-        "created_at": " hu Feb 12 17:40:00",
-        "author": "TheInsiderPaper",
-        "retweet_count": 12,
-        "like_count": 43
-      },
-      {
-        "text": "BREAKING - Israel's Netanyahu says Iran deal must include ballistic missiles, proxies https://t.co/EDmIqoR2lj https://t.co/N8BitG6qdV",
-        "id": "2021999994648109063",
-        "created_at": " hu Feb 12 17:29:00",
-        "author": "TheInsiderPaper",
-        "retweet_count": 13,
-        "like_count": 48
-      },
-      {
-        "text": "RT @Kalshi: Thousands of people showed up for their free Kalshi groceries\n\nWhat an incredible day https://t.co/QEs7TzevM9",
-        "id": "2021998082997862709",
-        "created_at": " hu Feb 12 17:21:24",
-        "author": "TheInsiderPaper",
-        "retweet_count": 61,
-        "like_count": 442
-      },
-      {
-        "text": "BREAKING - Ariane 6 rocket launches with 32 satellites for Amazon Leo network https://t.co/uYDpQNkg1F https://t.co/UDBqMc6u7R",
-        "id": "2021995212785217873",
-        "created_at": " hu Feb 12 17:10:00",
-        "author": "TheInsiderPaper",
+        "text": "HARRY BURN AND SOUND SHORE JUST UPDATED THEIR $3.1 BILLION PORTFOLIO\n\nHere's what they held as of the end of Q4 (December 31st) https://t.co/7lHAO3Erda",
+        "id": "2022065975747912073",
+        "created_at": " hu Feb 12 21:51:11",
+        "author": "StockMKTNewz",
         "retweet_count": 10,
-        "like_count": 34
+        "like_count": 93
       },
       {
-        "text": "BREAKING - US antitrust chief Gail Slater says she is stepping down https://t.co/ka94S3Aat2 https://t.co/N53kIZyutR",
-        "id": "2021991227969912989",
-        "created_at": " hu Feb 12 16:54:10",
-        "author": "TheInsiderPaper",
-        "retweet_count": 16,
-        "like_count": 40
+        "text": "JOHN ARMITAGE AND EGERTON CAPITAL JUST UPDATED THEIR $9.2 BILLION PORTFOLIO\n\nHere's what they held as of the end of Q4 (December 31st) https://t.co/0HZqS66F8q",
+        "id": "2022064972529090773",
+        "created_at": " hu Feb 12 21:47:12",
+        "author": "StockMKTNewz",
+        "retweet_count": 11,
+        "like_count": 138
       },
       {
-        "text": "BREAKING: The Trump administration covertly sent thousands of Starlink terminals into Iran after the regime\u2019s brutal crackdown on demonstrations last month, U.S. officials said, an effort to keep dissidents online following Tehran\u2019s stifling of internet access \u2014 WSJ",
-        "id": "2021989511627235334",
-        "created_at": " hu Feb 12 16:47:20",
+        "text": "WATCH: Karoline Leavitt shows how 72 hours spent with President Trump looks like \n\n https://t.co/21fwOtMiJH",
+        "id": "2022091815445573874",
+        "created_at": " hu Feb 12 23:33:52",
         "author": "TheInsiderPaper",
-        "retweet_count": 28,
-        "like_count": 86
+        "retweet_count": 9,
+        "like_count": 61
       },
       {
-        "text": "BREAKING: Trump on 'extraordinary' relations with Venezuela https://t.co/hsbrUqzYAb",
-        "id": "2021987895217992044",
-        "created_at": " hu Feb 12 16:40:55",
+        "text": "BREAKING: Japan says it seized Chinese fishing boat, arrested skipper, according to fisheries agency",
+        "id": "2022085019809067383",
+        "created_at": " hu Feb 12 23:06:51",
         "author": "TheInsiderPaper",
-        "retweet_count": 25,
-        "like_count": 121
+        "retweet_count": 35,
+        "like_count": 134
       },
       {
-        "text": "WATCH: Hillary Clinton arrives by train from Berlin for the Munich Security Conference, MSC.\n\n https://t.co/v3iYE3Ox0Q",
-        "id": "2021984960580874710",
-        "created_at": " hu Feb 12 16:29:15",
+        "text": "Manchester United co-owner Jim Ratcliffe apologised Thursday for his \"choice of language\" after saying the \"UK has been colonised by immigrants\". https://t.co/VkJGyDB9Lp https://t.co/GEVdbub7r2",
+        "id": "2022083301788287293",
+        "created_at": " hu Feb 12 23:00:02",
         "author": "TheInsiderPaper",
-        "retweet_count": 45,
-        "like_count": 150
+        "retweet_count": 2,
+        "like_count": 24
+      },
+      {
+        "text": "France's government on Thursday presented an energy plan to use less imported fossil fuels, including by ramping up nuclear-fuelled power production over the next decade. https://t.co/qzgFMMfDeI https://t.co/bZ8HvrOQUI",
+        "id": "2022068206664360002",
+        "created_at": " hu Feb 12 22:00:03",
+        "author": "TheInsiderPaper",
+        "retweet_count": 11,
+        "like_count": 36
       }
     ],
     "Unusual Options": [
       {
-        "text": "Microsoft AI CEO, Mustafa Suleyman, says that \"most, if not all, professional tasks\" undertaken by white collar workers will be fully automated by AI within the next 12 to 18 months",
-        "id": "2022005370701381634",
-        "created_at": " hu Feb 12 17:50:22",
+        "text": "BREAKING: The highly classified whistleblower complaint against Tulsi Gabbard is related to a foreign conversation about Jared Kushner that was intercepted last spring, per WSJ",
+        "id": "2022073660882952524",
+        "created_at": " hu Feb 12 22:21:43",
         "author": "unusual_whales",
-        "retweet_count": 56,
-        "like_count": 442
-      },
-      {
-        "text": "The DOW is currently below 50,000.",
-        "id": "2021998626134987023",
-        "created_at": " hu Feb 12 17:23:34",
-        "author": "unusual_whales",
-        "retweet_count": 54,
-        "like_count": 865
-      },
-      {
-        "text": "Join Now!\n\nA breakdown of Quantum with @infleqtion covering what Quantum is, and how the industry is moving into the future\nhttps://t.co/5BjQF2WUXy",
-        "id": "2021994739684585746",
-        "created_at": " hu Feb 12 17:08:07",
-        "author": "unusual_whales",
-        "retweet_count": 2,
-        "like_count": 27
-      },
-      {
-        "text": "\"Gen Zers and millennials are swimming in student debt and may never own homes, but they\u2019re splurging on gut-healthy juices and rotisserie chickens,\" per WSJ",
-        "id": "2021992586396021186",
-        "created_at": " hu Feb 12 16:59:34",
-        "author": "unusual_whales",
-        "retweet_count": 108,
-        "like_count": 1559
-      },
-      {
-        "text": "BREAKING: A Kremlin memo reportedly details proposals for Russia to reenter the dollar-based financial system as part of a wider economic partnership with a possible Trump administration, per Bloomberg.",
-        "id": "2021988213796278288",
-        "created_at": " hu Feb 12 16:42:11",
-        "author": "unusual_whales",
-        "retweet_count": 78,
-        "like_count": 843
-      },
-      {
-        "text": "JUST IN: The Trump administration secretly delivered about 6,000 Starlink satellite terminals to Iran, per WSJ",
-        "id": "2021983274885951550",
-        "created_at": " hu Feb 12 16:22:34",
-        "author": "unusual_whales",
-        "retweet_count": 286,
-        "like_count": 2946
+        "retweet_count": 344,
+        "like_count": 3287
       }
     ]
   }
