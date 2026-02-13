@@ -7,9 +7,9 @@ export default function TomFeed() {
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState(null)
   const [accounts, setAccounts] = useState({
-    'Breaking News': ['@wallstengine', '@StockMKTNewz', '@DeItaone', '@OracleNYSE', '@TheInsiderPaper'],
-    'Unusual Options': ['@unusual_whales', '@CheddarFlow'],
-    'Stock Alerts': ['@PlayBookTrades']
+    'Breaking News': ['@wallstengine', '@StockMKTNewz', '@DeItaone', '@TheInsiderPaper'],
+    'Unusual Options': ['@unusual_whales'],
+    'Stock Alerts': []
   })
 
   useEffect(() => {
