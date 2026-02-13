@@ -7,28 +7,34 @@ export default function Posts() {
 
   const posts = [
     {
-      time: '8:12 PM - Feb 12, 2026',
+      time: '5:50 AM - Feb 13, 2026',
+      category: 'TARIFFS',
+      tickers: 'TRUMP STEEL',
+      content: 'Trump planning to scale back some tariffs on steel and aluminium goods, FT reports. Trump hit imports with tariffs up to 50% last year. Latest softening comes amid voter anxiety about affordability. Markets reacting positively to potential relief.'
+    },
+    {
+      time: '5:50 AM - Feb 13, 2026',
+      category: 'TARIFFS',
+      tickers: 'USMCA',
+      content: 'Trump weighing quitting USMCA as tariffs face House rebuke. House voting on resolution to stop tariffs on Canada including 35% on steel, aluminum, copper and 25% on non-US cars. Six Republicans joined Democrats in backing rescission measure.'
+    },
+    {
+      time: '5:50 AM - Feb 13, 2026',
       category: 'TRADE',
-      tickers: 'US TAIWAN',
-      content: 'US and Taiwan signed new trade deal cutting US tariff on most Taiwanese exports to 15%. Taiwan removing 99% of tariff barriers on US goods and committing to $84B+ of US purchases including energy and aviation. Major geopolitical development.'
+      tickers: 'TARIFFS M&A',
+      content: 'Wells Fargo says Trump steel tariffs will fuel US metals M&A activity this year. Tariffs driving consolidation as foreign producers face pricing pressure. Domestic steel names potentially beneficiaries of policy shift.'
     },
     {
-      time: '8:12 PM - Feb 12, 2026',
-      category: 'DIVIDENDS',
-      tickers: 'META',
-      content: 'Meta $META declared quarterly dividend of $0.525 per share. Mark Zuckerberg owns 342.6M shares, meaning $180M dividend check. Regular payouts signal mature company transition and shareholder return focus.'
+      time: '5:50 AM - Feb 13, 2026',
+      category: 'ECONOMY',
+      tickers: 'NY FED TARIFFS',
+      content: 'New York Fed confirms US companies and consumers bearing tariff costs despite Trump claims otherwise. Research validates that domestic price increases passed to buyers. Inflation pressures persisting from trade policies.'
     },
     {
-      time: '8:12 PM - Feb 12, 2026',
-      category: 'FOREX',
-      tickers: 'USD JPY',
-      content: 'Japanese yen on track for biggest weekly gain since November 2024. The move reflects shifting currency flows and Bank of Japan policy expectations. Dollar weakness supporting yen strength.'
-    },
-    {
-      time: '8:12 PM - Feb 12, 2026',
-      category: 'MOVERS',
-      tickers: 'RIME',
-      content: 'RIME $RIME closed at $1.48 off $1.05 reclaim and holds. $1.60++ target for 4H expansion. Chinese names running across markets may distribute volume. Take profits and raise stops.'
+      time: '5:50 AM - Feb 13, 2026',
+      category: 'RECIPROCAL',
+      tickers: 'TRADE',
+      content: 'Trump announcing plans to impose "reciprocal tariffs" on all countries with trade barriers against US in April. Wave of diplomatic outreach follows. Analysts expressing confusion over administration tariff strategies and openness to negotiation.'
     },
   ]
 
