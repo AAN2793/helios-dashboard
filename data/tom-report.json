@@ -1,89 +1,113 @@
 {
-  "generated": "2026-02-12 16:46",
-  "updated": "2026-02-12T16:46:02.598955",
+  "generated": "2026-02-12 20:12",
+  "updated": "2026-02-12T20:12:57.386706",
   "categories": {
     "Breaking News": [
       {
-        "text": "Here\u2019s how the \ud83c\uddfa\ud83c\uddf8 stock market performed today \n\nThis is what Apple\u2019s worst day since April 2025 looks like \n\n\ud83d\udd34\ud83d\udd34 https://t.co/T10bU8dxIK",
-        "id": "2022093384073224313",
-        "created_at": " hu Feb 12 23:40:06",
-        "author": "StockMKTNewz",
-        "retweet_count": 2,
-        "like_count": 15
-      },
-      {
-        "text": "Apple $AAPL stock just had its worst day since April 2025",
-        "id": "2022079665452757350",
-        "created_at": " hu Feb 12 22:45:35",
-        "author": "StockMKTNewz",
-        "retweet_count": 2,
-        "like_count": 55
-      },
-      {
-        "text": "KEN FISHER AND FISHER ASSET MANAGEMENT JUST UPDATED THEIR $298.7 BILLION PORTFOLIO\n\nHere is their 100 largest holdings as of the end of Q4 (December 31st) https://t.co/da6apBTqnW",
-        "id": "2022072940834304145",
-        "created_at": " hu Feb 12 22:18:52",
-        "author": "StockMKTNewz",
+        "text": "The US and Taiwan signed a new trade deal that cuts the US tariff on most Taiwanese exports to 15%. In return, Taiwan will remove or reduce 99% of its tariff barriers on US goods and commit to $84B+ of US purchases, including energy and aviation.",
+        "id": "2022129083396878482",
+        "created_at": "Fri Feb 13 02:01:57",
+        "author": "wallstengine",
         "retweet_count": 9,
-        "like_count": 77
+        "like_count": 53
       },
       {
-        "text": "HARRY BURN AND SOUND SHORE JUST UPDATED THEIR $3.1 BILLION PORTFOLIO\n\nHere's what they held as of the end of Q4 (December 31st) https://t.co/7lHAO3Erda",
-        "id": "2022065975747912073",
-        "created_at": " hu Feb 12 21:51:11",
+        "text": "Facebook $META just declared a quarterly dividend of $0.525 per share\n\nMark Zuckerberg currently owns 342.6 Million shares of $META \n\nThat means Zuck is about to get a ~$179.9 Million dividend check\n\nI will get ~$20 ... we are not the same https://t.co/vAh00rDAdX",
+        "id": "2022136636604338398",
+        "created_at": "Fri Feb 13 02:31:58",
         "author": "StockMKTNewz",
+        "retweet_count": 12,
+        "like_count": 200
+      },
+      {
+        "text": "THE UNITED STATES \ud83c\uddfa\ud83c\uddf8 AND TAIWAN \ud83c\uddf9\ud83c\uddfc JUST SIGNED A TRADE DEAL\n\n- The US will lower tariffs on Taiwanese exports to 15%\n\n- Taiwan will remove or reduce 99% of tariff barriers on U.S. goods, as well as providing \u201cpreferential market access\u201d for U.S. industrial and agricultural exports.\n\n- Taiwan has also committed to buy $84+ billion of U.S. goods, including energy and aviation products\n\n(Source: CNBC)",
+        "id": "2022128807189029313",
+        "created_at": "Fri Feb 13 02:00:51",
+        "author": "StockMKTNewz",
+        "retweet_count": 42,
+        "like_count": 293
+      },
+      {
+        "text": "The Japanese \ud83c\uddef\ud83c\uddf5 yen is on track for its biggest weekly gain since November 2024 - Bloomberg https://t.co/XJuSXfY7lw",
+        "id": "2022126640453886228",
+        "created_at": "Fri Feb 13 01:52:15",
+        "author": "StockMKTNewz",
+        "retweet_count": 6,
+        "like_count": 56
+      },
+      {
+        "text": "Im dumb but I do this as well",
+        "id": "2022125514811662603",
+        "created_at": "Fri Feb 13 01:47:46",
+        "author": "StockMKTNewz",
+        "retweet_count": 0,
+        "like_count": 81
+      },
+      {
+        "text": "NEW - Joe Rogan: \"But these files, just what\u2019s come out so far... there\u2019s one of them where he\u2019s talking about pandemic planning. Where Jeffrey Epstein is talking about pandemic planning to someone named 'Bill', whose name is redacted.\"\n\n https://t.co/gFq9xLUgLx",
+        "id": "2022145567967863175",
+        "created_at": "Fri Feb 13 03:07:27",
+        "author": "TheInsiderPaper",
+        "retweet_count": 9,
+        "like_count": 32
+      },
+      {
+        "text": "Norway buys French bombs for Ukraine: ministry https://t.co/R4Sc9WBJzk https://t.co/bRg1MyIZWc",
+        "id": "2022143691146899707",
+        "created_at": "Fri Feb 13 03:00:00",
+        "author": "TheInsiderPaper",
+        "retweet_count": 3,
+        "like_count": 7
+      },
+      {
+        "text": "JUST IN - Columbia University removes personnel associated with admitting Epstein's girlfriend \u2014 ABC",
+        "id": "2022138954171232593",
+        "created_at": "Fri Feb 13 02:41:10",
+        "author": "TheInsiderPaper",
+        "retweet_count": 38,
+        "like_count": 126
+      },
+      {
+        "text": "BREAKING: Goldman Sachs' top lawyer Kathy Ruemmler to resign after emails show close ties to Jeffrey Epstein - AP",
+        "id": "2022131458551558416",
+        "created_at": "Fri Feb 13 02:11:23",
+        "author": "TheInsiderPaper",
+        "retweet_count": 132,
+        "like_count": 465
+      },
+      {
+        "text": "China cracks down on anti-marriage social media content during Lunar New Year holiday https://t.co/CDB6yDySgh https://t.co/PPlpfUzvyn",
+        "id": "2022128591971266821",
+        "created_at": "Fri Feb 13 02:00:00",
+        "author": "TheInsiderPaper",
         "retweet_count": 10,
-        "like_count": 93
-      },
-      {
-        "text": "JOHN ARMITAGE AND EGERTON CAPITAL JUST UPDATED THEIR $9.2 BILLION PORTFOLIO\n\nHere's what they held as of the end of Q4 (December 31st) https://t.co/0HZqS66F8q",
-        "id": "2022064972529090773",
-        "created_at": " hu Feb 12 21:47:12",
-        "author": "StockMKTNewz",
-        "retweet_count": 11,
-        "like_count": 138
-      },
-      {
-        "text": "WATCH: Karoline Leavitt shows how 72 hours spent with President Trump looks like \n\n https://t.co/21fwOtMiJH",
-        "id": "2022091815445573874",
-        "created_at": " hu Feb 12 23:33:52",
-        "author": "TheInsiderPaper",
-        "retweet_count": 9,
-        "like_count": 61
-      },
-      {
-        "text": "BREAKING: Japan says it seized Chinese fishing boat, arrested skipper, according to fisheries agency",
-        "id": "2022085019809067383",
-        "created_at": " hu Feb 12 23:06:51",
-        "author": "TheInsiderPaper",
-        "retweet_count": 35,
-        "like_count": 134
-      },
-      {
-        "text": "Manchester United co-owner Jim Ratcliffe apologised Thursday for his \"choice of language\" after saying the \"UK has been colonised by immigrants\". https://t.co/VkJGyDB9Lp https://t.co/GEVdbub7r2",
-        "id": "2022083301788287293",
-        "created_at": " hu Feb 12 23:00:02",
-        "author": "TheInsiderPaper",
-        "retweet_count": 2,
-        "like_count": 24
-      },
-      {
-        "text": "France's government on Thursday presented an energy plan to use less imported fossil fuels, including by ramping up nuclear-fuelled power production over the next decade. https://t.co/qzgFMMfDeI https://t.co/bZ8HvrOQUI",
-        "id": "2022068206664360002",
-        "created_at": " hu Feb 12 22:00:03",
-        "author": "TheInsiderPaper",
-        "retweet_count": 11,
-        "like_count": 36
+        "like_count": 35
       }
     ],
-    "Unusual Options": [
+    "Stock Alerts": [
       {
-        "text": "BREAKING: The highly classified whistleblower complaint against Tulsi Gabbard is related to a foreign conversation about Jared Kushner that was intercepted last spring, per WSJ",
-        "id": "2022073660882952524",
-        "created_at": " hu Feb 12 22:21:43",
-        "author": "unusual_whales",
-        "retweet_count": 344,
-        "like_count": 3287
+        "text": "RT @NARR0WGATE: @PlayBookTrades \ud83d\udc9a",
+        "id": "2022141072328241202",
+        "created_at": "Fri Feb 13 02:49:35",
+        "author": "PlayBookTrades",
+        "retweet_count": 1,
+        "like_count": 3
+      },
+      {
+        "text": "RT @barbislick1: @PlayBookTrades Yayyy! \ud83d\udcaa\ud83c\udffc",
+        "id": "2022141061666426929",
+        "created_at": "Fri Feb 13 02:49:33",
+        "author": "PlayBookTrades",
+        "retweet_count": 1,
+        "like_count": 4
+      },
+      {
+        "text": "$RIME\n\nNice close at $1.48 here off the $1.05 reclaim and holds. \ud83d\udcc8\n\n$1.60++ will be your 4H expansion for more now. \ud83d\udd25\n\nDo keep in mind that Chinese names are still running across the markets and may distribute volume away from this.\n\nIf you're still in, take some profits and raise stops to under $1.10. \ud83d\udcb8",
+        "id": "2022138763946950672",
+        "created_at": "Fri Feb 13 02:40:25",
+        "author": "PlayBookTrades",
+        "retweet_count": 1,
+        "like_count": 8
       }
     ]
   }
