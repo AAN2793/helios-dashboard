@@ -7,40 +7,28 @@ export default function Posts() {
 
   const posts = [
     {
-      time: '4:45 PM - Feb 12, 2026',
-      category: 'TECH',
-      tickers: 'AAPL',
-      content: 'Apple $AAPL suffered its worst single-day decline since April 2025, leading tech sector retreat. The slump reflects growing concerns about consumer spending in premium electronics. Tech names broadly under pressure as investors rotate away from mega-cap growth.'
+      time: '8:12 PM - Feb 12, 2026',
+      category: 'TRADE',
+      tickers: 'US TAIWAN',
+      content: 'US and Taiwan signed new trade deal cutting US tariff on most Taiwanese exports to 15%. Taiwan removing 99% of tariff barriers on US goods and committing to $84B+ of US purchases including energy and aviation. Major geopolitical development.'
     },
     {
-      time: '4:45 PM - Feb 12, 2026',
-      category: 'INSTITUTIONAL',
-      tickers: 'FISHER',
-      content: 'Fisher Investments ($298.7B AUM) filed Q4 portfolio updates, maintaining diversified equity exposure with notable shifts in technology and healthcare sectors. Big money continues repositioning for 2026 market conditions.'
+      time: '8:12 PM - Feb 12, 2026',
+      category: 'DIVIDENDS',
+      tickers: 'META',
+      content: 'Meta $META declared quarterly dividend of $0.525 per share. Mark Zuckerberg owns 342.6M shares, meaning $180M dividend check. Regular payouts signal mature company transition and shareholder return focus.'
     },
     {
-      time: '4:45 PM - Feb 12, 2026',
-      category: 'INSTITUTIONAL',
-      tickers: 'SOUND SHORE',
-      content: 'Sound Shore Management ($3.1B AUM) realigned positions, increasing cash positions while selectively adding to quality growth names. Institutional caution evident as money managers hedge near-term uncertainty.'
+      time: '8:12 PM - Feb 12, 2026',
+      category: 'FOREX',
+      tickers: 'USD JPY',
+      content: 'Japanese yen on track for biggest weekly gain since November 2024. The move reflects shifting currency flows and Bank of Japan policy expectations. Dollar weakness supporting yen strength.'
     },
     {
-      time: '4:45 PM - Feb 12, 2026',
-      category: 'INSTITUTIONAL',
-      tickers: 'EGERTON',
-      content: 'Egerton Capital ($9.2B AUM) under John Armitage made targeted adjustments to its long-short equity book. Active managers positioning defensively while maintaining quality exposure.'
-    },
-    {
-      time: '4:45 PM - Feb 12, 2026',
-      category: 'POLITICS',
-      tickers: 'GABBARD KUSHNER',
-      content: 'Whistleblower complaint emerged involving Tulsi Gabbard and Jared Kushner. Classified complaint filed with intelligence inspectors general contains allegations related to foreign conversation intercepted last spring. Congressional committees reviewing.'
-    },
-    {
-      time: '4:45 PM - Feb 12, 2026',
-      category: 'OPTIONS',
-      tickers: 'SEMIS SOFTWARE',
-      content: 'Elevated put volumes in semiconductor and software names suggest increased hedging behavior. Options market indicating institutional concern about near-term downside in tech sectors.'
+      time: '8:12 PM - Feb 12, 2026',
+      category: 'MOVERS',
+      tickers: 'RIME',
+      content: 'RIME $RIME closed at $1.48 off $1.05 reclaim and holds. $1.60++ target for 4H expansion. Chinese names running across markets may distribute volume. Take profits and raise stops.'
     },
   ]
 
