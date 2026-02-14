@@ -1,121 +1,57 @@
 {
-  "generated": "2026-02-13 05:40",
-  "updated": "2026-02-13T05:40:41.178625",
+  "generated": "2026-02-14 12:58",
+  "updated": "2026-02-14T12:58:43.204083",
   "categories": {
     "Breaking News": [
       {
-        "text": "WARREN BUFFETT JUST GOT A $61.9M MILLION DIVIDEND CHECK FROM APPLE\n\nWarren Buffett and Berkshire Hathaway $BRK.B owned 238.2M shares of Apple $AAPL as of the end of Q3 ... Apple just paid out a quarterly dividend of $0.26 per share\n\nThat means Warren Buffett and Berkshire Hathaway just got a ~$61.9 Million quarterly dividend check from their Apple shares\n\nI just got a $30 dividend check from my Apple shares\n\nWe are not the same",
-        "id": "2022284516925026426",
-        "created_at": "Fri Feb 13 12:19:35",
-        "author": "StockMKTNewz",
-        "retweet_count": 5,
-        "like_count": 95
-      },
-      {
-        "text": "BESSENT ON CRYPTO: SOME CLARITY ON THE BILL WOULD GIVE MARKET COMFORT",
-        "id": "2022286597912190976",
-        "created_at": "Fri Feb 13 12:27:51",
-        "author": "DeItaone",
-        "retweet_count": 11,
-        "like_count": 102
-      },
-      {
-        "text": "EUREX SAYS EU BOND FUTURES OPEN TO US TRADERS AFTER SEC TALKS",
-        "id": "2022284697246527548",
-        "created_at": "Fri Feb 13 12:20:18",
-        "author": "DeItaone",
-        "retweet_count": 7,
-        "like_count": 46
-      },
-      {
-        "text": "CHINA GOLD MARKET FLASHING BUBBLE WARNINGS\n\nCapital Economics says China\u2019s gold surge increasingly looks speculative, not defensive.\n\nRising leverage and heavy futures trading point to bubble-like conditions, raising the risk of sharp volatility. Jewelry demand is falling, but bar, coin, and ETF buying is surging, with positions elevated on the Shanghai Futures Exchange.\n\nU.S. Treasury Secretary Scott Bessent recently called Chinese gold trading \u201cunruly.\u201d\n\nThe firm warns a gold bubble may be forming \u2014 and turbulence could follow.",
-        "id": "2022284436004298760",
-        "created_at": "Fri Feb 13 12:19:16",
-        "author": "DeItaone",
-        "retweet_count": 25,
-        "like_count": 124
-      },
-      {
-        "text": "BESSENT ON FED: PREDICT BACK NEAR FED'S 2% TARGET MIDDLE OF THIS YEAR",
-        "id": "2022284229086716255",
-        "created_at": "Fri Feb 13 12:18:27",
-        "author": "DeItaone",
-        "retweet_count": 9,
-        "like_count": 79
-      },
-      {
-        "text": "BESSENT: CHANCE 4Q GROWTH AT 3% OR OVER 3%",
-        "id": "2022284018163536294",
-        "created_at": "Fri Feb 13 12:17:36",
-        "author": "DeItaone",
-        "retweet_count": 8,
-        "like_count": 54
-      },
-      {
-        "text": "\ud83c\udde8\ud83c\uddf3BESSENT ON CHINA TRADE: WE DON'T WANT TO DECOUPLE, WE WANT TO DERISK",
-        "id": "2022283405933609167",
-        "created_at": "Fri Feb 13 12:15:10",
-        "author": "DeItaone",
-        "retweet_count": 15,
-        "like_count": 115
-      },
-      {
-        "text": "BESSENT ON U.S. DEFICIT:  I WILL TAKE THE MARKET OVER THE CBO",
-        "id": "2022283205873688660",
-        "created_at": "Fri Feb 13 12:14:23",
-        "author": "DeItaone",
-        "retweet_count": 4,
-        "like_count": 55
-      },
-      {
-        "text": "BESSENT ON METALS TARIFFS: SPOKE TO USTR THIS MORNING; WE'LL SEE IF THERE'S A NARROWING -CNBC INTERVIEW\n\nBESSENT ON METALS TARIFFS: IF ANYTHING IS DONE IT WOULD BE CLARIFICATION ON INCIDENTAL OBJECTS\n\nBESSENT ON METALS TARIFFS: TRUMP'S DECISION",
-        "id": "2022282094022439049",
-        "created_at": "Fri Feb 13 12:09:58",
-        "author": "DeItaone",
-        "retweet_count": 9,
-        "like_count": 63
-      },
-      {
-        "text": "JUST IN - Spain swine fever spreads outside containment zone https://t.co/x2WGOJY7Pf",
-        "id": "2022285289088327807",
-        "created_at": "Fri Feb 13 12:22:39",
+        "text": "JUST IN - CIA, Pentagon reviewed secret 'Havana syndrome' device in Norway, Washington Post reports",
+        "id": "2022747737167663182",
+        "created_at": "Sat Feb 14 19:00:16",
         "author": "TheInsiderPaper",
-        "retweet_count": 2,
-        "like_count": 12
+        "retweet_count": 95,
+        "like_count": 422
+      },
+      {
+        "text": "BREAKING: French prosecutors announce special team to review Esptein files",
+        "id": "2022740635233718448",
+        "created_at": "Sat Feb 14 18:32:02",
+        "author": "TheInsiderPaper",
+        "retweet_count": 145,
+        "like_count": 558
+      },
+      {
+        "text": "WATCH: Thousands rally against Iran's current regime in Munich, Germany https://t.co/4fVUC0jDRw",
+        "id": "2022734263456805051",
+        "created_at": "Sat Feb 14 18:06:43",
+        "author": "TheInsiderPaper",
+        "retweet_count": 106,
+        "like_count": 351
+      },
+      {
+        "text": "RT @Kalshi: BREAKING: Our traders forecast Bitcoin to reach a low of $49,000 https://t.co/dx0czIHTSx",
+        "id": "2022733286263664653",
+        "created_at": "Sat Feb 14 18:02:50",
+        "author": "TheInsiderPaper",
+        "retweet_count": 89,
+        "like_count": 937
       }
     ],
     "Unusual Options": [
       {
-        "text": "Longterm unemployment is rising in management, retail and other industries, per FT: https://t.co/awG4vAok6V",
-        "id": "2022288898672431161",
-        "created_at": "Fri Feb 13 12:37:00",
+        "text": "Trump: I could have the dollar\u2019s value go and up down like a yo-yo https://t.co/U9Lmbp38oF",
+        "id": "2022747922748825621",
+        "created_at": "Sat Feb 14 19:01:00",
         "author": "unusual_whales",
-        "retweet_count": 7,
-        "like_count": 46
+        "retweet_count": 36,
+        "like_count": 486
       },
       {
-        "text": "Longterm unemployment in the US is rising, per FT: https://t.co/ukFFc1W4wt",
-        "id": "2022283865293775305",
-        "created_at": "Fri Feb 13 12:17:00",
+        "text": "Dr. Oz: \"Seniors should work later... one year... to generate trillions to the US economy.\" https://t.co/wIrSaVJJNt",
+        "id": "2022732823342518784",
+        "created_at": "Sat Feb 14 18:01:00",
         "author": "unusual_whales",
-        "retweet_count": 39,
-        "like_count": 162
-      },
-      {
-        "text": "JUST IN: The Pentagon is sending the Navy\u2019s largest and most advanced aircraft carrier to the Middle East, as the U.S. steps up plans for a potential attack on Iran, per WSJ",
-        "id": "2022283073878937754",
-        "created_at": "Fri Feb 13 12:13:51",
-        "author": "unusual_whales",
-        "retweet_count": 41,
-        "like_count": 316
-      },
-      {
-        "text": "Good morning to everyone:",
-        "id": "2022278831747289549",
-        "created_at": "Fri Feb 13 11:57:00",
-        "author": "unusual_whales",
-        "retweet_count": 7,
-        "like_count": 60
+        "retweet_count": 60,
+        "like_count": 585
       }
     ]
   }
