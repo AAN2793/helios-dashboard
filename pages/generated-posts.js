@@ -24,6 +24,23 @@ export default function GeneratedPosts() {
     }
   }
 
+  const deletePost = async (index) => {
+    if (!confirm('Delete this post?')) return
+    try {
+      const res = await fetch('/api/generated-posts', {
+        method: 'DELETE',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ index })
+      })
+      if (res.ok) {
+        const data = await res.json()
+        setPosts({ ...posts, posts: data.posts })
+      }
+    } catch (err) {
+      alert('Failed to delete: ' + err.message)
+    }
+  }
+
   const refreshPosts = () => {
     setLoading(true)
     fetchPosts()
@@ -67,10 +84,16 @@ export default function GeneratedPosts() {
             <div className="grid gap-4">
               {posts.posts.map((post, idx) => (
                 <div key={idx} className="bg-slate-900 rounded-lg p-6 border-l-4 border-green-500">
-                  <div className="flex items-center gap-3 mb-3">
+                  <div className="flex items-center justify-between mb-3">
                     <span className="px-3 py-1 bg-green-900 text-green-300 text-sm rounded-full">
                       {post.category}
                     </span>
+                    <button
+                      onClick={() => deletePost(idx)}
+                      className="px-3 py-1 bg-red-900 text-red-300 text-sm rounded hover:bg-red-800"
+                    >
+                      Delete
+                    </button>
                   </div>
                   <h3 className="text-xl font-bold text-white mb-3">
                     {post.headline}
