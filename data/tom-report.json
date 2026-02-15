@@ -1,12 +1,48 @@
 {
-  "generated": "2026-02-15 09:35",
-  "updated": "2026-02-15T09:35:00.000000",
+  "generated": "2026-02-15 13:30",
+  "updated": "2026-02-15T13:30:00.000000",
   "financeSummary": {
     "headline": "Market Recap - Week of February 15, 2026",
     "summary": "The S&P 500 slipped 1.4% last week as cooling inflation data sparked rate cut optimism while AI capex concerns lingered. Presidents Day Monday means U.S. markets will be closed. Tesla projects vehicle delivery growth of 47-59% for FY2026, while nuclear and tech stocks remain in focus for the week ahead."
   },
   "categories": {
     "Breaking News": [
+      {
+        "text": "Warner Bros. reconsidering reopening sale negotiations with Paramount, sources say. This could reshape the media landscape after previous talks stalled. $WBD $PARA",
+        "id": "tom-2026-02-15-1",
+        "created_at": "Sun Feb 15 13:30:00",
+        "author": "Twitter Tom Scan",
+        "source": "Warner Bros. outlets",
+        "retweet_count": 0,
+        "like_count": 0
+      },
+      {
+        "text": "President Trump told Israeli PM Netanyahu he'd support strikes on Iran's ballistic missile program if nuclear talks fail. U.S. officials now discussing strike options. Geopolitical risk rising.",
+        "id": "tom-2026-02-15-2",
+        "created_at": "Sun Feb 15 13:30:00",
+        "author": "Twitter Tom Scan",
+        "source": "News outlets",
+        "retweet_count": 0,
+        "like_count": 0
+      },
+      {
+        "text": "FBI: Glove found near Tucson home of missing professor matches suspect evidence from doorbell video, including DNA. Case development.",
+        "id": "tom-2026-02-15-3",
+        "created_at": "Sun Feb 15 13:30:00",
+        "author": "Twitter Tom Scan",
+        "source": "FBI announcement",
+        "retweet_count": 0,
+        "like_count": 0
+      },
+      {
+        "text": "Trump on Fed Chair nominee Kevin Warsh: 'If our new head of the Fed performs capably, U.S. could grow at 15% or more.' Bold growth projection.",
+        "id": "tom-2026-02-15-4",
+        "created_at": "Sun Feb 15 13:30:00",
+        "author": "Twitter Tom Scan",
+        "source": "Trump statement",
+        "retweet_count": 0,
+        "like_count": 0
+      },
       {
         "text": "What is 1 stock that you think will be bankrupt by the end of the decade?",
         "id": "2022770761786687808",
@@ -50,7 +86,23 @@
     ],
     "Unusual Options": [
       {
-        "text": "Ron DeSantis: \u201cI don't think there's very many people that want to have higher energy bills just so some chatbot can corrupt some 13 year old kid online! That is not what anybody is signing up for.\" https://t.co/TWoAFgdHbH",
+        "text": "RFK Jr.'s comments on food policy and national health sparked unusual options flow in healthcare sector. Traders positioning for policy-driven volatility.",
+        "id": "tom-2026-02-15-u1",
+        "created_at": "Sun Feb 15 13:30:00",
+        "author": "Twitter Tom Scan",
+        "retweet_count": 0,
+        "like_count": 0
+      },
+      {
+        "text": "Banking stocks seeing increased options activity as Trump pushes for aggressive Fed policies. Watch $XLF and regional banks for positioning.",
+        "id": "tom-2026-02-15-u2",
+        "created_at": "Sun Feb 15 13:30:00",
+        "author": "Twitter Tom Scan",
+        "retweet_count": 0,
+        "like_count": 0
+      },
+      {
+        "text": "Ron DeSantis: \"I don't think there's very many people that want to have higher energy bills just so some chatbot can corrupt some 13 year old kid online!\"",
         "id": "2022778121926197630",
         "created_at": "Sat Feb 14 21:01:00",
         "author": "unusual_whales",
