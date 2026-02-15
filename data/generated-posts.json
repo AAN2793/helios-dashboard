@@ -3,11 +3,6 @@
   "posts": [
     {
       "category": "Breaking News",
-      "headline": "Warner Bros. Reconsidering Paramount Sale",
-      "body": "Warner Bros. is reconsidering reopening sale negotiations with Paramount, sources say. This could reshape the media landscape after previous talks stalled. Media consolidation wave may be returning."
-    },
-    {
-      "category": "Breaking News",
       "headline": "Trump Would Support Israeli Strikes on Iran Nuclear Facilities",
       "body": "President Trump told Israeli PM Netanyahu he'd support strikes on Iran's ballistic missile program if nuclear negotiations fail. U.S. military and intelligence officials are discussing potential strike options."
     },
@@ -18,28 +13,13 @@
     },
     {
       "category": "Breaking News",
-      "headline": "FBI: Glove Found Matches Suspect in Missing Professor Case",
-      "body": "FBI announces a glove found near Tucson home of missing University of Arizona professor Nancy Guthrie appears to match suspect evidence captured on doorbell camera video, including DNA."
-    },
-    {
-      "category": "Unusual Options",
-      "headline": "RFK Jr. Health Policy Comments Spark Options Activity",
-      "body": "RFK Jr.'s comments on food policy and national health sparked unusual options flow in healthcare sector. Traders positioning for policy-driven volatility in health stocks."
-    },
-    {
-      "category": "Sector Watch",
-      "headline": "Energy: Tesla, Exxon, Chevron, GE Vernova Leading",
-      "body": "Tesla, Exxon Mobil, Chevron, GE Vernova, and Constellation Energy leading energy sector. Trump's Iran stance could boost oil majors. geopolitical premium building in energy markets."
+      "headline": "Warner Bros. Reconsidering Paramount Sale",
+      "body": "Warner Bros. is reconsidering reopening sale negotiations with Paramount, sources say. This could reshape the media landscape after previous talks stalled. Media consolidation wave may be returning."
     },
     {
       "category": "Sector Watch",
       "headline": "Tech: NVDA, Apple, Microsoft, Micron Into Earnings",
       "body": "NVIDIA, Apple, Microsoft, Micron leading tech sector into earnings season. AI infrastructure plays continue to see strong institutional interest. Big tech earnings due this week."
-    },
-    {
-      "category": "Sector Watch",
-      "headline": "Cybersecurity: PANW, CRWD, FTNT Leading Sector",
-      "body": "Palo Alto Networks, CrowdStrike, Fortinet leading cybersecurity names. Growing threat landscape translates to growing opportunity in the sector."
     },
     {
       "category": "Stock Alert",
