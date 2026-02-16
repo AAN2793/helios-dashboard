@@ -1,129 +1,88 @@
 {
-  "generated": "2026-02-15 13:30",
-  "updated": "2026-02-15T13:30:00.000000",
-  "financeSummary": {
-    "headline": "Market Recap - Week of February 15, 2026",
-    "summary": "The S&P 500 slipped 1.4% last week as cooling inflation data sparked rate cut optimism while AI capex concerns lingered. Presidents Day Monday means U.S. markets will be closed. Tesla projects vehicle delivery growth of 47-59% for FY2026, while nuclear and tech stocks remain in focus for the week ahead."
-  },
+  "generated": "2026-02-16 05:40",
+  "updated": "2026-02-16T05:40:00",
   "categories": {
     "Breaking News": [
       {
-        "text": "Warner Bros. reconsidering reopening sale negotiations with Paramount, sources say. This could reshape the media landscape after previous talks stalled. $WBD $PARA",
-        "id": "tom-2026-02-15-1",
-        "created_at": "Sun Feb 15 13:30:00",
-        "author": "Twitter Tom Scan",
-        "source": "Warner Bros. outlets",
-        "retweet_count": 0,
-        "like_count": 0
-      },
-      {
-        "text": "President Trump told Israeli PM Netanyahu he'd support strikes on Iran's ballistic missile program if nuclear talks fail. U.S. officials now discussing strike options. Geopolitical risk rising.",
-        "id": "tom-2026-02-15-2",
-        "created_at": "Sun Feb 15 13:30:00",
-        "author": "Twitter Tom Scan",
-        "source": "News outlets",
-        "retweet_count": 0,
-        "like_count": 0
-      },
-      {
-        "text": "FBI: Glove found near Tucson home of missing professor matches suspect evidence from doorbell video, including DNA. Case development.",
-        "id": "tom-2026-02-15-3",
-        "created_at": "Sun Feb 15 13:30:00",
-        "author": "Twitter Tom Scan",
-        "source": "FBI announcement",
-        "retweet_count": 0,
-        "like_count": 0
-      },
-      {
-        "text": "Trump on Fed Chair nominee Kevin Warsh: 'If our new head of the Fed performs capably, U.S. could grow at 15% or more.' Bold growth projection.",
-        "id": "tom-2026-02-15-4",
-        "created_at": "Sun Feb 15 13:30:00",
-        "author": "Twitter Tom Scan",
-        "source": "Trump statement",
-        "retweet_count": 0,
-        "like_count": 0
-      },
-      {
-        "text": "What is 1 stock that you think will be bankrupt by the end of the decade?",
-        "id": "2022770761786687808",
-        "created_at": "Sat Feb 14 20:31:45",
         "author": "StockMKTNewz",
+        "text": "The founder of OpenClaw (Originally known as ClawdBot) Peter Steinberger, has agreed to join Sam Altman and OpenAI. OpenClaw will live in a foundation as an open source project that OpenAI will continue.",
+        "created_at": "Mon Feb 16 12:18:45 +0000 2026",
         "retweet_count": 0,
-        "like_count": 29
+        "like_count": 0
       },
       {
-        "text": "Throwback to April 9th, 2025 the single largest daily point gain in S&P 500 history \ud83d\udfe2\n\nHere's what the \ud83c\uddfa\ud83c\uddf8 stock market looked like on that day https://t.co/bl42RMOzps",
-        "id": "2022766122487996487",
-        "created_at": "Sat Feb 14 20:13:19",
+        "author": "DeItaone",
+        "text": "INDIA TRADE OFFICIAL: EXPECT US TO REDUCE TARIFF ON INDIA TO 18% THIS WEEK",
+        "created_at": "Mon Feb 16 11:26:44 +0000 2026",
+        "retweet_count": 0,
+        "like_count": 0
+      },
+      {
         "author": "StockMKTNewz",
-        "retweet_count": 9,
-        "like_count": 104
+        "text": "Warner Bros. Discovery's $WBD board is considering whether to reopen sales talks with Paramount Skydance $PSKY following its amended bid for the company - CNBC",
+        "created_at": "Sun Feb 15 23:00:47 +0000 2026",
+        "retweet_count": 0,
+        "like_count": 0
       },
       {
-        "text": "Bill Gates supports merging biometric digital IDs with bank accounts and payment systems, saying it\u2019s needed to safely monitor health records, track farmers, and address \u201cclimate problems.\u201d https://t.co/CMv0DJwULY",
-        "id": "2022771401246281762",
-        "created_at": "Sat Feb 14 20:34:17",
-        "author": "TheInsiderPaper",
-        "retweet_count": 26,
-        "like_count": 38
+        "author": "StockMKTNewz",
+        "text": "Kalshi currently says there is a 75% chance that Elon Musk becomes the first Trillionaire in the world this year",
+        "created_at": "Sun Feb 15 21:24:27 +0000 2026",
+        "retweet_count": 0,
+        "like_count": 0
       },
       {
-        "text": "JUST IN - Hillary Clinton moderates a panel on women's rights in Munich and the first panelist is a transgender https://t.co/RtYTSmDV0e",
-        "id": "2022765958151180503",
-        "created_at": "Sat Feb 14 20:12:40",
-        "author": "TheInsiderPaper",
-        "retweet_count": 21,
-        "like_count": 76
+        "author": "DeItaone",
+        "text": "TRUMP TOLD NETANYAHU HE WOULD SUPPORT ISRAELI STRIKES ON IRAN'S BALLISTIC MISSILE PROGRAM -CBS NEWS",
+        "created_at": "Sun Feb 15 17:47:46 +0000 2026",
+        "retweet_count": 0,
+        "like_count": 0
+      }
+    ],
+    "Market Moves": [
+      {
+        "author": "wallstengine",
+        "text": "Taiwan just hiked its 2026 growth forecast to 7.71% from 3.54%, pointing to the AI export boom. That lines up with Taiwan's January exports +69.9% YoY (fastest in 16 years)",
+        "created_at": "Fri Feb 13 08:42:50 +0000 2026",
+        "retweet_count": 36,
+        "like_count": 255
       },
       {
-        "text": "JUST IN - Secretary Rubio in Munich: \"We, in America, have no interest in being polite and orderly caretakers of the West's managed decline.\" https://t.co/duHMAG6SBb",
-        "id": "2022764892231491641",
-        "created_at": "Sat Feb 14 20:08:26",
-        "author": "TheInsiderPaper",
-        "retweet_count": 27,
-        "like_count": 183
+        "author": "wallstengine",
+        "text": "The US and Taiwan signed a new trade deal that cuts the US tariff on most Taiwanese exports to 15%. Taiwan will remove or reduce 99% of its tariff barriers on US goods",
+        "created_at": "Fri Feb 13 02:01:57 +0000 2026",
+        "retweet_count": 0,
+        "like_count": 0
+      },
+      {
+        "author": "wallstengine",
+        "text": "Anthropic just confirmed it raised $30B at a $380B post-money valuation. Round led by GIC and Coatue - Reuters",
+        "created_at": "Thu Feb 12 20:05:41 +0000 2026",
+        "retweet_count": 0,
+        "like_count": 0
+      },
+      {
+        "author": "wallstengine",
+        "text": "SILVER CRASHES 10% IN LESS THAN 30MINS",
+        "created_at": "Thu Feb 12 16:31:08 +0000 2026",
+        "retweet_count": 0,
+        "like_count": 0
       }
     ],
     "Unusual Options": [
       {
-        "text": "RFK Jr.'s comments on food policy and national health sparked unusual options flow in healthcare sector. Traders positioning for policy-driven volatility.",
-        "id": "tom-2026-02-15-u1",
-        "created_at": "Sun Feb 15 13:30:00",
-        "author": "Twitter Tom Scan",
+        "author": "unusual_whales",
+        "text": "CALLING ALL AI AGENT BUILDERS! We've made huge updates for people building agents on OpenClaw with Unusual Whales.",
+        "created_at": "Mon Feb 16 08:30:02 +0000 2026",
         "retweet_count": 0,
         "like_count": 0
       },
       {
-        "text": "Banking stocks seeing increased options activity as Trump pushes for aggressive Fed policies. Watch $XLF and regional banks for positioning.",
-        "id": "tom-2026-02-15-u2",
-        "created_at": "Sun Feb 15 13:30:00",
-        "author": "Twitter Tom Scan",
+        "author": "unusual_whales",
+        "text": "Trump: I think we have the greatest economy, actually, ever in history.",
+        "created_at": "Mon Feb 16 02:01:00 +0000 2026",
         "retweet_count": 0,
         "like_count": 0
-      },
-      {
-        "text": "Ron DeSantis: \"I don't think there's very many people that want to have higher energy bills just so some chatbot can corrupt some 13 year old kid online!\"",
-        "id": "2022778121926197630",
-        "created_at": "Sat Feb 14 21:01:00",
-        "author": "unusual_whales",
-        "retweet_count": 6,
-        "like_count": 21
-      },
-      {
-        "text": "RT @planert41: Yo WTF $FSLY?\n\nSome lucky bastard 60xed lol\n\n6x on the March still not bad https://t.co/Zy99iF2h15",
-        "id": "2022773519411462352",
-        "created_at": "Sat Feb 14 20:42:42",
-        "author": "unusual_whales",
-        "retweet_count": 4,
-        "like_count": 33
-      },
-      {
-        "text": "Lutnick, to Trump: You are fixing everything with your policies. You have changed America and created the golden age https://t.co/Hy3tXnSQdw",
-        "id": "2022763022251614691",
-        "created_at": "Sat Feb 14 20:01:00",
-        "author": "unusual_whales",
-        "retweet_count": 31,
-        "like_count": 413
       }
     ]
   }
