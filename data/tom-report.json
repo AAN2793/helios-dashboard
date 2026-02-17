@@ -1,89 +1,265 @@
 {
-  "generated": "2026-02-16 13:01",
-  "updated": "2026-02-16T13:01:37.648535",
+  "generated": "2026-02-17 05:40",
+  "updated": "2026-02-17T05:40:56.037747",
   "categories": {
     "Breaking News": [
       {
-        "text": "GET READY FOR ANOTHER WEEK AHEAD IN THE STOCK MARKET\n\nHere's a full catalyst watch to help you get prepared\n\nA thread\ud83e\uddf5\u2b07\ufe0f https://t.co/ScodX66w89",
-        "id": "2023483515795579035",
-        "created_at": "Mon Feb 16 19:43:59",
+        "text": "Thrive Capital, the venture capital firm founded by Josh Kushner, has raised more than $10B, its largest fund ever \n\nThrive invested in companies like SpaceX and OpenAI. Thrive invests in areas ranging from AI applications/infrastructure to space and robotics - Bloomberg https://t.co/vdznUVMPEM",
+        "id": "2023736208984101032",
+        "created_at": " ue Feb 17 12:28:06",
         "author": "StockMKTNewz",
+        "retweet_count": 1,
+        "like_count": 21
+      },
+      {
+        "text": "RT @StockMKTNewz: GET READY FOR ANOTHER WEEK AHEAD IN THE STOCK MARKET\n\nHere's a full catalyst watch to help you get prepared\n\nA thread\ud83e\uddf5\u2b07\ufe0f\u2026",
+        "id": "2023733718653833497",
+        "created_at": " ue Feb 17 12:18:12",
+        "author": "StockMKTNewz",
+        "retweet_count": 19,
+        "like_count": 157
+      },
+      {
+        "text": "Netflix $NFLX has granted Warner Bros. Discovery $WBD a 7-day waiver to reopen deal talks with Paramount Skydance $PSKY - CNBC",
+        "id": "2023732763870818449",
+        "created_at": " ue Feb 17 12:14:24",
+        "author": "StockMKTNewz",
+        "retweet_count": 6,
+        "like_count": 51
+      },
+      {
+        "text": "GENERAL MILLS $GIS JUST UPDATED ITS FY 2026 GUIDANCE\n\nGeneral Mills said it expects its organic net sales to be down by between 1.5% to 2% in FY26 down from its previous guidance of between down 1% to up 1% https://t.co/3eBQRoOTU9",
+        "id": "2023726031887053047",
+        "created_at": " ue Feb 17 11:47:39",
+        "author": "StockMKTNewz",
+        "retweet_count": 7,
+        "like_count": 52
+      },
+      {
+        "text": "Everyone but Apple $AAPL for some reason https://t.co/HKxUyvXkM7",
+        "id": "2023714266235498932",
+        "created_at": " ue Feb 17 11:00:54",
+        "author": "StockMKTNewz",
+        "retweet_count": 10,
+        "like_count": 80
+      },
+      {
+        "text": "TALKS BETWEEN IRAN AND THE U.S. IN GENEVA HAVE ENDED",
+        "id": "2023737557951889426",
+        "created_at": " ue Feb 17 12:33:27",
+        "author": "DeItaone",
+        "retweet_count": 20,
+        "like_count": 112
+      },
+      {
+        "text": "GOLD REMAINS MOST CROWDED TRADE, TECH SECOND: BOFA SURVEY\n\nAccording to Bank of America\u2019s February global fund manager survey, 50% of managers say buying gold is the most crowded trade, slightly down from 51% in January.\n\nMeanwhile, 20% of managers view buying top U.S. tech stocks\u2014Nvidia, Alphabet, Apple, Amazon, Microsoft, Meta and Tesla\u2014as the second-most crowded trade.",
+        "id": "2023736049302667735",
+        "created_at": " ue Feb 17 12:27:28",
+        "author": "DeItaone",
+        "retweet_count": 7,
+        "like_count": 79
+      },
+      {
+        "text": "IRAN TESTED LARGE MISSILES IN THE PERSIAN GULF",
+        "id": "2023733413077770575",
+        "created_at": " ue Feb 17 12:16:59",
+        "author": "DeItaone",
+        "retweet_count": 27,
+        "like_count": 160
+      },
+      {
+        "text": "IRAN'S SUPREME LEADER KHAMENEI SAYS THE TYPE AND RANGE OF IRANIAN MISSILES HAVE NOTHING TO DO WITH U.S. - FARS NEWS",
+        "id": "2023733048584384743",
+        "created_at": " ue Feb 17 12:15:32",
+        "author": "DeItaone",
+        "retweet_count": 13,
+        "like_count": 167
+      },
+      {
+        "text": "BITCOIN SLIDES AS GEOPOLITICAL RISKS SPUR RISK-OFF TRADE\n\nBitcoin fell 1.7% to about $67,600 ahead of the U.S. open, tracking weaker equity futures. Nasdaq 100 futures dropped 0.9% and S&P 500 contracts lost 0.6%.\n\nInvestors are turning cautious amid rising tensions around Iran, fresh debate over AI\u2019s broader economic impact, and uncertainty over Federal Reserve rate cuts after recent inflation data.\n\nFlows remain negative: U.S.-listed Bitcoin ETFs saw a fourth straight week of outflows, with $360 million withdrawn last week. Sentiment is weak, with CryptoQuant\u2019s Fear and Greed Index at 10 (\u201cextreme fear\u201d).\n\nAnalysts say Bitcoin may consolidate, with $60,000 viewed as key support. But further macro shocks could push prices back toward the $50,000s.",
+        "id": "2023732562808467763",
+        "created_at": " ue Feb 17 12:13:36",
+        "author": "DeItaone",
+        "retweet_count": 15,
+        "like_count": 121
+      },
+      {
+        "text": "IRAN OFFERS NUCLEAR CONCESSIONS, BUT STOPS SHORT OF ENRICHMENT BAN\n\nIran has floated new proposals in nuclear talks with the U.S., including pausing uranium enrichment for up to three years, sending part of its highly enriched uranium stockpile abroad\u2014possibly to Russia\u2014and pursuing future business deals if sanctions are lifted.\n\nBut Tehran has not agreed to fully halt enrichment, the key demand of President Donald Trump, who has called for dismantling Iran\u2019s nuclear program while boosting U.S. military deployments in the region.\n\nTalks in Geneva follow an earlier round in Oman. The U.S. is seeking strict limits on Iran\u2019s nuclear activity, with additional pressure from Israel to curb Tehran\u2019s missile program. Iran, meanwhile, wants meaningful sanctions relief, including access to billions in restricted oil revenues.\n\nWith Iran\u2019s nuclear facilities damaged by strikes last June, analysts say Washington has little incentive to offer sweeping concessions\u2014leaving a deal uncertain.",
+        "id": "2023729739295347102",
+        "created_at": " ue Feb 17 12:02:23",
+        "author": "DeItaone",
+        "retweet_count": 36,
+        "like_count": 229
+      },
+      {
+        "text": "$MSTR: MIZUHO CUTS TARGET PRICE TO $320 FROM $403",
+        "id": "2023729711940055438",
+        "created_at": " ue Feb 17 12:02:17",
+        "author": "DeItaone",
         "retweet_count": 5,
-        "like_count": 28
+        "like_count": 49
       },
       {
-        "text": "German police find mummified corpse of woman in daughter's home https://t.co/bkEbraiCPa https://t.co/RgesYcBtGQ",
-        "id": "2023476473118830600",
-        "created_at": "Mon Feb 16 19:16:00",
-        "author": "TheInsiderPaper",
-        "retweet_count": 9,
-        "like_count": 18
+        "text": "U.S. TO EXPAND MISSILE DEPLOYMENTS IN PHILIPPINES, RAISING TENSIONS WITH CHINA\n\nThe U.S. Department of State said Washington will expand deployments of advanced missile and unmanned systems to the Philippines to deter China in the South China Sea.\n\nThe move reinforces the 1951 mutual-defense treaty after alliance talks in Manila. The U.S. previously deployed Typhon and NMESIS missile systems to the Philippines and signaled further additions, potentially during joint exercises in April.\n\nBoth sides reaffirmed that their treaty covers armed attacks on forces, aircraft and vessels.",
+        "id": "2023728924736290919",
+        "created_at": " ue Feb 17 11:59:09",
+        "author": "DeItaone",
+        "retweet_count": 28,
+        "like_count": 131
       },
       {
-        "text": "'Your success is our success,' Rubio tells Orban ahead of Hungary polls https://t.co/okbafvVKD7 https://t.co/S7p76XuioN",
-        "id": "2023468671835009066",
-        "created_at": "Mon Feb 16 18:45:00",
+        "text": "$NVDA - CITI: BUY NVIDIA AHEAD OF 2H26 OUTPERFORMANCE\n\nCitigroup recommends adding to Nvidia, expecting the stock to outperform in the second half of 2026 as AI demand visibility improves into 2027.\n\nAnalyst Atif Malik forecasts January-quarter revenue of $67 billion (vs. $65.6 billion consensus) and April-quarter guidance of $73 billion (vs. $71.6 billion expected). A ramp in the B300 and Rubin platforms is projected to drive a 34% acceleration in second-half 2026 sales.\n\nInvestors are focused on Nvidia\u2019s mid-March GTC conference, where the company is expected to outline its inference roadmap and provide early 2026\u201327 AI sales guidance.\n\nCiti projects fiscal 2027 gross margins near 75%, with operating expenses rising in the high-30% range. While hyperscaler capex and inference competition are increasing, the bank believes Nvidia will remain the leader in both AI training and inference.\n\nCiti reiterates its Buy rating and $270 price target, calling the stock attractive ahead of expected 2H26 strength.",
+        "id": "2023728449999831042",
+        "created_at": " ue Feb 17 11:57:16",
+        "author": "DeItaone",
+        "retweet_count": 32,
+        "like_count": 199
+      },
+      {
+        "text": "WEDBUSH: TECH SELLOFF OVERDONE AS AI SPENDING SURGES\n\nThe recent pullback in tech stocks is overdone, according to Wedbush Securities, which says the artificial intelligence investment cycle is still in its early innings.\n\nThe firm estimates the market is in year three of a decade-long AI buildout, with 2026 marking a key inflection point. It expects large tech companies to spend about $650 billion in capex in 2026, alongside growing government and corporate AI investment.\n\nRecent volatility has hit major names despite strong earnings from Alphabet, Meta Platforms and Palantir Technologies. Wedbush views the weakness as short-term risk aversion, not a shift in long-term fundamentals.\n\nThe firm also argues that declines in Salesforce, ServiceNow and Microsoft fail to reflect their strategic roles in the AI ecosystem.\n\nWhile AI is reshaping enterprise software budgets, Wedbush says fears of rapid displacement are overstated, and broader AI adoption should support sector growth.",
+        "id": "2023727417177657672",
+        "created_at": " ue Feb 17 11:53:09",
+        "author": "DeItaone",
+        "retweet_count": 33,
+        "like_count": 183
+      },
+      {
+        "text": "$COIN: Mizuho Cuts target price to $170 from $280",
+        "id": "2023726990344265744",
+        "created_at": " ue Feb 17 11:51:28",
+        "author": "DeItaone",
+        "retweet_count": 14,
+        "like_count": 96
+      },
+      {
+        "text": "INVESTORS SEE GOLD PEAKING AT $6,200\n\nInvestors in Bank of America\u2019s February global fund manager survey expect gold to peak at $6,200 per ounce on a weighted-average basis.\n\nOne in five (20%) believe gold has already topped, while 19% see prices climbing above $7,000. Gold was trading at $4,937.40 per troy ounce on Tuesday morning.",
+        "id": "2023723051591102593",
+        "created_at": " ue Feb 17 11:35:49",
+        "author": "DeItaone",
+        "retweet_count": 33,
+        "like_count": 245
+      },
+      {
+        "text": "STRAIT OF HORMUZ PARTIALLY CLOSED FOR IRAN MILITARY DRILLS\n\nParts of the Strait of Hormuz will close for several hours Tuesday due to \u201csecurity precautions,\u201d according to Fars News Agency, as Iran\u2019s Revolutionary Guards conduct military exercises.\n\nThe strait is the world\u2019s most critical oil shipping chokepoint, linking major Gulf producers\u2014Saudi Arabia, Iran, Iraq and the United Arab Emirates\u2014to the Gulf of Oman and the Arabian Sea.",
+        "id": "2023722491147887070",
+        "created_at": " ue Feb 17 11:33:35",
+        "author": "DeItaone",
+        "retweet_count": 140,
+        "like_count": 597
+      },
+      {
+        "text": "https://t.co/gW3ZSniuN5",
+        "id": "2023716884080636161",
+        "created_at": " ue Feb 17 11:11:18",
+        "author": "DeItaone",
+        "retweet_count": 41,
+        "like_count": 194
+      },
+      {
+        "text": "PART OF STRAIT OF HORMUZ IS CLOSED FOR HOURS DUE TO DRILLS - IRAN TV",
+        "id": "2023716603200938380",
+        "created_at": " ue Feb 17 11:10:11",
+        "author": "DeItaone",
+        "retweet_count": 42,
+        "like_count": 346
+      },
+      {
+        "text": "JUST IN - Iran\u2019s Supreme Leader Khamenei: \n\n\u201cThe Americans constantly say that they\u2019ve sent a warship toward Iran. Of course, a warship is a dangerous piece of military hardware. However, more dangerous than that warship is the weapon that can send that warship to the bottom of the sea.\u201d",
+        "id": "2023735425190576267",
+        "created_at": " ue Feb 17 12:24:59",
         "author": "TheInsiderPaper",
-        "retweet_count": 3,
+        "retweet_count": 15,
+        "like_count": 39
+      },
+      {
+        "text": "BREAKING \ud83d\udea8 Iran is closing parts of Hormuz Strait during military drill: state TV https://t.co/4j6eNTSGW7",
+        "id": "2023730637619032471",
+        "created_at": " ue Feb 17 12:05:57",
+        "author": "TheInsiderPaper",
+        "retweet_count": 52,
+        "like_count": 141
+      },
+      {
+        "text": "Trump to decide 'soon' on sending weapons to Taiwan https://t.co/d0jnblzHt9 https://t.co/CU3bNiWPhm",
+        "id": "2023729145054892165",
+        "created_at": " ue Feb 17 12:00:01",
+        "author": "TheInsiderPaper",
+        "retweet_count": 14,
+        "like_count": 32
+      },
+      {
+        "text": "BREAKING: Los Angeles mayor calls for 2028 Olympics chairman to step down over Epstein files",
+        "id": "2023728071237660990",
+        "created_at": " ue Feb 17 11:55:45",
+        "author": "TheInsiderPaper",
+        "retweet_count": 38,
+        "like_count": 124
+      },
+      {
+        "text": "BREAKING \ud83d\udea8 Russia increasing activity around Sweden, Swedish military intelligence to AFP",
+        "id": "2023719765714628988",
+        "created_at": " ue Feb 17 11:22:45",
+        "author": "TheInsiderPaper",
+        "retweet_count": 61,
+        "like_count": 281
+      },
+      {
+        "text": "Joe Rogan: \u201cJeffrey Epstein is talking about pandemic planning to someone named Bill\u201d https://t.co/ABvoICVaGx",
+        "id": "2023715557942718539",
+        "created_at": " ue Feb 17 11:06:02",
+        "author": "TheInsiderPaper",
+        "retweet_count": 50,
+        "like_count": 193
+      },
+      {
+        "text": "WATCH: French President Macron takes morning jog in Mumbai, India https://t.co/ZwZvHvYxuB",
+        "id": "2023713308914970734",
+        "created_at": " ue Feb 17 10:57:06",
+        "author": "TheInsiderPaper",
+        "retweet_count": 12,
         "like_count": 57
       },
       {
-        "text": "BREAKING: X down again, second time in a day https://t.co/gv51QNp0XS",
-        "id": "2023462973885600167",
-        "created_at": "Mon Feb 16 18:22:21",
+        "text": "BREAKING - Iran's Khamenei warns US warship in Gulf can be sunk https://t.co/MQv8BbArx5 https://t.co/ccH9W4lQ3b",
+        "id": "2023710541886144781",
+        "created_at": " ue Feb 17 10:46:06",
         "author": "TheInsiderPaper",
-        "retweet_count": 54,
-        "like_count": 249
-      },
-      {
-        "text": "BREAKING - 'Godfather,' 'Apocalypse Now' actor Robert Duvall dead: wife https://t.co/TbVEirwj4s https://t.co/5GomEBv50o",
-        "id": "2023460700463546403",
-        "created_at": "Mon Feb 16 18:13:19",
-        "author": "TheInsiderPaper",
-        "retweet_count": 41,
-        "like_count": 177
+        "retweet_count": 57,
+        "like_count": 203
       }
     ],
     "Unusual Options": [
       {
-        "text": "Senator Slotkin has said that Trump admin will deploy ICE at polling stations in the midterms.",
-        "id": "2023480248214409515",
-        "created_at": "Mon Feb 16 19:31:00",
+        "text": "62% of Gen Z and millennial reportedly had accessed retirement savings due to inflation, compared with 46% of Gen X and 36% of pre-retiree baby boomers, per Allianz",
+        "id": "2023738450034274356",
+        "created_at": " ue Feb 17 12:37:00",
         "author": "unusual_whales",
-        "retweet_count": 39,
-        "like_count": 298
+        "retweet_count": 8,
+        "like_count": 38
       },
       {
-        "text": "BREAKING: Elon Musk\u2019s SpaceX and xAI are competing in a secretive new Pentagon contest to produce voice-controlled, autonomous drone swarming technology, per Bloomberg.",
-        "id": "2023472316999757932",
-        "created_at": "Mon Feb 16 18:59:29",
+        "text": "Hyperscalers have increased AI capex in 2026, per Bloomberg: https://t.co/fOIQHiN3F3",
+        "id": "2023733416332849185",
+        "created_at": " ue Feb 17 12:17:00",
         "author": "unusual_whales",
-        "retweet_count": 118,
-        "like_count": 1378
+        "retweet_count": 13,
+        "like_count": 92
       },
       {
-        "text": "Representative Nancy Mace has said: Where is ALL the audio and ALL the video from ALL the pinhole cameras at ALL the Epstein properties?",
-        "id": "2023468923371569323",
-        "created_at": "Mon Feb 16 18:46:00",
+        "text": "JPMorgan has said that the software stock selloff is overdone, fueled by exaggerated concerns about near-term AI disruption.",
+        "id": "2023728383897878772",
+        "created_at": " ue Feb 17 11:57:00",
         "author": "unusual_whales",
-        "retweet_count": 114,
-        "like_count": 1313
+        "retweet_count": 32,
+        "like_count": 423
       },
       {
-        "text": "BREAKING: The EU and a 12-nation Indo-Pacific bloc are opening talks to explore forming one of the largest global economic alliances, per POLITICO.\n\nCanada's Mark Carney is spearheading the discussions.",
-        "id": "2023462654560596151",
-        "created_at": "Mon Feb 16 18:21:05",
+        "text": "Good morning to everyone:",
+        "id": "2023723349940277670",
+        "created_at": " ue Feb 17 11:37:00",
         "author": "unusual_whales",
-        "retweet_count": 187,
-        "like_count": 1876
-      },
-      {
-        "text": "BREAKING: Attorney General Pam Bondi released a list of 300 politicians and prominent people who were named in the Epstein files, per NYP.\n\nThe list of American politicians in the new release includes the names of US President Donald Trump and First Lady Melania Trump, Ivanka Trump, JD Vance, Bill Clinton, Howard Lutnick, Bill Richardson, Joe Biden and Jill Biden, and Steve Bannon.\n\nBarack Obama & Michelle Obama, Kathryn Ruemmler, Hakeem Jeffries, Antony Blinken, Marco Rubio, Kamala Harris, Hillary Clinton, Larry Summers, Chuck Schumer, George W. Bush, Nikki Haley, Mike Huckabee, Mike Pompeo, Alexandria Ocasio-Cortez, Mike Pence, James Comey, Ron DeSantis, and Robert F. Kennedy Jr, among others, are also present on the list.\n\nThe new list also includes several international leaders. It includes Ehud Barak (Former Prime Minister of Israel), Benjamin Netanyahu (Prime Minister of Israel), Keir Starmer (Prime Minister of the United Kingdom), Thorbj\u00f8rn Jagland (Former Prime Minister of Norway & Former Nobel Committee Chair), Peter Mandelson (Former UK First Secretary of State), Theresa May (Former Prime Minister of the United Kingdom), Tony Blair (Former Prime Minister of the United Kingdom), and Jens Stoltenberg (Former Prime Minister of Norway), among others.\n\nSeveral people from the field of entertainment have also been listed in the final release. These include Alec Baldwin, Beyonce, Jay Z, Meghan Markle, Diana Ross, Amy Schumer, Bruce Springsteen, Woody Allen, Tucker Carlson, Alyssa Milano, Rosie O'Donnell, Michael Jackson, Bill Cobsy, David Copperfield, Kevin Spacey, Cher, George Clooney, Kurt Cobain, Robert De Niro, Bono (Irish singer), Mick Jagger, and Barbara Streisand, among others. Two celebrities who died decades ago - Elvis Presley and Marilyn Monroe - are also included in the list.\n\nSeveral high-profile businessmen are also in the new Epstein Files list. These include, Jeff Bezos, Elon Musk, Mark Zuckerberg, Jared Kushner, Richard Branson, Bill Gates, Leslie (Les) Wexner, Sultan Ahmed bin Sulayem (CEO of DP World, UAE), Leon Black - private equity investor (Apollo Global Management), Robert Maxwell (British-French media proprietor and father of Ghislaine Maxwell), and Peter Thiel, among others.",
-        "id": "2023457599644176601",
-        "created_at": "Mon Feb 16 18:01:00",
-        "author": "unusual_whales",
-        "retweet_count": 244,
-        "like_count": 1436
+        "retweet_count": 13,
+        "like_count": 106
       }
     ]
   }
