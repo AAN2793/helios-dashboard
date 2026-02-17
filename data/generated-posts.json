@@ -1,0 +1,38 @@
+[
+  {
+    "ticker": "GIS",
+    "headline": "General Mills Warns of Challenging Consumer Environment, Cuts Profit Outlook",
+    "body": "General Mills shares plunged 7% after the food giant slashed its fiscal 2026 sales outlook, citing persistent inflation that has left U.S. households feeling increasingly \"uneasy.\" The company now expects organic net sales to decline between 16% and 20%, down from an earlier forecast of 10% to 15% growth. The warning signals that even essential consumer staples are feeling the pinch of the ongoing cost-of-living squeeze.",
+    "source": "Bloomberg"
+  },
+  {
+    "ticker": "NVDA",
+    "headline": "Citi Reiterates Buy on Nvidia Ahead of Earnings, Citing Attractive Valuations",
+    "body": "Nvidia shares experienced volatile trading as the chip giant stabilized following Citi's reiteration of its Buy rating ahead of the company's February 25 earnings release. The firm cited attractive valuations despite a 15% pullback from 2025 highs, noting robust demand for Blackwell and upcoming Rubin chip architectures. With hyperscalers like Amazon and Meta continuing to invest heavily in AI infrastructure, analysts see potential for outperformance in the second half of 2026.",
+    "source": "MarketWatch"
+  },
+  {
+    "ticker": "MASI",
+    "headline": "Danaher to Acquire Masimo for $10 Billion in Cash Deal",
+    "body": "Masimo shares soared on news that Danaher Corporation has entered a definitive agreement to acquire the medical devices maker for approximately $10 billion in cash, or $180 per share. The acquisition values Masimo at a significant premium and represents Danaher's latest move to expand its diagnostics portfolio in the healthcare technology space. The deal is expected to close in the second half of 2026.",
+    "source": "CNBC"
+  },
+  {
+    "ticker": "LUV",
+    "headline": "Southwest Airlines Jumps on Analyst Upgrades, Hits 52-Week High",
+    "body": "Southwest Airlines shares surged nearly 7% to hit a 52-week high after UBS upgraded the stock to Buy from Neutral, raising its price target to $73 from $51. The upgrade cited potential earnings growth from initiatives including extra legroom and assigned seating. The airline also announced board changes as two directors representing Elliott Investment Management will step down effective February 23, 2026.",
+    "source": "Investing.com"
+  },
+  {
+    "ticker": "FRES",
+    "headline": "Fresnillo Falls 4.3% as Silver Prices Retreat in Risk-Off Trading",
+    "body": "Fresnillo shares dropped as much as 4.3% as silver prices tumbled amid a broader risk-off sentiment in the markets. The selloff in precious metals reflects growing concerns about economic growth and inflation expectations. The mining company's decline underscores the sensitivity of commodity producers to shifts in investor risk appetite and currency movements.",
+    "source": "Bloomberg"
+  },
+  {
+    "ticker": "RELX",
+    "headline": "RELX Shares Rise 5.4% as AI Scare Trade Reverses",
+    "body": "RELX shares jumped as much as 5.4%, extending a rebound from recent weakness as investors rotated back into information and analytics companies. The rally comes as the market reassesses AI-related risks that had pressured the sector in recent weeks. The company's strong performance in professional information solutions has helped it weather broader market volatility.",
+    "source": "Proactive Investors"
+  }
+]
