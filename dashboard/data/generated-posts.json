@@ -1,40 +1,70 @@
 {
   "posts": [
     {
-      "ticker": "TWFG",
-      "headline": "TWFG Names Andy McGuire Chief Underwriting Officer to Accelerate Growth",
-      "body": "TWFG Inc. (NASDAQ: TWFG) appointed Andy McGuire as Chief Underwriting Officer on Feb. 17, 2026 to accelerate national growth and MGA expansion. McGuire brings extensive industry experience and leadership background that aligns with TWFG\u2019s culture and growth objectives. The move signals TWFG\u2019s commitment to scaling its insurance distribution platform across the country, particularly in the managing general agent (MGA) space. Investors responded positively to the leadership change, viewing it as a strategic step toward expanding market share in the competitive insurance sector.",
-      "source": "Globe Newswire"
+      "ticker": "KGC",
+      "headline": "Kinross Gold Reports Record Earnings Beat on Higher Gold Prices",
+      "body": "Kinross Gold Corporation (NYSE: KGC) delivered a blockbuster fourth-quarter performance on Feb. 18, 2026, reporting adjusted earnings of $0.75 per share that smashed analyst expectations of $0.55. The Toronto-based miner’s revenue reached record levels, fueled by a 40% year-over-year surge in realized gold prices. The earnings beat sent shares up 1.3% after-hours, demonstrating strong investor confidence in the company’s ability to capitalize on elevated precious metals prices. Kinross’s performance highlights the continued strength in the gold sector as investors seek safe-haven assets amid market uncertainty.",
+      "source": "StockMarketWatch"
     },
     {
-      "ticker": "WBD",
-      "headline": "Warner Bros. Discovery Files Proxy Statement for Netflix Merger Vote",
-      "body": "Warner Bros. Discovery, Inc. filed a definitive proxy statement with the Securities and Exchange Commission on Feb. 17, 2026, announcing a Special Meeting of Shareholders scheduled for March 20, 2026 to vote on the merger with Netflix. The proxy statement was first mailed to WBD stockholders on or around Feb. 17. The $82.7 billion transaction would see Netflix acquire Warner Bros. Entertainment, DC Comics/Studios, and HBO Max, while WBD\u2019s global linear networks would be spun off. The filing marks a significant step toward completing what would be one of the largest media mergers in history.",
-      "source": "PR Newswire"
+      "ticker": "NVDA",
+      "headline": "Nvidia Soars on Massive Meta AI Chip Deal Worth Billions",
+      "body": "Nvidia (NASDAQ: NVDA) shares rocketed to record highs on Feb. 18, 2026 after announcing a massive multi-year partnership with Meta Platforms that includes millions of AI chips. The deal, valued in the tens of billions of dollars, encompasses GPUs, CPUs, and advanced networking technology as Meta plans to spend up to $135 billion on AI infrastructure in 2026. The expanded partnership underscores Nvidia’s dominance in the AI chip market and reinforces its position as the backbone of the artificial intelligence revolution. Shares gained over 2% in regular trading, outperforming the broader market.",
+      "source": "CNBC"
     },
     {
-      "ticker": "MASI",
-      "headline": "Danaher to Acquire Masimo in $9.9 Billion Diagnostics Push",
-      "body": "Danaher Corporation (NYSE: DHR) agreed to acquire Masimo Corporation (NASDAQ: MASI) for $9.9 billion on Feb. 17, 2026, expanding into patient-monitoring devices outside its core diagnostics focus. Danaher will pay $180 per share in cash, representing a 40% premium to Masimo\u2019s closing price. The acquisition of the pulse oximeter maker allows Danaher to strengthen its medical technology portfolio and gain a foothold in the medical supply business. The deal, expected to close in early 2026, underscores Danaher\u2019s strategy of strategic bolt-on acquisitions to complement organic growth.",
+      "ticker": "LZB",
+      "headline": "La-Z-Boy Beats Sales Estimates Despite Profit Miss and Weak Guidance",
+      "body": "La-Z-Boy Incorporated (NYSE: LZB) posted mixed results for its fiscal third quarter on Feb. 18, 2026, delivering a narrow sales beat while missing earnings expectations. The furniture maker reported sales of $541.6 million, up 3.8% year-over-year and slightly above the $538.9 million consensus, but adjusted earnings of $0.52 per share fell short of the $0.65 estimate. Weak guidance for the current quarter sent shares tumbling as investors reacted to margin pressure and ongoing challenges in the home furnishings sector. The results highlight the difficult retail environment facing discretionary consumer goods companies.",
+      "source": "The Motley Fool"
+    },
+    {
+      "ticker": "CDNS",
+      "headline": "Cadence Design Systems Beats Estimates as AI Chip Demand Surges",
+      "body": "Cadence Design Systems (NASDAQ: CDNS) delivered a strong fourth-quarter performance on Feb. 18, 2026, with revenue of $1.44 billion comfortably surpassing analyst expectations of $1.42 billion. The chip design software company saw shares jump nearly 4% in extended trading as CEO Anirudh Devgan projected accelerating demand for custom AI chips. The results demonstrate Cadence’s resilience amid concerns about AI disruption in the software sector, with the company positioning itself as essential infrastructure for the AI hardware revolution. The earnings beat reinforces confidence in the semiconductor design ecosystem.",
+      "source": "CNBC"
+    },
+    {
+      "ticker": "ADI",
+      "headline": "Analog Devices Surges on Strong Industrial and Data Center Demand",
+      "body": "Analog Devices (NASDAQ: ADI) shares rose 6% in pre-market trading on Feb. 18, 2026 following a strong second-quarter earnings report that beat analyst estimates. The chipmaker cited robust demand from industrial and data center customers as artificial intelligence applications continue to drive semiconductor growth. The results highlight the broadening AI infrastructure buildout beyond traditional tech companies, with ADI’s analog and mixed-signal solutions finding strong demand across multiple end markets. The earnings beat demonstrates the company’s ability to capitalize on the ongoing digital transformation across industries.",
+      "source": "Yahoo Finance"
+    },
+    {
+      "ticker": "CVNA",
+      "headline": "Carvana Plunges 25% After Profit Miss and Margin Pressure",
+      "body": "Carvana (NYSE: CVNA) shares collapsed 25% in after-hours trading on Feb. 18, 2026 after reporting fourth-quarter earnings that missed Wall Street expectations. The online used-car retailer posted adjusted EBITDA of $511 million versus the $535.7 million consensus, with an adjusted EBITDA margin of 10.1% falling short of the 10.4% estimate. Higher retail costs weighed on results despite strong revenue growth, highlighting the challenges facing e-commerce companies in maintaining profitability amid inflationary pressures. The sharp selloff reflects investor sensitivity to margin quality in the current market environment.",
       "source": "Reuters"
     },
     {
-      "ticker": "ESRT",
-      "headline": "Empire State Realty Trust Renews Leases with TJ Maxx and JP Morgan Chase",
-      "body": "Empire State Realty Trust, Inc. (NYSE: ESRT) announced on Feb. 17, 2026 that it signed long-term renewal leases with TJ Maxx and JP Morgan Chase Bank for retail spaces totaling 68,120 square feet. The leases cover 46,437 square feet for TJ Maxx and 21,683 square feet for JP Morgan Chase at Empire State Realty\u2019s flagship properties. The renewals demonstrate continued demand for premium retail space in Manhattan and provide stability to ESRT\u2019s cash flow. The long-term commitments from these established tenants signal confidence in New York City\u2019s retail market recovery.",
-      "source": "Business Wire"
+      "ticker": "DASH",
+      "headline": "DoorDash Shares Slide on Earnings Miss and Investment Warning",
+      "body": "DoorDash (NYSE: DASH) shares fell 7.2% in extended trading on Feb. 18, 2026 after reporting fourth-quarter earnings that missed analyst expectations. The food delivery platform posted earnings of 48 cents per share, falling short of the 60-cent consensus, while revenue also came in below estimates. The company warned of heavy investment spending in 2026, dampening investor enthusiasm despite strong user engagement metrics. The mixed results reflect the challenges facing high-growth tech companies as they balance expansion with profitability in a more cautious market environment.",
+      "source": "Bloomberg"
     },
     {
-      "ticker": "UGRO",
-      "headline": "urban-gro Completes Merger with Flash Sports and Media",
-      "body": "urban-gro, Inc. (NASDAQ: UGRO) completed its merger with Flash Sports and Media, Inc. on Feb. 17, 2026, providing shareholders with access to the rapidly evolving sports and media digital landscape. The transaction, first announced on Oct. 14, 2025, provides Flash shareholders with unregistered shares of urban-gro\u2019s common stock and newly created non-voting preferred stock. Upon stockholder approval, the preferred stock will convert to common stock, with the total shares equaling Flash\u2019s agreed equity valuation divided by $3.23, urban-gro\u2019s closing price on Feb. 17. The merger expands urban-gro\u2019s presence in the sports technology sector.",
-      "source": "Investing.com"
+      "ticker": "OXY",
+      "headline": "Occidental Petroleum Beats Profit Estimates Despite Lower Oil Prices",
+      "body": "Occidental Petroleum (NYSE: OXY) shares gained 2.9% in after-hours trading on Feb. 18, 2026 despite reporting fourth-quarter results that missed revenue expectations. The oil and gas producer delivered adjusted earnings of $0.31 per share, beating the $0.17 consensus estimate, as higher production helped offset weaker crude oil prices. The company’s operational performance demonstrated resilience in a challenging commodity price environment, with investors focusing on production growth rather than top-line weakness. The results highlight Occidental’s ability to navigate volatile energy markets through operational efficiency.",
+      "source": "Reuters"
+    },
+    {
+      "ticker": "BKNG",
+      "headline": "Booking Holdings Tops Estimates with Strong Travel Recovery",
+      "body": "Booking Holdings (NASDAQ: BKNG) reported a stellar fourth-quarter performance on Feb. 18, 2026, with revenue of $6.35 billion up 16.1% year-over-year and exceeding analyst expectations of $6.25 billion. The online travel giant posted adjusted earnings of $48.80 per share, beating the $47.58 consensus and demonstrating the continued strength in travel demand. Flight bookings surged 38% year-over-year as Booking successfully expanded beyond its hotel-only roots. The results underscore the robust recovery in the travel sector and Booking’s ability to capitalize on changing consumer preferences.",
+      "source": "MarketBeat"
+    },
+    {
+      "ticker": "GLEN",
+      "headline": "Glencore Profit Falls as Coal Slump Weighs on Diversified Mining Results",
+      "body": "Glencore (LON: GLEN) reported a 6% decline in core earnings to $13.5 billion for 2025 on Feb. 18, 2026 as record copper prices failed to offset weakness in its coal operations. The diversified miner and commodity trader announced a $2 billion shareholder return despite the earnings dip, demonstrating confidence in its long-term value proposition. The results highlight the challenges facing traditional energy commodities as the global economy transitions toward cleaner energy sources. Glencore’s ability to maintain shareholder returns amid sector headwinds reflects its strong balance sheet and diversified business model.",
+      "source": "Bloomberg"
     },
     {
       "ticker": "SPX",
-      "headline": "S&P 500 Edges Higher as Financial Stocks Offset Tech Weakness",
-      "body": "U.S. equity markets concluded a volatile session on Feb. 17, 2026 with major indexes managing to edge into positive territory despite significant intraday swings. The S&P 500 rose 0.1% to close at 6,843.22, while the Dow Jones Industrial Average climbed 32.26 points, or 0.07%, settling at 49,533.19. The tech-heavy Nasdaq Composite lagged, shedding roughly 0.5% as investors grappled with evolving artificial intelligence impacts on software and IT services. Financial stocks provided support, offsetting continued weakness in the technology sector amid concerns about AI-driven disruption in software and IT services.",
-      "source": "CNBC"
+      "headline": "S&P 500 and Nasdaq Hit Record Highs as Tech Strength Returns",
+      "body": "U.S. equity markets reached new milestones on Feb. 18, 2026 as investors shrugged off lingering inflation concerns to push major indexes to all-time closing highs. The S&P 500 rose 0.56% to end at 6,881.31, while the Nasdaq Composite added 0.78% to close at 22,753.63, both setting fresh records. The broad-based rally was led by technology stocks, with Nvidia’s massive Meta deal driving gains across the semiconductor sector. The market’s resilience reflects growing confidence in the AI-driven growth narrative and the economy’s ability to withstand higher interest rates.",
+      "source": "StockMarketWatch"
     }
   ]
 }
