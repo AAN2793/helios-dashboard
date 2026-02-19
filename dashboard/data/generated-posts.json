@@ -1,70 +1,32 @@
-{
-  "posts": [
-    {
-      "ticker": "KGC",
-      "headline": "Kinross Gold Reports Record Earnings Beat on Higher Gold Prices",
-      "body": "Kinross Gold Corporation (NYSE: KGC) delivered a blockbuster fourth-quarter performance on Feb. 18, 2026, reporting adjusted earnings of $0.75 per share that smashed analyst expectations of $0.55. The Toronto-based miner’s revenue reached record levels, fueled by a 40% year-over-year surge in realized gold prices. The earnings beat sent shares up 1.3% after-hours, demonstrating strong investor confidence in the company’s ability to capitalize on elevated precious metals prices. Kinross’s performance highlights the continued strength in the gold sector as investors seek safe-haven assets amid market uncertainty.",
-      "source": "StockMarketWatch"
-    },
-    {
-      "ticker": "NVDA",
-      "headline": "Nvidia Soars on Massive Meta AI Chip Deal Worth Billions",
-      "body": "Nvidia (NASDAQ: NVDA) shares rocketed to record highs on Feb. 18, 2026 after announcing a massive multi-year partnership with Meta Platforms that includes millions of AI chips. The deal, valued in the tens of billions of dollars, encompasses GPUs, CPUs, and advanced networking technology as Meta plans to spend up to $135 billion on AI infrastructure in 2026. The expanded partnership underscores Nvidia’s dominance in the AI chip market and reinforces its position as the backbone of the artificial intelligence revolution. Shares gained over 2% in regular trading, outperforming the broader market.",
-      "source": "CNBC"
-    },
-    {
-      "ticker": "LZB",
-      "headline": "La-Z-Boy Beats Sales Estimates Despite Profit Miss and Weak Guidance",
-      "body": "La-Z-Boy Incorporated (NYSE: LZB) posted mixed results for its fiscal third quarter on Feb. 18, 2026, delivering a narrow sales beat while missing earnings expectations. The furniture maker reported sales of $541.6 million, up 3.8% year-over-year and slightly above the $538.9 million consensus, but adjusted earnings of $0.52 per share fell short of the $0.65 estimate. Weak guidance for the current quarter sent shares tumbling as investors reacted to margin pressure and ongoing challenges in the home furnishings sector. The results highlight the difficult retail environment facing discretionary consumer goods companies.",
-      "source": "The Motley Fool"
-    },
-    {
-      "ticker": "CDNS",
-      "headline": "Cadence Design Systems Beats Estimates as AI Chip Demand Surges",
-      "body": "Cadence Design Systems (NASDAQ: CDNS) delivered a strong fourth-quarter performance on Feb. 18, 2026, with revenue of $1.44 billion comfortably surpassing analyst expectations of $1.42 billion. The chip design software company saw shares jump nearly 4% in extended trading as CEO Anirudh Devgan projected accelerating demand for custom AI chips. The results demonstrate Cadence’s resilience amid concerns about AI disruption in the software sector, with the company positioning itself as essential infrastructure for the AI hardware revolution. The earnings beat reinforces confidence in the semiconductor design ecosystem.",
-      "source": "CNBC"
-    },
-    {
-      "ticker": "ADI",
-      "headline": "Analog Devices Surges on Strong Industrial and Data Center Demand",
-      "body": "Analog Devices (NASDAQ: ADI) shares rose 6% in pre-market trading on Feb. 18, 2026 following a strong second-quarter earnings report that beat analyst estimates. The chipmaker cited robust demand from industrial and data center customers as artificial intelligence applications continue to drive semiconductor growth. The results highlight the broadening AI infrastructure buildout beyond traditional tech companies, with ADI’s analog and mixed-signal solutions finding strong demand across multiple end markets. The earnings beat demonstrates the company’s ability to capitalize on the ongoing digital transformation across industries.",
-      "source": "Yahoo Finance"
-    },
-    {
-      "ticker": "CVNA",
-      "headline": "Carvana Plunges 25% After Profit Miss and Margin Pressure",
-      "body": "Carvana (NYSE: CVNA) shares collapsed 25% in after-hours trading on Feb. 18, 2026 after reporting fourth-quarter earnings that missed Wall Street expectations. The online used-car retailer posted adjusted EBITDA of $511 million versus the $535.7 million consensus, with an adjusted EBITDA margin of 10.1% falling short of the 10.4% estimate. Higher retail costs weighed on results despite strong revenue growth, highlighting the challenges facing e-commerce companies in maintaining profitability amid inflationary pressures. The sharp selloff reflects investor sensitivity to margin quality in the current market environment.",
-      "source": "Reuters"
-    },
-    {
-      "ticker": "DASH",
-      "headline": "DoorDash Shares Slide on Earnings Miss and Investment Warning",
-      "body": "DoorDash (NYSE: DASH) shares fell 7.2% in extended trading on Feb. 18, 2026 after reporting fourth-quarter earnings that missed analyst expectations. The food delivery platform posted earnings of 48 cents per share, falling short of the 60-cent consensus, while revenue also came in below estimates. The company warned of heavy investment spending in 2026, dampening investor enthusiasm despite strong user engagement metrics. The mixed results reflect the challenges facing high-growth tech companies as they balance expansion with profitability in a more cautious market environment.",
-      "source": "Bloomberg"
-    },
-    {
-      "ticker": "OXY",
-      "headline": "Occidental Petroleum Beats Profit Estimates Despite Lower Oil Prices",
-      "body": "Occidental Petroleum (NYSE: OXY) shares gained 2.9% in after-hours trading on Feb. 18, 2026 despite reporting fourth-quarter results that missed revenue expectations. The oil and gas producer delivered adjusted earnings of $0.31 per share, beating the $0.17 consensus estimate, as higher production helped offset weaker crude oil prices. The company’s operational performance demonstrated resilience in a challenging commodity price environment, with investors focusing on production growth rather than top-line weakness. The results highlight Occidental’s ability to navigate volatile energy markets through operational efficiency.",
-      "source": "Reuters"
-    },
-    {
-      "ticker": "BKNG",
-      "headline": "Booking Holdings Tops Estimates with Strong Travel Recovery",
-      "body": "Booking Holdings (NASDAQ: BKNG) reported a stellar fourth-quarter performance on Feb. 18, 2026, with revenue of $6.35 billion up 16.1% year-over-year and exceeding analyst expectations of $6.25 billion. The online travel giant posted adjusted earnings of $48.80 per share, beating the $47.58 consensus and demonstrating the continued strength in travel demand. Flight bookings surged 38% year-over-year as Booking successfully expanded beyond its hotel-only roots. The results underscore the robust recovery in the travel sector and Booking’s ability to capitalize on changing consumer preferences.",
-      "source": "MarketBeat"
-    },
-    {
-      "ticker": "GLEN",
-      "headline": "Glencore Profit Falls as Coal Slump Weighs on Diversified Mining Results",
-      "body": "Glencore (LON: GLEN) reported a 6% decline in core earnings to $13.5 billion for 2025 on Feb. 18, 2026 as record copper prices failed to offset weakness in its coal operations. The diversified miner and commodity trader announced a $2 billion shareholder return despite the earnings dip, demonstrating confidence in its long-term value proposition. The results highlight the challenges facing traditional energy commodities as the global economy transitions toward cleaner energy sources. Glencore’s ability to maintain shareholder returns amid sector headwinds reflects its strong balance sheet and diversified business model.",
-      "source": "Bloomberg"
-    },
-    {
-      "ticker": "SPX",
-      "headline": "S&P 500 and Nasdaq Hit Record Highs as Tech Strength Returns",
-      "body": "U.S. equity markets reached new milestones on Feb. 18, 2026 as investors shrugged off lingering inflation concerns to push major indexes to all-time closing highs. The S&P 500 rose 0.56% to end at 6,881.31, while the Nasdaq Composite added 0.78% to close at 22,753.63, both setting fresh records. The broad-based rally was led by technology stocks, with Nvidia’s massive Meta deal driving gains across the semiconductor sector. The market’s resilience reflects growing confidence in the AI-driven growth narrative and the economy’s ability to withstand higher interest rates.",
-      "source": "StockMarketWatch"
-    }
-  ]
-}
+[
+  {
+    "ticker": "WMT",
+    "headline": "Walmart Shares Slide on Cautious Profit Outlook Despite Strong Q4 Earnings",
+    "body": "Walmart shares fell 1.38% to $124.87 after the retail giant forecast 2026 earnings of $2.75-$2.85 per share, below Wall Street expectations. The world's largest retailer reported strong Q4 revenue and robust e-commerce growth, but investors reacted negatively to the cautious full-year guidance. Walmart also announced a $30 billion buyback program and named John Furner as its new CEO. The mixed results reflect ongoing consumer uncertainty despite the company's digital transformation success.",
+    "source": "Bloomberg, CNBC, 24/7 Wall St."
+  },
+  {
+    "ticker": "ETSY",
+    "headline": "Etsy Soars 22% After Selling Depop to eBay for $1.2 Billion",
+    "body": "Etsy shares surged 22% in premarket trading and closed up 21.2% at $49.01 after announcing it would sell its Depop secondhand clothing platform to eBay for $1.2 billion in cash. The deal, expected to close in Q2 2026, allows Etsy to focus on its core marketplace while raising significant capital. The move comes alongside a Q4 earnings beat, with the company demonstrating strong profitability despite recent market challenges.",
+    "source": "Yahoo Finance, MarketWatch, The Motley Fool"
+  },
+  {
+    "ticker": "DE",
+    "headline": "Deere Stock Jumps 11.6% on Earnings Beat and Raised Guidance",
+    "body": "Deere & Company shares rose 11.6% after the farm machinery maker reported Q1 earnings of $656 million and raised its full-year net income guidance to $4.5-$5.0 billion. The company cited a recovery in construction and small agriculture segments, with 2026 net sales now forecast to be up around 15%. Deere's strong performance reflects improving demand in key markets despite ongoing global agricultural challenges.",
+    "source": "Reuters, Yahoo Finance, Deere Press Release"
+  },
+  {
+    "ticker": "MSG",
+    "headline": "Madison Square Garden Sports Surges 13% on Knicks-Rangers Spinoff Plan",
+    "body": "Madison Square Garden Sports Corp. shares jumped 13% to a record high after the company announced plans to spin off its New York Knicks NBA franchise from its New York Rangers NHL team. The board unanimously approved the split, which would create two separately traded public companies. While no timeline was provided for the final decision, investors responded positively to the potential value unlock from separating the two major sports franchises.",
+    "source": "CNBC, StockTwits, Bloomberg"
+  },
+  {
+    "ticker": "OXY",
+    "headline": "Occidental Petroleum Rises on Earnings Beat and Oil Price Rally",
+    "body": "Occidental Petroleum shares gained 8.61% after beating fourth quarter earnings expectations and benefiting from oil prices climbing to six-month highs. West Texas Intermediate futures rose about 2% to $66.55 per barrel amid growing concerns over potential U.S. military action against Iran. The oil price rally provided additional support for energy stocks despite broader market weakness.",
+    "source": "Reuters, Bloomberg, MarketWatch"
+  }
+]
