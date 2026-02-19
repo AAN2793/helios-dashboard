@@ -1,137 +1,47 @@
 {
-  "generated": "2026-02-18 16:45",
-  "updated": "2026-02-18T16:45:40.078191",
+  "generated": "2026-02-18 20:12",
+  "updated": "2026-02-18T20:12:41.739897",
   "categories": {
     "Breaking News": [
       {
-        "text": "Booking Holdings $BKNG just announced a new 25 to 1 stock split https://t.co/vc0puVAvp1",
-        "id": "2024267780774670425",
-        "created_at": "Wed Feb 18 23:40:22",
+        "text": "U.S. GATHERS THE MOST AIR POWER IN THE MIDEAST SINCE THE 2003 IRAQ INVASION - WSJ",
+        "id": "2024319531221471598",
+        "created_at": " hu Feb 19 03:06:00",
         "author": "StockMKTNewz",
-        "retweet_count": 1,
-        "like_count": 13
+        "retweet_count": 4,
+        "like_count": 21
       },
       {
-        "text": "RT @StockMKTNewz: JUST IN: Many famous investors including Warren Buffett, Bill Ackman and a bunch more just updated their portfolios\n\nHere\u2026",
-        "id": "2024258586814140612",
-        "created_at": "Wed Feb 18 23:03:50",
+        "text": "OpenAI is close to finalizing the first phase of a new funding round that is likely to bring in more than $100 billion - Bloomberg https://t.co/7vfODmM11z",
+        "id": "2024316085713899909",
+        "created_at": " hu Feb 19 02:52:19",
         "author": "StockMKTNewz",
-        "retweet_count": 118,
-        "like_count": 685
+        "retweet_count": 3,
+        "like_count": 38
       },
       {
-        "text": "Here\u2019s how every stock in the S&amp;P 500 performed today  https://t.co/CsxZgVjgdO",
-        "id": "2024246107514019991",
-        "created_at": "Wed Feb 18 22:14:15",
+        "text": "RT @StockMKTNewz: The Seattle Seahawks have began the process to sell the team, in what is set to be the biggest ever deal for a NFL franch\u2026",
+        "id": "2024293610783494449",
+        "created_at": " hu Feb 19 01:23:01",
         "author": "StockMKTNewz",
-        "retweet_count": 7,
-        "like_count": 52
-      },
-      {
-        "text": "\"Our results suggest that Kalshi markets provide a high-frequency, continuously updated, distributionally rich benchmark that is valuable to both researchers and policymakers\" - US Fed",
-        "id": "2024244540937224696",
-        "created_at": "Wed Feb 18 22:08:01",
-        "author": "StockMKTNewz",
-        "retweet_count": 1,
-        "like_count": 17
-      },
-      {
-        "text": "RT @Kalshi: The Fed's latest research paper: Kalshi\n\n\"Our results suggest that Kalshi markets provide a high-frequency, continuously update\u2026",
-        "id": "2024243630970401263",
-        "created_at": "Wed Feb 18 22:04:24",
-        "author": "DeItaone",
-        "retweet_count": 62,
-        "like_count": 347
-      },
-      {
-        "text": "*IMF WARNS OF `ADVERSE SPILLOVERS' FROM CHINA EXPORT RELIANCE",
-        "id": "2024243258537267257",
-        "created_at": "Wed Feb 18 22:02:56",
-        "author": "DeItaone",
-        "retweet_count": 17,
-        "like_count": 123
-      },
-      {
-        "text": "RECENT FEDERAL RESERVE PAPER FINDS KALSHI TO BE \"VALUABLE TO BOTH RESEARCHERS AND POLICYMAKERS\"",
-        "id": "2024239478177476835",
-        "created_at": "Wed Feb 18 21:47:54",
-        "author": "DeItaone",
         "retweet_count": 10,
-        "like_count": 105
+        "like_count": 117
       },
       {
-        "text": "BREAKING: The U.S. State Department is developing an online portal that will enable people in Europe and elsewhere to see content banned by their governments, a move Washington views as a way to counter censorship. The site will be hosted at freedom(dot)gov - Reuters",
-        "id": "2024255866426319215",
-        "created_at": "Wed Feb 18 22:53:02",
+        "text": "RT @StockMKTNewz: BILL ACKMAN vs GEORGE SOROS\n\nHere is Bill Ackman\u2019s most recently updated portfolio vs the largest holdings in George Soro\u2026",
+        "id": "2024291213403128057",
+        "created_at": " hu Feb 19 01:13:29",
+        "author": "StockMKTNewz",
+        "retweet_count": 35,
+        "like_count": 250
+      },
+      {
+        "text": "France has launched wide-ranging investigations into human trafficking and financial fraud among contacts of the late convicted U.S. sex offender Jeffrey Epstein following the release of a trove of files on his activities - Reuters",
+        "id": "2024314391278022824",
+        "created_at": " hu Feb 19 02:45:35",
         "author": "TheInsiderPaper",
-        "retweet_count": 70,
-        "like_count": 295
-      },
-      {
-        "text": "NEW - \u2018Several\u2019 US Fed officials signal possible interest rate hikes https://t.co/MMP5SS4A7R",
-        "id": "2024254600342130919",
-        "created_at": "Wed Feb 18 22:48:00",
-        "author": "TheInsiderPaper",
-        "retweet_count": 8,
-        "like_count": 30
-      },
-      {
-        "text": "JUST IN - Top national security officials have told President Trump the military is ready for potential strikes on Iran as soon as Saturday, but the timeline for any action is likely to extend beyond this weekend \u2014 CBS",
-        "id": "2024249880622092296",
-        "created_at": "Wed Feb 18 22:29:14",
-        "author": "TheInsiderPaper",
-        "retweet_count": 50,
-        "like_count": 229
-      },
-      {
-        "text": "BREAKING - North Korea unveils huge new nuclear-capable rocket launcher: state media",
-        "id": "2024246643718312419",
-        "created_at": "Wed Feb 18 22:16:23",
-        "author": "TheInsiderPaper",
-        "retweet_count": 45,
-        "like_count": 255
-      },
-      {
-        "text": "NEW: Florida House approves bill to rename Palm Beach airport after President Trump",
-        "id": "2024243177922929006",
-        "created_at": "Wed Feb 18 22:02:36",
-        "author": "TheInsiderPaper",
-        "retweet_count": 32,
-        "like_count": 231
-      },
-      {
-        "text": "NYC Mayor Zohran Mamdani aims to cancel 5,000 NYPD officer hires and proposes a cut to the department's budget to address the city's deficit \u2014 Fox News",
-        "id": "2024239639624896703",
-        "created_at": "Wed Feb 18 21:48:33",
-        "author": "TheInsiderPaper",
-        "retweet_count": 218,
-        "like_count": 901
-      }
-    ],
-    "Unusual Options": [
-      {
-        "text": "BREAKING: The US State Department is developing an online portal to enable people in Europe and elsewhere to see content banned by their governments including alleged hate speech and terrorist propaganda, per Reuters",
-        "id": "2024264255038521626",
-        "created_at": "Wed Feb 18 23:26:22",
-        "author": "unusual_whales",
-        "retweet_count": 51,
-        "like_count": 354
-      },
-      {
-        "text": "JUST IN: The UK is examining Epstein's use of airports for trafficking, per Reuters",
-        "id": "2024250322353525203",
-        "created_at": "Wed Feb 18 22:31:00",
-        "author": "unusual_whales",
-        "retweet_count": 100,
-        "like_count": 1376
-      },
-      {
-        "text": "The U.S. is in the process of withdrawing all of its roughly 1,000 troops from Syria, per WSJ",
-        "id": "2024242017463669059",
-        "created_at": "Wed Feb 18 21:58:00",
-        "author": "unusual_whales",
-        "retweet_count": 22,
-        "like_count": 431
+        "retweet_count": 23,
+        "like_count": 75
       }
     ]
   }
