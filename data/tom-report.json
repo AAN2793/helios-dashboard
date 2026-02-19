@@ -1,209 +1,185 @@
 {
-  "generated": "2026-02-19 11:12",
-  "updated": "2026-02-19T11:12:48.141183",
+  "generated": "2026-02-19 16:45",
+  "updated": "2026-02-19T16:45:40.845019",
   "categories": {
     "Breaking News": [
       {
-        "text": "TRUMP: OBAMA GAVE AWAY CLASSIFIED INFORMATION ON ALIENS",
-        "id": "2024547046112579671",
-        "created_at": " hu Feb 19 18:10:04",
+        "text": "CLEAR STREET GROUP WITHDRAWS IPO, CITING MARKET CONDITIONS: WSJ",
+        "id": "2024608131008152033",
+        "created_at": " hu Feb 19 22:12:48",
         "author": "wallstengine",
-        "retweet_count": 1,
-        "like_count": 12
-      },
-      {
-        "text": "This is what Norway's \ud83c\uddf3\ud83c\uddf4 Norges Bank has in its stock portfolio https://t.co/13Yic6kxNc",
-        "id": "2024542941025296558",
-        "created_at": " hu Feb 19 17:53:45",
-        "author": "StockMKTNewz",
         "retweet_count": 6,
-        "like_count": 37
+        "like_count": 43
       },
       {
-        "text": "RT @StockMKTNewz: THE AI COMPETITION IS ON!!\n\nOpenAI CEO Sam Altman and Anthropic CEO Dario Amodei refused to hold hands during this group\u2026",
-        "id": "2024539637436334307",
-        "created_at": " hu Feb 19 17:40:38",
-        "author": "StockMKTNewz",
-        "retweet_count": 76,
-        "like_count": 1072
-      },
-      {
-        "text": "Steve Cohen reportedly made more money than any other  Hedge Fund manager in 2025 bringing in $3.4 Billion - Bloomberg https://t.co/OToswy6ZgO",
-        "id": "2024535159668703609",
-        "created_at": " hu Feb 19 17:22:50",
-        "author": "StockMKTNewz",
-        "retweet_count": 9,
-        "like_count": 76
-      },
-      {
-        "text": "Visa $V said today it would acquire payment platforms Prisma and Newpay from private-equity firm Advent International, bolstering its presence in Argentina - Reuters https://t.co/3rZWm8j3ZO",
-        "id": "2024524944525107603",
-        "created_at": " hu Feb 19 16:42:15",
-        "author": "StockMKTNewz",
-        "retweet_count": 9,
-        "like_count": 97
-      },
-      {
-        "text": "AppLovin $APP is preparing to build a social networking platform https://t.co/Rh3kIQLdqe",
-        "id": "2024521744426369481",
-        "created_at": " hu Feb 19 16:29:32",
+        "text": "\ud83c\uddfa\ud83c\uddf8 PRESIDENT TRUMP SAID TODAY: \n\n- IF THE STOCK MARKET IS GOOD, IT'S GOOD FOR EVERYBODY https://t.co/8cdUDk00zx",
+        "id": "2024620694240108886",
+        "created_at": " hu Feb 19 23:02:43",
         "author": "StockMKTNewz",
         "retweet_count": 7,
-        "like_count": 147
+        "like_count": 90
       },
       {
-        "text": "TRUMP: REALLY BAD THINGS WILL HAPPEN IF NO IRAN DEAL",
-        "id": "2024546559019385261",
-        "created_at": " hu Feb 19 18:08:08",
+        "text": "$META CUTS STAFF STOCK AWARDS FOR A SECOND CONSECUTIVE YEAR - Financial Times",
+        "id": "2024618122116731330",
+        "created_at": " hu Feb 19 22:52:30",
+        "author": "StockMKTNewz",
+        "retweet_count": 12,
+        "like_count": 134
+      },
+      {
+        "text": "S&amp;P: RISK OF U.S. RECESSION FALLS AMID RESILIENT GROWTH, BUSINESS CYCLE BAROMETER SAYS",
+        "id": "2024615075881848951",
+        "created_at": " hu Feb 19 22:40:24",
         "author": "DeItaone",
-        "retweet_count": 17,
-        "like_count": 72
+        "retweet_count": 27,
+        "like_count": 170
       },
       {
-        "text": "TRUMP: WILL GET A DEAL ON IRAN ONE WAY OR THE OTHER",
-        "id": "2024546519362294149",
-        "created_at": " hu Feb 19 18:07:59",
+        "text": "S&amp;P: NOW JUDGE PROBABILITY OF RECESSION STARTING WITHIN NEXT 12 MONTHS IN U.S. AT 20%-25%, DOWN FROM 30% IN SEPTEMBER",
+        "id": "2024614947267686737",
+        "created_at": " hu Feb 19 22:39:53",
         "author": "DeItaone",
-        "retweet_count": 7,
-        "like_count": 56
+        "retweet_count": 24,
+        "like_count": 142
       },
       {
-        "text": "$NFLX - NETFLIX MAY RAISE BID IN WARNER BROS BATTLE\n\nNetflix has the financial firepower to increase its $82.7 billion bid for Warner Bros Discovery if rival Paramount Skydance sweetens its $108.4 billion offer for the entire company, sources say.\n\nWarner Bros, owner of franchises like Harry Potter, Game of Thrones, and DC Comics, is set for a March 20 shareholder vote on Netflix\u2019s offer but has given Paramount a week to submit a stronger bid.",
-        "id": "2024541325635272706",
-        "created_at": " hu Feb 19 17:47:20",
+        "text": "DALY: WE HAVE MORE WORK TO DO TO GET INFLATION DOWN, BUT DON'T WANT TO GET BEHIND, OR OVER OUR SKIS",
+        "id": "2024612894688588107",
+        "created_at": " hu Feb 19 22:31:44",
         "author": "DeItaone",
-        "retweet_count": 6,
-        "like_count": 106
+        "retweet_count": 8,
+        "like_count": 82
       },
       {
-        "text": "SUPREME COURT TARIFF RULING COULD SHAKE STOCKS\n\nThe U.S. Supreme Court may rule on tariffs this week, and JPMorgan\u2019s trading desk predicts sharply different market outcomes:\n\n\u2022  64% chance: Tariffs struck down and immediately replaced \u2192 S&P 500 rises 0.1\u20130.2% after an initial 0.75\u20131% spike.\n\n\u2022  26% chance: Tariffs upheld \u2192 S&P 500 drops 0.3\u20130.5%, bigger yield curve moves.\n\n\u2022  9% chance: Tariffs struck down after midterms \u2192 S&P 500 +1.25\u20131.5%, Russell 2000 outperforms.\n\n\u2022  1% chance: Tariffs struck down with no replacement \u2192 S&P 500 +1.5\u20132%, Russell 2000 outperforms.\n\nThe U.S. collected $124B in tariff duties through January. Even if struck down, new levies could keep effective rates similar to 2025, limiting market gains.",
-        "id": "2024540849900597444",
-        "created_at": " hu Feb 19 17:45:27",
+        "text": "IRAN IN LETTER TO UN CHIEF:  IF SUBJECTED TO MILITARY AGGRESSION, IRAN WILL RESPOND AND ALL BASES, FACILITIES AND ASSETS OF 'HOSTILE FORCE' IN REGION WILL BE LEGITIMATE TARGETS",
+        "id": "2024612010139308187",
+        "created_at": " hu Feb 19 22:28:13",
         "author": "DeItaone",
-        "retweet_count": 52,
-        "like_count": 213
+        "retweet_count": 30,
+        "like_count": 390
       },
       {
-        "text": "$NFLX - NETFLIX HAS AMPLE ROOM TO INCREASE OFFER IN BIDDING WAR FOR WARNER BROS, SOURCES SAY",
-        "id": "2024539533845352569",
-        "created_at": " hu Feb 19 17:40:13",
+        "text": "CORRECTED: IRAN IN LETTER TO UN CHIEF:  IRAN DOES NOT SEEK TENSIONS OR WAR AND WILL NOT INITIATE WAR",
+        "id": "2024611876689104963",
+        "created_at": " hu Feb 19 22:27:41",
         "author": "DeItaone",
-        "retweet_count": 17,
-        "like_count": 164
+        "retweet_count": 27,
+        "like_count": 206
       },
       {
-        "text": "MORTGAGE RATES FALL NEAR 3\u00bd-YEAR LOW\n\nMortgage rates dropped to 6.01% for a 30-year fixed loan\u2014the lowest since September 2022\u2014down from 6.09% last week, according to Freddie Mac. The decline could ease affordability pressures and revive activity in the stagnant housing market.",
-        "id": "2024535217608790066",
-        "created_at": " hu Feb 19 17:23:04",
+        "text": "DALY: EXPECT INFLATION TO COME DOWN AS TARIFFS ROLL OFF",
+        "id": "2024611624913441189",
+        "created_at": " hu Feb 19 22:26:41",
         "author": "DeItaone",
-        "retweet_count": 29,
-        "like_count": 192
+        "retweet_count": 8,
+        "like_count": 91
       },
       {
-        "text": "WATCH - Heart wrenching scene: Little Punch was bullied again by a bigger monkey, who dragged her harshly across the ground. She cried and ran back to clutch her adoptive mother doll for comfort https://t.co/ZWI56eCgnk",
-        "id": "2024543147762831629",
-        "created_at": " hu Feb 19 17:54:35",
-        "author": "TheInsiderPaper",
-        "retweet_count": 17,
-        "like_count": 109
-      },
-      {
-        "text": "JUST IN - Pakistan Prime Minister says Trump is truly the savior of South Asia\n\n https://t.co/ZJuXkNeSES",
-        "id": "2024539396050210993",
-        "created_at": " hu Feb 19 17:39:40",
-        "author": "TheInsiderPaper",
-        "retweet_count": 14,
-        "like_count": 54
-      },
-      {
-        "text": "Sweden on Thursday revealed prison conditions that teens as young as 13 will face if convicted of a serious criminal offence, once a much-criticised juvenile judicial reform takes effect in July.\nhttps://t.co/twch6daeKN",
-        "id": "2024537212906311826",
-        "created_at": " hu Feb 19 17:31:00",
-        "author": "TheInsiderPaper",
-        "retweet_count": 6,
-        "like_count": 18
-      },
-      {
-        "text": "JUST IN - Trump bangs a golden gavel, bringing the peace meeting to a close as \u201cYMCA\u201d plays in the background. https://t.co/4PbNmsW5EU",
-        "id": "2024536691047092594",
-        "created_at": " hu Feb 19 17:28:55",
-        "author": "TheInsiderPaper",
-        "retweet_count": 75,
-        "like_count": 270
-      },
-      {
-        "text": "BREAKING - Morocco to contribute military, police to Gaza in first Arab pledge\n\nhttps://t.co/b9tCjoQ5wh",
-        "id": "2024532137320345661",
-        "created_at": " hu Feb 19 17:10:50",
-        "author": "TheInsiderPaper",
+        "text": "DALY: ON AI CAPEX, THERE'S REAL DEMAND THERE, IT'S NOT THE FIELD OF DREAMS",
+        "id": "2024611459901079682",
+        "created_at": " hu Feb 19 22:26:02",
+        "author": "DeItaone",
         "retweet_count": 10,
-        "like_count": 34
+        "like_count": 107
       },
       {
-        "text": "Putin gives blessing to new Madagascar leader\n\nhttps://t.co/RMQ0n4PHBD",
-        "id": "2024529414277779717",
-        "created_at": " hu Feb 19 17:00:00",
-        "author": "TheInsiderPaper",
+        "text": "IRAN IN LETTER TO UN CHIEF:  TRUMP COMMENTS SIGNAL 'REAL RISK OF MILITARY AGGRESSION'",
+        "id": "2024610427036918268",
+        "created_at": " hu Feb 19 22:21:55",
+        "author": "DeItaone",
+        "retweet_count": 22,
+        "like_count": 194
+      },
+      {
+        "text": "TRUMP SAYS U.S.\u2013VENEZUELA ENERGY COOPERATION IS GOING \u201cVERY WELL",
+        "id": "2024604662901391366",
+        "created_at": " hu Feb 19 21:59:01",
+        "author": "DeItaone",
         "retweet_count": 12,
-        "like_count": 26
+        "like_count": 121
       },
       {
-        "text": "Macron asks Meloni not to 'comment' on France's affairs after activist remark\n\nhttps://t.co/04rnyrITJF",
-        "id": "2024521863154876756",
-        "created_at": " hu Feb 19 16:30:00",
-        "author": "TheInsiderPaper",
-        "retweet_count": 12,
-        "like_count": 38
+        "text": "TRUMP SAYS  50 MILLION BARRELS OF VENEZUELAN OIL ON THE WAY TO HOUSTON",
+        "id": "2024603256375108078",
+        "created_at": " hu Feb 19 21:53:26",
+        "author": "DeItaone",
+        "retweet_count": 28,
+        "like_count": 235
       },
       {
-        "text": "BREAKING: US Commission of Fine Arts unanimously approves White House ballroom proposal.",
-        "id": "2024520362223161516",
-        "created_at": " hu Feb 19 16:24:02",
-        "author": "TheInsiderPaper",
-        "retweet_count": 43,
-        "like_count": 241
+        "text": "TRUMP: IF THE STOCK MARKET IS GOOD, IT'S GOOD FOR EVERYBODY. THE STOCK MARKET HIT 50,000",
+        "id": "2024602782070669815",
+        "created_at": " hu Feb 19 21:51:33",
+        "author": "DeItaone",
+        "retweet_count": 25,
+        "like_count": 498
       },
       {
-        "text": "New Mexico probes allegation of bodies buried near Epstein ranch \u2014 Reuters https://t.co/DmN9fOeBPP",
-        "id": "2024517951421091998",
-        "created_at": " hu Feb 19 16:14:28",
+        "text": "TRUMP ON SUPREME COURT TARIFF RULING: I\u2019VE BEEN WAITING FOREVER",
+        "id": "2024601668306817300",
+        "created_at": " hu Feb 19 21:47:07",
+        "author": "DeItaone",
+        "retweet_count": 17,
+        "like_count": 242
+      },
+      {
+        "text": "JUST IN - Wild video captures the shocking moment three bears charged through the snow at a Northern California ski resort \u2014 crossing directly into the path of skiers. https://t.co/MYVaEPGfOR",
+        "id": "2024623302745215451",
+        "created_at": " hu Feb 19 23:13:05",
         "author": "TheInsiderPaper",
-        "retweet_count": 76,
-        "like_count": 272
+        "retweet_count": 25,
+        "like_count": 99
+      },
+      {
+        "text": "JUST IN - Les Wexner\u2019s attorney whispered a message during the House Oversight Committee deposition on Epstein probe\n \nHe told Wexner: \u201cI\u2019ll fucking kill you if you answer another question with more than five words, ok?\u201d\n\n https://t.co/5ZnpYcW460",
+        "id": "2024617882517459145",
+        "created_at": " hu Feb 19 22:51:33",
+        "author": "TheInsiderPaper",
+        "retweet_count": 79,
+        "like_count": 332
+      },
+      {
+        "text": "NEW: Trump accused Barack Obama of disclosing \u201cclassified\u201d information in his recent viral remarks about the existence of aliens\n\nInterest in UFOs, now referred to as Unidentified Aerial Phenomena (UAP), has been renewed in recent years as the US government probed numerous reports of seemingly supernatural aircraft, amid worries that adversaries could be testing highly advanced technologies.\n\nREAD: https://t.co/GbFScJcNBg",
+        "id": "2024614410514251814",
+        "created_at": " hu Feb 19 22:37:45",
+        "author": "TheInsiderPaper",
+        "retweet_count": 49,
+        "like_count": 173
+      },
+      {
+        "text": "JUST IN - USA's Alysa Liu\u00a0wins Olympic women's figure skating gold\n\n https://t.co/zFJ0dMNDWt",
+        "id": "2024605143459909983",
+        "created_at": " hu Feb 19 22:00:56",
+        "author": "TheInsiderPaper",
+        "retweet_count": 271,
+        "like_count": 2757
+      },
+      {
+        "text": "BREAKING: New Mexico attorney general reopens investigation into allegations of illegal activity at Epstein's former Zorro Ranch - AP",
+        "id": "2024601437238358410",
+        "created_at": " hu Feb 19 21:46:12",
+        "author": "TheInsiderPaper",
+        "retweet_count": 78,
+        "like_count": 318
       }
     ],
     "Unusual Options": [
       {
-        "text": "JUST IN: We\u2019re showing how to use the Unusual Whales platform live.\n\nJoin as we showcase the tools, check your favourite tickers, and doscuss market moving news.\n\nSee it here: https://t.co/9FZSZS3CJA",
-        "id": "2024545478159855756",
-        "created_at": " hu Feb 19 18:03:50",
+        "text": "Look at this potential insider. \n\nThe Vietnamese next Prime Minister is determined by the ruling party, in this case, the Communist Party.\n\nThis trader has two positions, betting exclusively on Vietnamese politics. \n\nThey previously bet on the next President, with a big gain.\n\nNow they're betting on the next Prime Minister.\n\nSee their position: https://t.co/RK13DXRqea",
+        "id": "2024612710428676321",
+        "created_at": " hu Feb 19 22:31:00",
         "author": "unusual_whales",
-        "retweet_count": 4,
-        "like_count": 43
+        "retweet_count": 11,
+        "like_count": 140
       },
       {
-        "text": "OpenAI is close to finalizing the first phase of a new funding round that is likely to bring in more than $100 billion, per Bloomberg",
-        "id": "2024538612109332888",
-        "created_at": " hu Feb 19 17:36:33",
+        "text": "Trump on Iran: \"We're going to get a deal one way or the other... We're either going to get a deal or it's going to be unfortunate for them.\" https://t.co/OeR3ALUsfB",
+        "id": "2024604405383786624",
+        "created_at": " hu Feb 19 21:58:00",
         "author": "unusual_whales",
-        "retweet_count": 12,
-        "like_count": 198
-      },
-      {
-        "text": "Representative Melaine Stansbury has said: If a Prince can be held accountable, so can a President.",
-        "id": "2024533053981544542",
-        "created_at": " hu Feb 19 17:14:28",
-        "author": "unusual_whales",
-        "retweet_count": 86,
-        "like_count": 1156
-      },
-      {
-        "text": "BREAKING: French modeling scout Jean-Luc Brunel was secretly negotiating in 2016 with lawyers representing Epstein's victims, according to new DOJ files and the WSJ.\n\nBrunel's lawyer told them his client recruited girls for Epstein and had incriminating photographs.\n\nBrunel hid in 2019, and was found hung in cell in 2022.",
-        "id": "2024524865244426748",
-        "created_at": " hu Feb 19 16:41:56",
-        "author": "unusual_whales",
-        "retweet_count": 333,
-        "like_count": 2224
+        "retweet_count": 31,
+        "like_count": 376
       }
     ]
   }
