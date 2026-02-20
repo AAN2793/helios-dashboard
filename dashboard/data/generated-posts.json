@@ -1,0 +1,32 @@
+[
+  {
+    "ticker": "SPY",
+    "headline": "S&P 500 Rallies After Supreme Court Strikes Down Trump Tariffs",
+    "body": "The S&P 500 advanced 0.51% Friday afternoon after the Supreme Court ruled against President Trump\'s emergency tariffs, sparking a relief rally across trade-sensitive sectors. The SPDR S&P 500 ETF (SPY) gained 0.52% as investors bet the decision would reduce trade tensions and support corporate earnings. The ruling delivered a major setback to Trump\'s economic agenda, with markets interpreting the decision as a potential boost to global trade flows and economic growth. Tech stocks led the advance, with the Nasdaq Composite up 0.7%, while defensive sectors lagged as investors rotated into growth-oriented names.",
+    "source": "Bloomberg"
+  },
+  {
+    "ticker": "EBAY",
+    "headline": "eBay to Acquire Depop for $1.2 Billion, Expanding in Gen Z Fashion Resale",
+    "body": "eBay announced Friday it will acquire Etsy\'s secondhand clothing marketplace Depop for approximately $1.2 billion in cash, marking a strategic expansion into the fast-growing Gen Z fashion resale segment. The deal, expected to close in Q2 2026, gives eBay access to Depop\'s 3 million active sellers and 7 million active buyers who generated $650 million in gross merchandise value in 2025. Etsy shares jumped 14% on the news, while eBay\'s stock edged 0.8% higher in afternoon trading as investors welcomed the move to strengthen eBay\'s position in the competitive resale market.",
+    "source": "CNBC"
+  },
+  {
+    "ticker": "NFLX",
+    "headline": "Netflix Shares Rise on Positive Q4 Results and Subscriber Growth",
+    "body": "Netflix shares climbed more than 1% Friday afternoon after the streaming giant reported better-than-expected fourth-quarter results, including 15% sales growth guidance for the current quarter. The company\'s strong performance comes amid intensifying competition in the streaming wars, with Warner Bros. Discovery shares edging higher following news that Netflix has provided a waiver to reopen deal talks. Netflix\'s stock, down more than 20% over the past 12 months, found support as investors focused on the company\'s improving financial metrics and content pipeline.",
+    "source": "Reuters"
+  },
+  {
+    "ticker": "SILVER",
+    "headline": "Silver Prices Surge to $80.46 as Safe-Haven Demand Intensifies",
+    "body": "Silver prices surged to $80.46 per ounce Friday, marking a $2.40 increase from the previous session and a $47 gain over the past year. The precious metal\'s rally was fueled by escalating geopolitical tensions and the Supreme Court\'s tariff ruling, which investors interpreted as potentially inflationary. Gold prices also rose, supported by the Iran nuclear standoff and falling European bond yields. The 10-year Treasury yield ticked higher to 4.09% as markets digested the implications of the court decision on government finances and inflation expectations.",
+    "source": "Fortune"
+  },
+  {
+    "ticker": "WBD",
+    "headline": "Warner Bros. Shares Rise as Netflix Bidding War Intensifies",
+    "body": "Warner Bros. Discovery shares rose 1.6% Friday after reports that Netflix has bid $27.75 per share, or $82.7 billion, for the studio and streaming businesses. The bidding war intensified as Paramount countered with a $30 per share offer for the entire company, including Discovery Global. Warner Bros. said it would hold a special investor meeting in April 2026 to vote on the Netflix transaction, maintaining that the deal is superior for shareholders. The stock market rally following the Supreme Court ruling provided additional support to media stocks as investors bet on reduced trade tensions benefiting corporate dealmaking.",
+    "source": "Reuters"
+  }
+]
