@@ -1,185 +1,49 @@
 {
-  "generated": "2026-02-19 16:45",
-  "updated": "2026-02-19T16:45:40.845019",
+  "generated": "2026-02-19 20:12",
+  "updated": "2026-02-19T20:12:39.690686",
   "categories": {
     "Breaking News": [
       {
-        "text": "CLEAR STREET GROUP WITHDRAWS IPO, CITING MARKET CONDITIONS: WSJ",
-        "id": "2024608131008152033",
-        "created_at": " hu Feb 19 22:12:48",
-        "author": "wallstengine",
-        "retweet_count": 6,
-        "like_count": 43
-      },
-      {
-        "text": "\ud83c\uddfa\ud83c\uddf8 PRESIDENT TRUMP SAID TODAY: \n\n- IF THE STOCK MARKET IS GOOD, IT'S GOOD FOR EVERYBODY https://t.co/8cdUDk00zx",
-        "id": "2024620694240108886",
-        "created_at": " hu Feb 19 23:02:43",
-        "author": "StockMKTNewz",
-        "retweet_count": 7,
-        "like_count": 90
-      },
-      {
-        "text": "$META CUTS STAFF STOCK AWARDS FOR A SECOND CONSECUTIVE YEAR - Financial Times",
-        "id": "2024618122116731330",
-        "created_at": " hu Feb 19 22:52:30",
-        "author": "StockMKTNewz",
-        "retweet_count": 12,
-        "like_count": 134
-      },
-      {
-        "text": "S&amp;P: RISK OF U.S. RECESSION FALLS AMID RESILIENT GROWTH, BUSINESS CYCLE BAROMETER SAYS",
-        "id": "2024615075881848951",
-        "created_at": " hu Feb 19 22:40:24",
-        "author": "DeItaone",
-        "retweet_count": 27,
-        "like_count": 170
-      },
-      {
-        "text": "S&amp;P: NOW JUDGE PROBABILITY OF RECESSION STARTING WITHIN NEXT 12 MONTHS IN U.S. AT 20%-25%, DOWN FROM 30% IN SEPTEMBER",
-        "id": "2024614947267686737",
-        "created_at": " hu Feb 19 22:39:53",
-        "author": "DeItaone",
-        "retweet_count": 24,
-        "like_count": 142
-      },
-      {
-        "text": "DALY: WE HAVE MORE WORK TO DO TO GET INFLATION DOWN, BUT DON'T WANT TO GET BEHIND, OR OVER OUR SKIS",
-        "id": "2024612894688588107",
-        "created_at": " hu Feb 19 22:31:44",
-        "author": "DeItaone",
-        "retweet_count": 8,
-        "like_count": 82
-      },
-      {
-        "text": "IRAN IN LETTER TO UN CHIEF:  IF SUBJECTED TO MILITARY AGGRESSION, IRAN WILL RESPOND AND ALL BASES, FACILITIES AND ASSETS OF 'HOSTILE FORCE' IN REGION WILL BE LEGITIMATE TARGETS",
-        "id": "2024612010139308187",
-        "created_at": " hu Feb 19 22:28:13",
-        "author": "DeItaone",
-        "retweet_count": 30,
-        "like_count": 390
-      },
-      {
-        "text": "CORRECTED: IRAN IN LETTER TO UN CHIEF:  IRAN DOES NOT SEEK TENSIONS OR WAR AND WILL NOT INITIATE WAR",
-        "id": "2024611876689104963",
-        "created_at": " hu Feb 19 22:27:41",
-        "author": "DeItaone",
-        "retweet_count": 27,
-        "like_count": 206
-      },
-      {
-        "text": "DALY: EXPECT INFLATION TO COME DOWN AS TARIFFS ROLL OFF",
-        "id": "2024611624913441189",
-        "created_at": " hu Feb 19 22:26:41",
-        "author": "DeItaone",
-        "retweet_count": 8,
-        "like_count": 91
-      },
-      {
-        "text": "DALY: ON AI CAPEX, THERE'S REAL DEMAND THERE, IT'S NOT THE FIELD OF DREAMS",
-        "id": "2024611459901079682",
-        "created_at": " hu Feb 19 22:26:02",
-        "author": "DeItaone",
-        "retweet_count": 10,
-        "like_count": 107
-      },
-      {
-        "text": "IRAN IN LETTER TO UN CHIEF:  TRUMP COMMENTS SIGNAL 'REAL RISK OF MILITARY AGGRESSION'",
-        "id": "2024610427036918268",
-        "created_at": " hu Feb 19 22:21:55",
-        "author": "DeItaone",
-        "retweet_count": 22,
-        "like_count": 194
-      },
-      {
-        "text": "TRUMP SAYS U.S.\u2013VENEZUELA ENERGY COOPERATION IS GOING \u201cVERY WELL",
-        "id": "2024604662901391366",
-        "created_at": " hu Feb 19 21:59:01",
-        "author": "DeItaone",
-        "retweet_count": 12,
-        "like_count": 121
-      },
-      {
-        "text": "TRUMP SAYS  50 MILLION BARRELS OF VENEZUELAN OIL ON THE WAY TO HOUSTON",
-        "id": "2024603256375108078",
-        "created_at": " hu Feb 19 21:53:26",
-        "author": "DeItaone",
-        "retweet_count": 28,
-        "like_count": 235
-      },
-      {
-        "text": "TRUMP: IF THE STOCK MARKET IS GOOD, IT'S GOOD FOR EVERYBODY. THE STOCK MARKET HIT 50,000",
-        "id": "2024602782070669815",
-        "created_at": " hu Feb 19 21:51:33",
-        "author": "DeItaone",
-        "retweet_count": 25,
-        "like_count": 498
-      },
-      {
-        "text": "TRUMP ON SUPREME COURT TARIFF RULING: I\u2019VE BEEN WAITING FOREVER",
-        "id": "2024601668306817300",
-        "created_at": " hu Feb 19 21:47:07",
-        "author": "DeItaone",
-        "retweet_count": 17,
-        "like_count": 242
-      },
-      {
-        "text": "JUST IN - Wild video captures the shocking moment three bears charged through the snow at a Northern California ski resort \u2014 crossing directly into the path of skiers. https://t.co/MYVaEPGfOR",
-        "id": "2024623302745215451",
-        "created_at": " hu Feb 19 23:13:05",
+        "text": "NEW: Japan inflation eases in welcome news for PM Sanae Takaichi https://t.co/FBisL2kBXW",
+        "id": "2024680416142053585",
+        "created_at": "Fri Feb 20 03:00:02",
         "author": "TheInsiderPaper",
-        "retweet_count": 25,
-        "like_count": 99
+        "retweet_count": 2,
+        "like_count": 14
       },
       {
-        "text": "JUST IN - Les Wexner\u2019s attorney whispered a message during the House Oversight Committee deposition on Epstein probe\n \nHe told Wexner: \u201cI\u2019ll fucking kill you if you answer another question with more than five words, ok?\u201d\n\n https://t.co/5ZnpYcW460",
-        "id": "2024617882517459145",
-        "created_at": " hu Feb 19 22:51:33",
+        "text": "BREAKING: Grey's Anatomy and Euphoria star Eric Dane dead at 53 https://t.co/OXqMgTl8N4",
+        "id": "2024671642509885935",
+        "created_at": "Fri Feb 20 02:25:10",
         "author": "TheInsiderPaper",
-        "retweet_count": 79,
-        "like_count": 332
+        "retweet_count": 110,
+        "like_count": 383
       },
       {
-        "text": "NEW: Trump accused Barack Obama of disclosing \u201cclassified\u201d information in his recent viral remarks about the existence of aliens\n\nInterest in UFOs, now referred to as Unidentified Aerial Phenomena (UAP), has been renewed in recent years as the US government probed numerous reports of seemingly supernatural aircraft, amid worries that adversaries could be testing highly advanced technologies.\n\nREAD: https://t.co/GbFScJcNBg",
-        "id": "2024614410514251814",
-        "created_at": " hu Feb 19 22:37:45",
+        "text": "JUST IN - Iran fighter jet crashes during training: state TV https://t.co/kXgwhemGhM",
+        "id": "2024667823252144407",
+        "created_at": "Fri Feb 20 02:10:00",
         "author": "TheInsiderPaper",
-        "retweet_count": 49,
-        "like_count": 173
+        "retweet_count": 20,
+        "like_count": 77
       },
       {
-        "text": "JUST IN - USA's Alysa Liu\u00a0wins Olympic women's figure skating gold\n\n https://t.co/zFJ0dMNDWt",
-        "id": "2024605143459909983",
-        "created_at": " hu Feb 19 22:00:56",
+        "text": "BREAKING: Trump says he will be directing the Secretary of War, and other relevant agencies, to begin the process of identifying and releasing government files related to aliens and extraterrestrial life, UAP and UFOs https://t.co/rdNjnaScy8",
+        "id": "2024654496056693073",
+        "created_at": "Fri Feb 20 01:17:02",
         "author": "TheInsiderPaper",
-        "retweet_count": 271,
-        "like_count": 2757
-      },
-      {
-        "text": "BREAKING: New Mexico attorney general reopens investigation into allegations of illegal activity at Epstein's former Zorro Ranch - AP",
-        "id": "2024601437238358410",
-        "created_at": " hu Feb 19 21:46:12",
-        "author": "TheInsiderPaper",
-        "retweet_count": 78,
-        "like_count": 318
+        "retweet_count": 175,
+        "like_count": 759
       }
     ],
     "Unusual Options": [
       {
-        "text": "Look at this potential insider. \n\nThe Vietnamese next Prime Minister is determined by the ruling party, in this case, the Communist Party.\n\nThis trader has two positions, betting exclusively on Vietnamese politics. \n\nThey previously bet on the next President, with a big gain.\n\nNow they're betting on the next Prime Minister.\n\nSee their position: https://t.co/RK13DXRqea",
-        "id": "2024612710428676321",
-        "created_at": " hu Feb 19 22:31:00",
+        "text": "BREAKING: President Trump to release files relating to aliens, extraterrestrial life, UFOs and UAPs https://t.co/SYnWSvFiaH",
+        "id": "2024657532162363415",
+        "created_at": "Fri Feb 20 01:29:06",
         "author": "unusual_whales",
-        "retweet_count": 11,
-        "like_count": 140
-      },
-      {
-        "text": "Trump on Iran: \"We're going to get a deal one way or the other... We're either going to get a deal or it's going to be unfortunate for them.\" https://t.co/OeR3ALUsfB",
-        "id": "2024604405383786624",
-        "created_at": " hu Feb 19 21:58:00",
-        "author": "unusual_whales",
-        "retweet_count": 31,
-        "like_count": 376
+        "retweet_count": 414,
+        "like_count": 5542
       }
     ]
   }
