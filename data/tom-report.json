@@ -1,49 +1,107 @@
 {
-  "generated": "2026-02-19 20:12",
-  "updated": "2026-02-19T20:12:39.690686",
+  "generated": "2026-02-20 06:38",
+  "updated": "2026-02-20T06:38:00.000000",
   "categories": {
     "Breaking News": [
       {
-        "text": "NEW: Japan inflation eases in welcome news for PM Sanae Takaichi https://t.co/FBisL2kBXW",
-        "id": "2024680416142053585",
-        "created_at": "Fri Feb 20 03:00:02",
-        "author": "TheInsiderPaper",
+        "text": "MICHAEL SAYLOR: 'IF IT'S NOT GOING TO ZERO, IT'S GOING TO A MILLION'",
+        "id": "wallstengine_001",
+        "created_at": "Fri Feb 20 13:23:57",
+        "author": "wallstengine",
         "retweet_count": 2,
-        "like_count": 14
+        "like_count": 32
       },
       {
-        "text": "BREAKING: Grey's Anatomy and Euphoria star Eric Dane dead at 53 https://t.co/OXqMgTl8N4",
-        "id": "2024671642509885935",
-        "created_at": "Fri Feb 20 02:25:10",
-        "author": "TheInsiderPaper",
-        "retweet_count": 110,
-        "like_count": 383
+        "text": "US ADVANCE Q4 GDP +1.4% (EST +3.0%)",
+        "id": "wallstengine_002",
+        "created_at": "Fri Feb 20 13:30:51",
+        "author": "wallstengine",
+        "retweet_count": 10,
+        "like_count": 31
       },
       {
-        "text": "JUST IN - Iran fighter jet crashes during training: state TV https://t.co/kXgwhemGhM",
-        "id": "2024667823252144407",
-        "created_at": "Fri Feb 20 02:10:00",
-        "author": "TheInsiderPaper",
-        "retweet_count": 20,
-        "like_count": 77
+        "text": "PCE 2.9% YoY (Est. 2.8%), CORE PCE 3.0% YoY (Est. 2.9%), PERSONAL SPENDING 0.4% MoM",
+        "id": "wallstengine_003",
+        "created_at": "Fri Feb 20 13:31:21",
+        "author": "wallstengine",
+        "retweet_count": 14,
+        "like_count": 34
       },
       {
-        "text": "BREAKING: Trump says he will be directing the Secretary of War, and other relevant agencies, to begin the process of identifying and releasing government files related to aliens and extraterrestrial life, UAP and UFOs https://t.co/rdNjnaScy8",
-        "id": "2024654496056693073",
-        "created_at": "Fri Feb 20 01:17:02",
-        "author": "TheInsiderPaper",
-        "retweet_count": 175,
-        "like_count": 759
+        "text": "Trump: 'The Democrat shutdown cost the U.S. at least two points of GDP.'",
+        "id": "wallstengine_004",
+        "created_at": "Fri Feb 20 13:34:56",
+        "author": "wallstengine",
+        "retweet_count": 6,
+        "like_count": 30
+      },
+      {
+        "text": "US 4Q GOVT SPENDING FELL AT 5.1% PACE, MOST SINCE 2020",
+        "id": "wallstengine_005",
+        "created_at": "Fri Feb 20 13:35:01",
+        "author": "wallstengine",
+        "retweet_count": 3,
+        "like_count": 21
       }
     ],
     "Unusual Options": [
       {
-        "text": "BREAKING: President Trump to release files relating to aliens, extraterrestrial life, UFOs and UAPs https://t.co/SYnWSvFiaH",
-        "id": "2024657532162363415",
-        "created_at": "Fri Feb 20 01:29:06",
+        "text": "Miami is the city with the highest concentration of millionaires, per Miami News Times.",
+        "id": "unusual_whales_001",
+        "created_at": "Fri Feb 20 13:17:00",
         "author": "unusual_whales",
-        "retweet_count": 414,
-        "like_count": 5542
+        "retweet_count": 21,
+        "like_count": 286
+      },
+      {
+        "text": "Bloomberg reports that $GOOGL, $AMZN, $META, and $MSFT plan to invest roughly $650 billion this year in data centers, chips, and infrastructure as the AI race accelerates.",
+        "id": "unusual_whales_002",
+        "created_at": "Fri Feb 20 13:37:00",
+        "author": "unusual_whales",
+        "retweet_count": 9,
+        "like_count": 36
+      }
+    ],
+    "Stock Alerts": [
+      {
+        "text": "Good morning and happy Friday. Gappers this morning include $MGRX $AIOS $EDHL $CDIO $OPEN",
+        "id": "AlertsAndNews_001",
+        "created_at": "Fri Feb 20 13:09:49",
+        "author": "AlertsAndNews",
+        "retweet_count": 0,
+        "like_count": 2
+      },
+      {
+        "text": "$GIBO any legs on this? GIBO Announces Breakthrough in Proprietary AIGC Engine",
+        "id": "AlertsAndNews_002",
+        "created_at": "Fri Feb 20 13:11:01",
+        "author": "AlertsAndNews",
+        "retweet_count": 0,
+        "like_count": 0
+      },
+      {
+        "text": "$USO $DJT $SPY $INDO $LMT Sending more Military Assets to the Middle East. US SENDS LARGEST WARSHIP TOWARD IRAN - USS Gerald R. Ford",
+        "id": "AlertsAndNews_003",
+        "created_at": "Fri Feb 20 13:12:22",
+        "author": "AlertsAndNews",
+        "retweet_count": 0,
+        "like_count": 0
+      },
+      {
+        "text": "$SPY $DJT $QQQ Major data about to drop - GDP Estimate 2.5%, PCE Estimate 2.8%, Core PCE Estimate 3.0%",
+        "id": "AlertsAndNews_004",
+        "created_at": "Fri Feb 20 13:25:05",
+        "author": "AlertsAndNews",
+        "retweet_count": 0,
+        "like_count": 1
+      },
+      {
+        "text": "US Core PCE Price Index YoY Actual 3.0% (Forecast 2.9%), US PCE Price Index YoY Actual 2.9% (Forecast 2.8%)",
+        "id": "AlertsAndNews_005",
+        "created_at": "Fri Feb 20 13:31:19",
+        "author": "AlertsAndNews",
+        "retweet_count": 0,
+        "like_count": 1
       }
     ]
   }
