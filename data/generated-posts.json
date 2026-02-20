@@ -1,35 +1,47 @@
-{
-  "generated": "2026-02-20T06:38:00Z",
-  "posts": [
-    {
-      "ticker": "$WMT",
-      "headline": "Walmart Beats Q4 Revenue but Issues Cautious 2026 Guidance",
-      "body": "Walmart narrowly exceeded Wall Street expectations for the fourth quarter, reporting strong holiday sales performance. However, the retail giant issued conservative guidance for fiscal 2026, citing substantial macroeconomic uncertainty. The company announced a $30 billion share buyback program while projecting adjusted EPS of $2.75 to $2.85, below analyst forecasts of $2.96.",
-      "source": "CNBC"
-    },
-    {
-      "ticker": "$DBX",
-      "headline": "Dropbox Shares Fall 4% Despite Earnings Beat on Weak 2026 Guidance",
-      "body": "Dropbox reported better-than-expected fourth-quarter results but saw its stock decline over 4% in premarket trading. The cloud storage company's fiscal 2026 sales guidance failed to impress analysts, overshadowing the earnings beat.",
-      "source": "MarketWatch"
-    },
-    {
-      "ticker": "$GOOGL",
-      "headline": "Big Tech Plans $650B AI Infrastructure Spend in 2026",
-      "body": "Bloomberg reports that Google parent Alphabet, Amazon, Meta, and Microsoft plan to invest roughly $650 billion this year in data centers, chips, and infrastructure as the AI race accelerates.",
-      "source": "Bloomberg"
-    },
-    {
-      "ticker": "$MGRX",
-      "headline": "Friday Morning Gap Up: MGRX, AIOS, EDHL, CDIO, OPEN",
-      "body": "Good morning and happy Friday. Gappers this morning include $MGRX $AIOS $EDHL $CDIO $OPEN. Market preparing for key economic data releases including GDP and PCE inflation numbers.",
-      "source": "AlertsAndNews"
-    },
-    {
-      "ticker": "$SPY",
-      "headline": "US Core PCE YoY Actual 3.0% vs Forecast 2.9% - Hotter Than Expected",
-      "body": "US Core PCE Price Index came in at 3.0% YoY (Forecast 2.9%, Previous 2.8%). The hotter-than-expected inflation reading could impact Fed rate cut expectations for 2026.",
-      "source": "AlertsAndNews"
-    }
-  ]
-}
+[
+  {
+    "ticker": "$EBAY",
+    "headline": "eBay Acquires Depop for $1.2 Billion to Target Gen Z Fashion Market",
+    "body": "eBay has agreed to purchase secondhand fashion marketplace Depop from Etsy for about $1.2 billion in cash. The acquisition is expected to help eBay target younger fashion-loving consumers and expand its presence in the Gen Z market. - AP News"
+  },
+  {
+    "ticker": "$JCI",
+    "headline": "Johnson Controls to Acquire Alloy Enterprises for Data Center Thermal Management",
+    "body": "Johnson Controls has signed an agreement to acquire Alloy Enterprises, a Boston-based company specializing in thermal management for data centers. The acquisition will strengthen Johnson Controls' leadership in data center cooling and AI-based thermal management solutions. - Facilities Dive"
+  },
+  {
+    "ticker": "$SNSE",
+    "headline": "Sensei Biotherapeutics Acquires Faeth and Raises $200 Million",
+    "body": "Sensei Biotherapeutics has acquired Faeth Therapeutics and secured approximately $200 million in funding. The strategic acquisition introduces PIKTOR, Faeth's investigational drug that combines serabelisib and sapanisertib to inhibit the PI3K/AKT/mTOR pathway. - El-Balad.com"
+  },
+  {
+    "ticker": "$TRNR",
+    "headline": "TRNR Signs Definitive Agreement to Acquire Ergatta, Increasing 2026 Revenue Guidance",
+    "body": "Interactive Strength (TRNR) has signed a definitive agreement to acquire Ergatta, boosting 2026 pro forma revenue guidance by 50% to more than $30 million. The acquisition is expected to deliver over $10 million in 2026 revenue with approximately 30% EBITDA margins. - Benzinga"
+  },
+  {
+    "ticker": "$MRNA",
+    "headline": "FDA Refuses to Review Moderna's Influenza Vaccine Application",
+    "body": "The U.S. FDA declined to review Moderna's flu vaccine application for its mRNA-1010 product. Moderna shares fell about 8% in extended trading following the unexpected decision. - Contagion Live"
+  },
+  {
+    "ticker": "$DE",
+    "headline": "Deere Shares Jump 12% After Q1 Earnings Beat and Raised Profit Outlook",
+    "body": "Deere & Co. shares jumped nearly 12% to a fresh high after the farm and construction equipment maker posted Q1 earnings that exceeded expectations. The company raised its full-year 2026 profit forecast to between $4.5 billion and $5.0 billion. - Investopedia"
+  },
+  {
+    "ticker": "$WMT",
+    "headline": "Walmart Reports Strong Holiday Growth, but Earnings Outlook Falls Short",
+    "body": "Walmart reported Q4 earnings per share of 74 cents adjusted vs. 73 cents expected, with revenue climbing 5.6% year-over-year to $190.7 billion. Shares fell 1.38% on Thursday following the earnings announcement. - CNBC"
+  },
+  {
+    "ticker": "$OPEN",
+    "headline": "Opendoor Reports Strong Q4 Results, Stock Jumps 16.5%",
+    "body": "Opendoor reported Q4 2025 revenue of $736 million, comfortably beating Wall Street consensus and adjusted EBITDA of -$43 million came in better than expected. The stock traded up 16.5% to $5.36 immediately following the results. - Tokenist"
+  },
+  {
+    "ticker": "$AMZN",
+    "headline": "Amazon Plans to Launch AI Content Marketplace for Publishers",
+    "body": "Amazon has notified publishing industry executives that it plans to launch a specialized marketplace where media companies can sell their content to AI product developers. The initiative is expected to expand Amazon's addressable markets in the AI space. - The Information"
+  }
+]
