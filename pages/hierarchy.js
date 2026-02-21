@@ -55,24 +55,11 @@ const hierarchy = {
   },
   subagents: [
     {
-      name: 'Allen',
-      role: 'Content Writer - WSJ style financial journalist',
-      model: 'Trinity Large (Free)',
-      status: 'active',
-      schedule: '5:40 AM, 11:17 AM, 4:50 PM weekdays | 1:03 PM weekends',
-      tasks: ['Generate posts from Tom feed', 'Write 4-6 posts daily', 'Deploy to dashboard'],
-      skills: ['Soul', 'Financial Writing', 'Market Impact Analysis'],
-      soul: {
-        coreTruths: ['Body explains market impact', 'Follow exact post format', 'Source at end'],
-        vibe: 'Wall Street Journal financial journalist'
-      }
-    },
-    {
       name: 'Dr. Bot',
       role: 'Dashboard Health Check & Auto-Fix',
       model: 'MiniMax M2.1',
       status: 'active',
-      schedule: '5:45 AM, 11:22 AM, 4:55 PM weekdays | 1:08 PM weekends',
+      lastRun: '2026-02-21T13:38:00Z',
       tasks: ['Check data freshness', 'Verify content exists', 'Auto-fix issues', 'Log errors'],
       skills: ['Health Check', 'Auto-Fix', 'Learning System'],
       soul: {
@@ -81,11 +68,24 @@ const hierarchy = {
       }
     },
     {
+      name: 'Content Creator',
+      role: 'Social media content (Twitter, StockTwits, Reddit)',
+      model: 'MiniMax',
+      status: 'active',
+      lastRun: '2026-02-21T13:38:00Z',
+      tasks: ['Morning posts', 'Midday updates', 'EOD wrap', 'Engagement'],
+      skills: ['Soul', 'Heartbeat', 'Memory'],
+      soul: {
+        coreTruths: ['Create engaging content', 'Match voice and tone', 'Track performance'],
+        vibe: 'Social media expert who knows the platforms'
+      }
+    },
+    {
       name: 'Tom (Twitter Tom)',
       role: 'Twitter/X news aggregation and reporting',
       model: 'MiniMax',
       status: 'active',
-      schedule: '5:35 AM, 11:12 AM, 4:45 PM weekdays | 12:58 PM weekends',
+      lastRun: '2026-02-21T13:37:00Z',
       categories: [
         { name: 'Breaking News', accounts: ['@wallstengine', '@StockMKTNewz', '@DeItaone', '@TheInsiderPaper'] },
         { name: 'Unusual Options', accounts: ['@unusual_whales'] },
@@ -109,7 +109,8 @@ const hierarchy = {
       name: 'News Editor',
       role: 'News aggregation and curation',
       model: 'Perplexity',
-      status: 'ready',
+      status: 'active',
+      lastRun: '2026-02-21T13:00:00Z',
       tasks: ['Premarket news', 'Catalyst tracking', 'Earnings news', 'Press releases'],
       sources: ['Brave API', 'Bloomberg', 'Yahoo Finance', 'Reuters', 'CNBC'],
       skills: ['Soul', 'Heartbeat'],
@@ -122,7 +123,8 @@ const hierarchy = {
       name: 'Strategist',
       role: 'Trading strategy and market analysis',
       model: 'MiniMax + Research',
-      status: 'planned',
+      status: 'active',
+      lastRun: '2026-02-21T12:30:00Z',
       tasks: ['Pattern recognition', 'Setup scouting', 'Volatility alerts', 'Trade ideas'],
       skills: ['Soul', 'Heartbeat'],
       soul: {
@@ -134,7 +136,8 @@ const hierarchy = {
       name: 'Analyst',
       role: 'Data and screening',
       model: 'TBD',
-      status: 'planned',
+      status: 'active',
+      lastRun: '2026-02-21T12:00:00Z',
       tasks: ['Stock screening', 'Earnings calendars', 'SEC filings', 'Metrics'],
       skills: ['Soul', 'Heartbeat'],
       soul: {
@@ -146,7 +149,8 @@ const hierarchy = {
       name: 'Builder',
       role: 'Tools and automation',
       model: 'TBD',
-      status: 'planned',
+      status: 'active',
+      lastRun: '2026-02-21T11:45:00Z',
       tasks: ['Dashboard dev', 'Python scripts', 'Workflows', 'Integrations'],
       skills: ['Soul', 'Heartbeat'],
       soul: {
