@@ -1,75 +1,58 @@
 {
-  "generated": "2026-02-20 17:35",
-  "updated": "2026-02-20T17:35:00.000000",
+  "generated": "2026-02-21 08:41",
+  "updated": "2026-02-21T08:41:00.000000",
   "categories": {
     "Breaking News": [
       {
-        "text": "PRESIDENT TRUMP: Those members of the Supreme Court who voted against our very acceptable and proper method of TARIFFS should be ashamed of themselves.",
+        "text": "GERMAN FINANCE MINISTER TO FAZ NEWSPAPER ON US TARIFF VERDICT: TRUMP HAS ALREADY ANNOUNCED NEW TARIFFS, THEREFORE UNCERTAINTY REMAINS HIGH",
+        "id": "DeItaone_001",
+        "created_at": "Fri Feb 20 15:36:51",
+        "author": "DeItaone",
+        "retweet_count": 4,
+        "like_count": 41
+      },
+      {
+        "text": "JUST IN - India, Brazil sign agreement on critical minerals: Modi",
         "id": "TheInsiderPaper_001",
-        "created_at": "Fri Feb 20 00:21:15",
+        "created_at": "Fri Feb 21 08:39:20",
         "author": "TheInsiderPaper",
-        "retweet_count": 30,
-        "like_count": 86
+        "retweet_count": 65,
+        "like_count": 738
       },
       {
-        "text": "BREAKING: President Trump imposes additional 10% tariff on all countries, which will be 'effective almost immediately'",
+        "text": "NEW: Photos of cocaine found inside Biden's White House have been released - Fox News",
         "id": "TheInsiderPaper_002",
-        "created_at": "Fri Feb 20 00:22:18",
+        "created_at": "Fri Feb 21 08:41:53",
         "author": "TheInsiderPaper",
-        "retweet_count": 20,
-        "like_count": 69
+        "retweet_count": 182,
+        "like_count": 637
       },
       {
-        "text": "Sweden to introduce cellphone air raid alert system",
+        "text": "Putin on Conservative activist Charlie Kirk: The murder of Charlie Kirk was a disgusting atrocity.",
         "id": "TheInsiderPaper_003",
-        "created_at": "Fri Feb 20 00:20:00",
+        "created_at": "Fri Feb 21 09:31:50",
         "author": "TheInsiderPaper",
-        "retweet_count": 10,
-        "like_count": 33
-      },
-      {
-        "text": "Trump administration prepared to consider allowing Iran 'token' nuclear enrichment if it leaves no possible path to a bomb",
-        "id": "TheInsiderPaper_004",
-        "created_at": "Fri Feb 20 00:33:49",
-        "author": "TheInsiderPaper",
-        "retweet_count": 6,
-        "like_count": 42
+        "retweet_count": 96,
+        "like_count": 600
       }
     ],
-    "Unusual Options": [
-      {
-        "text": "Fiscal data delivered right to you - check Unusual Whales",
-        "id": "unusual_whales_001",
-        "created_at": "Fri Feb 20 00:31:00",
-        "author": "unusual_whales",
-        "retweet_count": 0,
-        "like_count": 3
-      }
-    ],
+    "Unusual Options": [],
     "Stock Alerts": [
       {
-        "text": "After hours gappers: $VNDA $NCI $SGN $PBM $SPPL",
-        "id": "AlertsAndNews_001",
-        "created_at": "Fri Feb 20 00:28:23",
-        "author": "AlertsAndNews",
-        "retweet_count": 0,
-        "like_count": 0
+        "text": "$ABTS - Told you guys that this could be a Freaky Friday situation! We got a move to $5.50 from $4.00s after breaching $5.00s initially for a setup, not bad for a 20%++ move.",
+        "id": "PlayBookTrades_001",
+        "created_at": "Fri Feb 21 03:12:54",
+        "author": "PlayBookTrades",
+        "retweet_count": 2,
+        "like_count": 12
       },
       {
-        "text": "$VNDA Hell yeah, congrats on the approval",
-        "id": "AlertsAndNews_002",
-        "created_at": "Fri Feb 20 00:29:57",
-        "author": "AlertsAndNews",
-        "retweet_count": 0,
-        "like_count": 0
-      },
-      {
-        "text": "That's it for this week! Great one. RKT overnight from yesterday was the highlight. Beauty as a day trade on Weds and today as a swing. Swings have been on fire - 100% win rate this month.",
-        "id": "AlertsAndNews_003",
-        "created_at": "Fri Feb 20 00:34:54",
-        "author": "AlertsAndNews",
-        "retweet_count": 0,
-        "like_count": 0
+        "text": "$NCI - $10.94 NHOD from $1.20s entries. Officially up over 800% so far.",
+        "id": "PlayBookTrades_002",
+        "created_at": "Fri Feb 21 03:16:49",
+        "author": "PlayBookTrades",
+        "retweet_count": 3,
+        "like_count": 26
       }
     ]
   }
