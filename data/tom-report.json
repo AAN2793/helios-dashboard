@@ -1,59 +1,26 @@
 {
-  "generated": "2026-02-21 08:41",
-  "updated": "2026-02-21T08:41:00.000000",
+  "generated": "2026-02-21 13:06",
+  "updated": "2026-02-21T13:06:00.000000",
   "categories": {
-    "Breaking News": [
+    "Breaking News": [],
+    "Unusual Options": [
       {
-        "text": "GERMAN FINANCE MINISTER TO FAZ NEWSPAPER ON US TARIFF VERDICT: TRUMP HAS ALREADY ANNOUNCED NEW TARIFFS, THEREFORE UNCERTAINTY REMAINS HIGH",
-        "id": "DeItaone_001",
-        "created_at": "Fri Feb 20 15:36:51",
-        "author": "DeItaone",
-        "retweet_count": 4,
-        "like_count": 41
+        "text": "BIGGEST API SALE EVER - Unusual Whales is having an API sale. Get up to 30% off annual, and try weekly and monthly passes! API limits have been increased.",
+        "id": "unusual_whales_001",
+        "created_at": "Fri Feb 20 19:50:30",
+        "author": "unusual_whales",
+        "retweet_count": 1,
+        "like_count": 28
       },
       {
-        "text": "JUST IN - India, Brazil sign agreement on critical minerals: Modi",
-        "id": "TheInsiderPaper_001",
-        "created_at": "Fri Feb 21 08:39:20",
-        "author": "TheInsiderPaper",
-        "retweet_count": 65,
-        "like_count": 738
-      },
-      {
-        "text": "NEW: Photos of cocaine found inside Biden's White House have been released - Fox News",
-        "id": "TheInsiderPaper_002",
-        "created_at": "Fri Feb 21 08:41:53",
-        "author": "TheInsiderPaper",
-        "retweet_count": 182,
-        "like_count": 637
-      },
-      {
-        "text": "Putin on Conservative activist Charlie Kirk: The murder of Charlie Kirk was a disgusting atrocity.",
-        "id": "TheInsiderPaper_003",
-        "created_at": "Fri Feb 21 09:31:50",
-        "author": "TheInsiderPaper",
-        "retweet_count": 96,
-        "like_count": 600
+        "text": "Trump: How's the economy doing, Scott? Good? Scott Bessent: Doing great, sir.",
+        "id": "unusual_whales_002",
+        "created_at": "Fri Feb 20 20:01:00",
+        "author": "unusual_whales",
+        "retweet_count": 6,
+        "like_count": 66
       }
     ],
-    "Unusual Options": [],
-    "Stock Alerts": [
-      {
-        "text": "$ABTS - Told you guys that this could be a Freaky Friday situation! We got a move to $5.50 from $4.00s after breaching $5.00s initially for a setup, not bad for a 20%++ move.",
-        "id": "PlayBookTrades_001",
-        "created_at": "Fri Feb 21 03:12:54",
-        "author": "PlayBookTrades",
-        "retweet_count": 2,
-        "like_count": 12
-      },
-      {
-        "text": "$NCI - $10.94 NHOD from $1.20s entries. Officially up over 800% so far.",
-        "id": "PlayBookTrades_002",
-        "created_at": "Fri Feb 21 03:16:49",
-        "author": "PlayBookTrades",
-        "retweet_count": 3,
-        "like_count": 26
-      }
-    ]
+    "Stock Alerts": []
   }
 }
