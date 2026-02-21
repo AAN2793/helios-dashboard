@@ -1,6 +1,7 @@
-import Head from 'next/head'
 import { useState, useEffect } from 'react'
 import Layout from '../components/Layout'
+
+export const dynamic = 'force-dynamic'
 
 export default function Posts() {
   const [posts, setPosts] = useState([])
