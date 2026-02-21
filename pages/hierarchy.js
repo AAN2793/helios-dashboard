@@ -55,23 +55,37 @@ const hierarchy = {
   },
   subagents: [
     {
-      name: 'Content Creator',
-      role: 'Social media content (Twitter, StockTwits, Reddit)',
-      model: 'MiniMax',
-      status: 'ready',
-      tasks: ['Morning posts', 'Midday updates', 'EOD wrap', 'Engagement'],
-      skills: ['Soul', 'Heartbeat', 'Memory'],
+      name: 'Allen',
+      role: 'Content Writer - WSJ style financial journalist',
+      model: 'Trinity Large (Free)',
+      status: 'active',
+      schedule: '5:40 AM, 11:17 AM, 4:50 PM weekdays | 1:03 PM weekends',
+      tasks: ['Generate posts from Tom feed', 'Write 4-6 posts daily', 'Deploy to dashboard'],
+      skills: ['Soul', 'Financial Writing', 'Market Impact Analysis'],
       soul: {
-        coreTruths: ['Create engaging content', 'Match voice and tone', 'Track performance'],
-        vibe: 'Social media expert who knows the platforms'
+        coreTruths: ['Body explains market impact', 'Follow exact post format', 'Source at end'],
+        vibe: 'Wall Street Journal financial journalist'
+      }
+    },
+    {
+      name: 'Dr. Bot',
+      role: 'Dashboard Health Check & Auto-Fix',
+      model: 'MiniMax M2.1',
+      status: 'active',
+      schedule: '5:45 AM, 11:22 AM, 4:55 PM weekdays | 1:08 PM weekends',
+      tasks: ['Check data freshness', 'Verify content exists', 'Auto-fix issues', 'Log errors'],
+      skills: ['Health Check', 'Auto-Fix', 'Learning System'],
+      soul: {
+        coreTruths: ['Fix issues automatically', 'Learn from mistakes', 'Log all errors'],
+        vibe: 'The doctor who cures the dashboard'
       }
     },
     {
       name: 'Tom (Twitter Tom)',
       role: 'Twitter/X news aggregation and reporting',
       model: 'MiniMax',
-      status: 'paused',
-      updateFrequency: 'Awaiting API credits',
+      status: 'active',
+      schedule: '5:35 AM, 11:12 AM, 4:45 PM weekdays | 12:58 PM weekends',
       categories: [
         { name: 'Breaking News', accounts: ['@wallstengine', '@StockMKTNewz', '@DeItaone', '@TheInsiderPaper'] },
         { name: 'Unusual Options', accounts: ['@unusual_whales'] },
