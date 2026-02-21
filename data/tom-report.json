@@ -1,107 +1,75 @@
 {
-  "generated": "2026-02-20 06:38",
-  "updated": "2026-02-20T06:38:00.000000",
+  "generated": "2026-02-20 17:35",
+  "updated": "2026-02-20T17:35:00.000000",
   "categories": {
     "Breaking News": [
       {
-        "text": "MICHAEL SAYLOR: 'IF IT'S NOT GOING TO ZERO, IT'S GOING TO A MILLION'",
-        "id": "wallstengine_001",
-        "created_at": "Fri Feb 20 13:23:57",
-        "author": "wallstengine",
-        "retweet_count": 2,
-        "like_count": 32
+        "text": "PRESIDENT TRUMP: Those members of the Supreme Court who voted against our very acceptable and proper method of TARIFFS should be ashamed of themselves.",
+        "id": "TheInsiderPaper_001",
+        "created_at": "Fri Feb 20 00:21:15",
+        "author": "TheInsiderPaper",
+        "retweet_count": 30,
+        "like_count": 86
       },
       {
-        "text": "US ADVANCE Q4 GDP +1.4% (EST +3.0%)",
-        "id": "wallstengine_002",
-        "created_at": "Fri Feb 20 13:30:51",
-        "author": "wallstengine",
+        "text": "BREAKING: President Trump imposes additional 10% tariff on all countries, which will be 'effective almost immediately'",
+        "id": "TheInsiderPaper_002",
+        "created_at": "Fri Feb 20 00:22:18",
+        "author": "TheInsiderPaper",
+        "retweet_count": 20,
+        "like_count": 69
+      },
+      {
+        "text": "Sweden to introduce cellphone air raid alert system",
+        "id": "TheInsiderPaper_003",
+        "created_at": "Fri Feb 20 00:20:00",
+        "author": "TheInsiderPaper",
         "retweet_count": 10,
-        "like_count": 31
+        "like_count": 33
       },
       {
-        "text": "PCE 2.9% YoY (Est. 2.8%), CORE PCE 3.0% YoY (Est. 2.9%), PERSONAL SPENDING 0.4% MoM",
-        "id": "wallstengine_003",
-        "created_at": "Fri Feb 20 13:31:21",
-        "author": "wallstengine",
-        "retweet_count": 14,
-        "like_count": 34
-      },
-      {
-        "text": "Trump: 'The Democrat shutdown cost the U.S. at least two points of GDP.'",
-        "id": "wallstengine_004",
-        "created_at": "Fri Feb 20 13:34:56",
-        "author": "wallstengine",
+        "text": "Trump administration prepared to consider allowing Iran 'token' nuclear enrichment if it leaves no possible path to a bomb",
+        "id": "TheInsiderPaper_004",
+        "created_at": "Fri Feb 20 00:33:49",
+        "author": "TheInsiderPaper",
         "retweet_count": 6,
-        "like_count": 30
-      },
-      {
-        "text": "US 4Q GOVT SPENDING FELL AT 5.1% PACE, MOST SINCE 2020",
-        "id": "wallstengine_005",
-        "created_at": "Fri Feb 20 13:35:01",
-        "author": "wallstengine",
-        "retweet_count": 3,
-        "like_count": 21
+        "like_count": 42
       }
     ],
     "Unusual Options": [
       {
-        "text": "Miami is the city with the highest concentration of millionaires, per Miami News Times.",
+        "text": "Fiscal data delivered right to you - check Unusual Whales",
         "id": "unusual_whales_001",
-        "created_at": "Fri Feb 20 13:17:00",
+        "created_at": "Fri Feb 20 00:31:00",
         "author": "unusual_whales",
-        "retweet_count": 21,
-        "like_count": 286
-      },
-      {
-        "text": "Bloomberg reports that $GOOGL, $AMZN, $META, and $MSFT plan to invest roughly $650 billion this year in data centers, chips, and infrastructure as the AI race accelerates.",
-        "id": "unusual_whales_002",
-        "created_at": "Fri Feb 20 13:37:00",
-        "author": "unusual_whales",
-        "retweet_count": 9,
-        "like_count": 36
+        "retweet_count": 0,
+        "like_count": 3
       }
     ],
     "Stock Alerts": [
       {
-        "text": "Good morning and happy Friday. Gappers this morning include $MGRX $AIOS $EDHL $CDIO $OPEN",
+        "text": "After hours gappers: $VNDA $NCI $SGN $PBM $SPPL",
         "id": "AlertsAndNews_001",
-        "created_at": "Fri Feb 20 13:09:49",
+        "created_at": "Fri Feb 20 00:28:23",
         "author": "AlertsAndNews",
         "retweet_count": 0,
-        "like_count": 2
+        "like_count": 0
       },
       {
-        "text": "$GIBO any legs on this? GIBO Announces Breakthrough in Proprietary AIGC Engine",
+        "text": "$VNDA Hell yeah, congrats on the approval",
         "id": "AlertsAndNews_002",
-        "created_at": "Fri Feb 20 13:11:01",
+        "created_at": "Fri Feb 20 00:29:57",
         "author": "AlertsAndNews",
         "retweet_count": 0,
         "like_count": 0
       },
       {
-        "text": "$USO $DJT $SPY $INDO $LMT Sending more Military Assets to the Middle East. US SENDS LARGEST WARSHIP TOWARD IRAN - USS Gerald R. Ford",
+        "text": "That's it for this week! Great one. RKT overnight from yesterday was the highlight. Beauty as a day trade on Weds and today as a swing. Swings have been on fire - 100% win rate this month.",
         "id": "AlertsAndNews_003",
-        "created_at": "Fri Feb 20 13:12:22",
+        "created_at": "Fri Feb 20 00:34:54",
         "author": "AlertsAndNews",
         "retweet_count": 0,
         "like_count": 0
-      },
-      {
-        "text": "$SPY $DJT $QQQ Major data about to drop - GDP Estimate 2.5%, PCE Estimate 2.8%, Core PCE Estimate 3.0%",
-        "id": "AlertsAndNews_004",
-        "created_at": "Fri Feb 20 13:25:05",
-        "author": "AlertsAndNews",
-        "retweet_count": 0,
-        "like_count": 1
-      },
-      {
-        "text": "US Core PCE Price Index YoY Actual 3.0% (Forecast 2.9%), US PCE Price Index YoY Actual 2.9% (Forecast 2.8%)",
-        "id": "AlertsAndNews_005",
-        "created_at": "Fri Feb 20 13:31:19",
-        "author": "AlertsAndNews",
-        "retweet_count": 0,
-        "like_count": 1
       }
     ]
   }

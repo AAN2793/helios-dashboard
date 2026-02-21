@@ -1,47 +1,35 @@
-[
-  {
-    "ticker": "$EBAY",
-    "headline": "eBay Acquires Depop for $1.2 Billion to Target Gen Z Fashion Market",
-    "body": "eBay has agreed to purchase secondhand fashion marketplace Depop from Etsy for about $1.2 billion in cash. The acquisition is expected to help eBay target younger fashion-loving consumers and expand its presence in the Gen Z market. - AP News"
-  },
-  {
-    "ticker": "$JCI",
-    "headline": "Johnson Controls to Acquire Alloy Enterprises for Data Center Thermal Management",
-    "body": "Johnson Controls has signed an agreement to acquire Alloy Enterprises, a Boston-based company specializing in thermal management for data centers. The acquisition will strengthen Johnson Controls' leadership in data center cooling and AI-based thermal management solutions. - Facilities Dive"
-  },
-  {
-    "ticker": "$SNSE",
-    "headline": "Sensei Biotherapeutics Acquires Faeth and Raises $200 Million",
-    "body": "Sensei Biotherapeutics has acquired Faeth Therapeutics and secured approximately $200 million in funding. The strategic acquisition introduces PIKTOR, Faeth's investigational drug that combines serabelisib and sapanisertib to inhibit the PI3K/AKT/mTOR pathway. - El-Balad.com"
-  },
-  {
-    "ticker": "$TRNR",
-    "headline": "TRNR Signs Definitive Agreement to Acquire Ergatta, Increasing 2026 Revenue Guidance",
-    "body": "Interactive Strength (TRNR) has signed a definitive agreement to acquire Ergatta, boosting 2026 pro forma revenue guidance by 50% to more than $30 million. The acquisition is expected to deliver over $10 million in 2026 revenue with approximately 30% EBITDA margins. - Benzinga"
-  },
-  {
-    "ticker": "$MRNA",
-    "headline": "FDA Refuses to Review Moderna's Influenza Vaccine Application",
-    "body": "The U.S. FDA declined to review Moderna's flu vaccine application for its mRNA-1010 product. Moderna shares fell about 8% in extended trading following the unexpected decision. - Contagion Live"
-  },
-  {
-    "ticker": "$DE",
-    "headline": "Deere Shares Jump 12% After Q1 Earnings Beat and Raised Profit Outlook",
-    "body": "Deere & Co. shares jumped nearly 12% to a fresh high after the farm and construction equipment maker posted Q1 earnings that exceeded expectations. The company raised its full-year 2026 profit forecast to between $4.5 billion and $5.0 billion. - Investopedia"
-  },
-  {
-    "ticker": "$WMT",
-    "headline": "Walmart Reports Strong Holiday Growth, but Earnings Outlook Falls Short",
-    "body": "Walmart reported Q4 earnings per share of 74 cents adjusted vs. 73 cents expected, with revenue climbing 5.6% year-over-year to $190.7 billion. Shares fell 1.38% on Thursday following the earnings announcement. - CNBC"
-  },
-  {
-    "ticker": "$OPEN",
-    "headline": "Opendoor Reports Strong Q4 Results, Stock Jumps 16.5%",
-    "body": "Opendoor reported Q4 2025 revenue of $736 million, comfortably beating Wall Street consensus and adjusted EBITDA of -$43 million came in better than expected. The stock traded up 16.5% to $5.36 immediately following the results. - Tokenist"
-  },
-  {
-    "ticker": "$AMZN",
-    "headline": "Amazon Plans to Launch AI Content Marketplace for Publishers",
-    "body": "Amazon has notified publishing industry executives that it plans to launch a specialized marketplace where media companies can sell their content to AI product developers. The initiative is expected to expand Amazon's addressable markets in the AI space. - The Information"
-  }
-]
+{
+  "generated": "2026-02-20T17:35:00Z",
+  "posts": [
+    {
+      "ticker": "$SPY",
+      "headline": "Trump Announces 10% Global Tariff on All Imports",
+      "body": "President Trump signed a decree imposing a universal 10% tariff on all imported goods, on top of existing trade measures. The announcement came late Friday and could face years of legal challenges. Markets reacted with caution as investors weighed the impact on global trade.",
+      "source": "The Insider Paper"
+    },
+    {
+      "ticker": "$VNDA",
+      "headline": "Vanda Pharmaceuticals Gains on FDA Approval News",
+      "body": "Vanda Pharmaceuticals saw gains in after-hours trading following approval news. The stock was among the gappers mentioned in after-hours trading along with $NCI, $SGN, $PBM, and $SPPL.",
+      "source": "AlertsAndNews"
+    },
+    {
+      "ticker": "$NVDA",
+      "headline": "NVIDIA Attracts Bearish Options Flow",
+      "body": "NVIDIA and Tesla attracted the most bearish options flow today, signaling continued institutional caution toward megacap tech names. The heavy put activity comes amid broader market uncertainty around tariffs and economic policy.",
+      "source": "Twitter Tom"
+    },
+    {
+      "ticker": "$RKT",
+      "headline": "Rocket Companies Highlights Week's Best Day Trade",
+      "body": "Rocket Companies (RKT) was the standout day trade this week, hitting as a day trade on Wednesday and as a swing on Thursday. AlertsAndNews reported 100% win rate on swings this month.",
+      "source": "AlertsAndNews"
+    },
+    {
+      "ticker": "$TSLA",
+      "headline": "Tesla Sees Heavy Bearish Options Activity",
+      "body": "Tesla joined NVIDIA in attracting significant bearish options flow today. Institutional traders remain cautious on the electric vehicle maker amid ongoing market volatility and macro economic uncertainties.",
+      "source": "Twitter Tom"
+    }
+  ]
+}
