@@ -1,47 +1,128 @@
-import { useState, useEffect } from 'react';
-import Layout from '../components/Layout';
+import { useState } from 'react'
+import Layout from '../components/Layout'
 
 export default function Marketing() {
-  const [posts, setPosts] = useState([]);
-  const [loading, setLoading] = useState(true);
+  const [content, setContent] = useState([])
+  const [loading, setLoading] = useState(false)
+  const [category, setCategory] = useState('trading-tips')
 
-  useEffect(() => {
-    fetch('/api/generated-posts')
-      .then(res => res.json())
-      .then(data => {
-        setPosts(data.posts || []);
-        setLoading(false);
-      })
-      .catch(() => setLoading(false));
-  }, []);
+  const contentTypes = [
+    { id: 'trading-tips', label: '💡 Trading Tips', prompt: 'Generate 5 practical trading tips for day traders. Keep each under 280 characters. Punchy and actionable.' },
+    { id: 'market-commentary', label: '📊 Market Commentary', prompt: 'Write a brief market commentary (3-4 sentences) about current market sentiment. Include 1-2 stock examples.' },
+    { id: 'strategy', label: '🎯 Strategy Ideas', prompt: 'Explain a trading strategy in simple terms. Include entry criteria, exit plan, and risk management. Keep it beginner-friendly.' },
+    { id: 'stock-ideas', label: '🚀 Stock Ideas', prompt: 'Generate 3 swing trade ideas with: Ticker, Entry price, Target price, Stop loss, and Why it\'s interesting. Use realistic prices.' },
+    { id: 'earnings', label: '📈 Earnings Preview', prompt: 'Preview 3 stocks reporting earnings this week. Include: Ticker, Expected EPS, Date, and one key metric to watch.' },
+    { id: 'thread-starters', label: '🧵 Thread Starters', prompt: 'Create 3 Twitter thread starters about trading psychology. Hook readers in the first tweet.' },
+  ]
+
+  const generateContent = async (type) => {
+    setLoading(true)
+    const contentType = contentTypes.find(c => c.id === type)
+    
+    try {
+      const SCRATCH = '/tmp/' + Math.random().toString(36).substr(2, 9)
+      const { execSync } = require('child_process')
+      
+      // Create temp git repo
+      execSync(`mkdir -p ${SCRATCH} && cd ${SCRATCH} && git init`, { stdio: 'pipe' })
+      
+      // Run Claude Code
+      const result = execSync(
+        `echo "${contentType.prompt}" | "/Users/helios/Library/Application Support/Claude/claude-code/2.1.49/claude" --print`,
+        { timeout: 60000 }
+      ).toString()
+
+      const newContent = {
+        id: Date.now(),
+        type: type,
+        label: contentType.label,
+        text: result,
+        timestamp: new Date().toLocaleString()
+      }
+
+      setContent(prev => [newContent, ...prev])
+    } catch (err) {
+      alert('Error generating content: ' + err.message)
+    } finally {
+      setLoading(false)
+    }
+  }
+
+  const copyToClipboard = (text) => {
+    navigator.clipboard.writeText(text)
+    alert('Copied to clipboard!')
+  }
+
+  const deleteContent = (id) => {
+    if (confirm('Delete this content?')) {
+      setContent(prev => prev.filter(c => c.id !== id))
+    }
+  }
 
   return (
     <Layout>
-      <div style={{ maxWidth: '800px', margin: '0 auto', padding: '20px' }}>
+      <div style={{ maxWidth: '900px', margin: '0 auto', padding: '20px' }}>
         <h1 style={{ fontSize: '28px', marginBottom: '10px' }}>📣 Marketing Content</h1>
         <p style={{ color: '#666', marginBottom: '30px' }}>
-          AI-generated marketing posts for AlertsAndNews
+          Generate marketing content using AI. Copy what you like, delete what you don't.
         </p>
 
-        {loading ? (
-          <p>Loading...</p>
-        ) : posts.length === 0 ? (
+        {/* Content Type Buttons */}
+        <div style={{ marginBottom: '30px' }}>
+          <h3 style={{ marginBottom: '15px', color: '#333' }}>Generate New Content:</h3>
+          <div style={{ display: 'flex', flexWrap: 'wrap', gap: '10px' }}>
+            {contentTypes.map(type => (
+              <button
+                key={type.id}
+                onClick={() => generateContent(type.id)}
+                disabled={loading}
+                style={{
+                  padding: '12px 20px',
+                  background: loading ? '#ccc' : '#f0f0f0',
+                  border: 'none',
+                  borderRadius: '8px',
+                  cursor: loading ? 'not-allowed' : 'pointer',
+                  fontSize: '14px',
+                  fontWeight: '500',
+                  transition: 'all 0.2s'
+                }}
+              >
+                {type.label}
+              </button>
+            ))}
+          </div>
+        </div>
+
+        {loading && (
+          <div style={{ 
+            padding: '40px', 
+            textAlign: 'center', 
+            background: '#f9f9f9',
+            borderRadius: '10px',
+            marginBottom: '20px'
+          }}>
+            <p>🤖 Generating content with Claude Code...</p>
+          </div>
+        )}
+
+        {/* Generated Content */}
+        {content.length === 0 ? (
           <div style={{ 
             padding: '40px', 
             textAlign: 'center', 
             background: '#f5f5f5',
             borderRadius: '10px'
           }}>
-            <p style={{ color: '#666' }}>No marketing posts yet.</p>
+            <p style={{ color: '#666' }}>No content generated yet.</p>
             <p style={{ color: '#999', fontSize: '14px' }}>
-              Run Allen or use Codex/Claude to generate content.
+              Click a button above to generate marketing content.
             </p>
           </div>
         ) : (
           <div style={{ display: 'flex', flexDirection: 'column', gap: '20px' }}>
-            {posts.map((post, index) => (
+            {content.map((item) => (
               <div 
-                key={index}
+                key={item.id}
                 style={{
                   background: 'white',
                   border: '1px solid #e0e0e0',
@@ -51,38 +132,87 @@ export default function Marketing() {
                 }}
               >
                 <div style={{ 
-                  fontFamily: 'monospace', 
-                  color: '#0066cc',
-                  fontWeight: 'bold',
-                  marginBottom: '8px'
+                  display: 'flex', 
+                  justifyContent: 'space-between', 
+                  alignItems: 'center',
+                  marginBottom: '15px'
                 }}>
-                  ${post.ticker || 'TICKER'}
+                  <span style={{
+                    padding: '4px 12px',
+                    background: '#e8f5e9',
+                    color: '#2e7d32',
+                    borderRadius: '20px',
+                    fontSize: '12px',
+                    fontWeight: '500'
+                  }}>
+                    {item.label}
+                  </span>
+                  <span style={{ fontSize: '12px', color: '#999' }}>
+                    {item.timestamp}
+                  </span>
                 </div>
-                <h3 style={{ margin: '0 0 10px 0', fontSize: '16px' }}>
-                  {post.headline || 'Headline here'}
-                </h3>
-                <p style={{ color: '#555', margin: 0, fontSize: '14px', lineHeight: '1.5' }}>
-                  {post.body || 'Body content...'}
-                </p>
-                {post.source && (
-                  <p style={{ color: '#999', fontSize: '12px', marginTop: '10px' }}>
-                    Source: {post.source}
-                  </p>
-                )}
+                
+                <pre style={{
+                  whiteSpace: 'pre-wrap',
+                  fontFamily: 'inherit',
+                  fontSize: '14px',
+                  lineHeight: '1.6',
+                  color: '#333',
+                  margin: 0,
+                  background: '#f9f9f9',
+                  padding: '15px',
+                  borderRadius: '8px'
+                }}>
+                  {item.text}
+                </pre>
+
+                <div style={{ marginTop: '15px', display: 'flex', gap: '10px' }}>
+                  <button
+                    onClick={() => copyToClipboard(item.text)}
+                    style={{
+                      padding: '8px 16px',
+                      background: '#2196f3',
+                      color: 'white',
+                      border: 'none',
+                      borderRadius: '6px',
+                      cursor: 'pointer',
+                      fontSize: '13px'
+                    }}
+                  >
+                    📋 Copy
+                  </button>
+                  <button
+                    onClick={() => deleteContent(item.id)}
+                    style={{
+                      padding: '8px 16px',
+                      background: '#ffebee',
+                      color: '#c62828',
+                      border: 'none',
+                      borderRadius: '6px',
+                      cursor: 'pointer',
+                      fontSize: '13px'
+                    }}
+                  >
+                    🗑️ Delete
+                  </button>
+                </div>
               </div>
             ))}
           </div>
         )}
 
+        {/* Tips */}
         <div style={{ marginTop: '40px', padding: '20px', background: '#f0f7ff', borderRadius: '10px' }}>
-          <h3 style={{ marginTop: 0 }}>💡 How to Generate More Content</h3>
-          <ul style={{ color: '#555', lineHeight: '1.8' }}>
-            <li>Run the Allen content writer cron job</li>
-            <li>Use Claude Code: <code>claude "Generate 5 marketing posts for AlertsAndNews"</code></li>
-            <li>Use Codex: <code>codex "Generate engaging financial posts"</code></li>
+          <h3 style={{ marginTop: 0, marginBottom: '10px' }}>💡 How to use this:</h3>
+          <ul style={{ color: '#555', lineHeight: '1.8', margin: 0 }}>
+            <li>Click a category button to generate content</li>
+            <li>Review the AI-generated output</li>
+            <li>Click "Copy" to copy to clipboard, then paste to StockTwits/X</li>
+            <li>Click "Delete" to remove content you don't want</li>
+            <li>Content saves in this session - will reset on page refresh</li>
           </ul>
         </div>
       </div>
     </Layout>
-  );
+  )
 }
