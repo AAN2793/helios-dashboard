@@ -19,7 +19,7 @@ export default async function handler(req, res) {
         'X-Title': 'Helios Marketing Generator'
       },
       body: JSON.stringify({
-        model: 'openrouter/axolotl/gemma-3-4b-it:free',
+        model: 'google/gemma-3-4b-it:free',
         messages: [
           { role: 'user', content: prompt }
         ],
