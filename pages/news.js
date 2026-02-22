@@ -140,8 +140,8 @@ export default function News() {
                     onClick={() => copyToClipboard(getFullText(post), idx)}
                     className={`px-3 py-1 text-sm rounded transition-colors ${
                       copied === idx 
-                        ? ' text-green-300' 
-                        :bg-green-900 'bg-slate-700 text-slate-300 hover:bg-slate-600'
+                        ? 'bg-green-900 text-green-300' 
+                        : 'bg-slate-700 text-slate-300 hover:bg-slate-600'
                     }`}
                   >
                     {copied === idx ? '✓ Copied' : '📋 Copy'}
