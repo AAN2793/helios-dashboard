@@ -114,11 +114,11 @@ export default function Marketing() {
               <div 
                 key={item.id}
                 style={{
-                  background: '#16213e',
-                  border: '1px solid #0f3460',
+                  background: '#ffffff',
+                  border: '1px solid #e0e0e0',
                   borderRadius: '10px',
                   padding: '20px',
-                  boxShadow: '0 2px 4px rgba(0,0,0,0.3)'
+                  boxShadow: '0 2px 4px rgba(0,0,0,0.1)'
                 }}
               >
                 <div style={{ 
@@ -147,9 +147,9 @@ export default function Marketing() {
                   fontFamily: 'inherit',
                   fontSize: '14px',
                   lineHeight: '1.6',
-                  color: '#fff',
+                  color: '#1a1a1a',
                   margin: 0,
-                  background: '#1a1a2e',
+                  background: '#f5f5f5',
                   padding: '15px',
                   borderRadius: '8px'
                 }}>
