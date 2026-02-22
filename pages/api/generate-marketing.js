@@ -1,6 +1,3 @@
-import { execSync } from 'child_process'
-import path from 'path'
-
 export default async function handler(req, res) {
   if (req.method !== 'POST') {
     return res.status(405).json({ error: 'Method not allowed' })
@@ -13,24 +10,32 @@ export default async function handler(req, res) {
   }
 
   try {
-    // Create temp git repo (required for Claude Code)
-    const SCRATCH = `/tmp/marketing_${Date.now()}`
-    execSync(`mkdir -p ${SCRATCH} && cd ${SCRATCH} && git init`, { stdio: 'pipe' })
-    
-    // Run Claude Code
-    const result = execSync(
-      `echo "${prompt.replace(/"/g, '\\"')}" | "/Users/helios/Library/Application Support/Claude/claude-code/2.1.49/claude" --print`,
-      { 
-        timeout: 90000,
-        maxBuffer: 10 * 1024 * 1024,
-        stdio: 'pipe'
-      }
-    ).toString()
+    const response = await fetch('https://openrouter.ai/api/v1/chat/completions', {
+      method: 'POST',
+      headers: {
+        'Authorization': `Bearer ${process.env.OPENROUTER_API_KEY}`,
+        'Content-Type': 'application/json',
+        'HTTP-Referer': 'https://helios-dashboard-beta.vercel.app',
+        'X-Title': 'Helios Marketing Generator'
+      },
+      body: JSON.stringify({
+        model: 'openrouter/axolotl/gemma-3-4b-it:free',
+        messages: [
+          { role: 'user', content: prompt }
+        ],
+        max_tokens: 2000
+      })
+    })
 
-    // Clean up
-    execSync(`rm -rf ${SCRATCH}`, { stdio: 'pipe' })
+    const data = await response.json()
 
-    return res.status(200).json({ content: result })
+    if (!response.ok) {
+      throw new Error(data.error?.message || 'API error')
+    }
+
+    const content = data.choices?.[0]?.message?.content || 'No content generated'
+
+    return res.status(200).json({ content })
   } catch (error) {
     console.error('Error generating content:', error)
     return res.status(500).json({ error: error.message })
