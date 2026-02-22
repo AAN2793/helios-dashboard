@@ -104,7 +104,7 @@ export default function Marketing() {
             borderRadius: '10px'
           }}>
             <p style={{ color: '#666' }}>No content generated yet.</p>
-            <p style={{ color: '#999', fontSize: '14px' }}>
+            <p style={{ color: '#333', fontSize: '14px' }}>
               Click a button above to generate marketing content.
             </p>
           </div>
@@ -137,7 +137,7 @@ export default function Marketing() {
                   }}>
                     {item.label}
                   </span>
-                  <span style={{ fontSize: '12px', color: '#999' }}>
+                  <span style={{ fontSize: '12px', color: '#666' }}>
                     {item.timestamp}
                   </span>
                 </div>
