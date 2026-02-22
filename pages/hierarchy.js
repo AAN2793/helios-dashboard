@@ -59,7 +59,7 @@ const hierarchy = {
       role: 'Dashboard Health Check & Auto-Fix',
       model: 'MiniMax M2.1',
       status: 'active',
-      lastRun: '2026-02-21T13:38:00Z',
+      lastRun: '2026-02-22T20:10:00Z',
       tasks: ['Check data freshness', 'Verify content exists', 'Auto-fix issues', 'Log errors'],
       skills: ['Health Check', 'Auto-Fix', 'Learning System'],
       soul: {
@@ -72,7 +72,7 @@ const hierarchy = {
       role: 'Social media content (Twitter, StockTwits, Reddit)',
       model: 'MiniMax',
       status: 'active',
-      lastRun: '2026-02-21T13:38:00Z',
+      lastRun: '2026-02-22T20:10:00Z',
       tasks: ['Morning posts', 'Midday updates', 'EOD wrap', 'Engagement'],
       skills: ['Soul', 'Heartbeat', 'Memory'],
       soul: {
@@ -85,7 +85,7 @@ const hierarchy = {
       role: 'Twitter/X news aggregation and reporting',
       model: 'MiniMax',
       status: 'active',
-      lastRun: '2026-02-21T13:37:00Z',
+      lastRun: '2026-02-22T20:10:00Z',
       categories: [
         { name: 'Breaking News', accounts: ['@wallstengine', '@StockMKTNewz', '@DeItaone', '@TheInsiderPaper'] },
         { name: 'Unusual Options', accounts: ['@unusual_whales'] },
@@ -110,7 +110,7 @@ const hierarchy = {
       role: 'News aggregation and curation',
       model: 'Perplexity',
       status: 'active',
-      lastRun: '2026-02-21T13:00:00Z',
+      lastRun: '2026-02-22T20:10:00Z',
       tasks: ['Premarket news', 'Catalyst tracking', 'Earnings news', 'Press releases'],
       sources: ['Brave API', 'Bloomberg', 'Yahoo Finance', 'Reuters', 'CNBC'],
       skills: ['Soul', 'Heartbeat'],
@@ -124,7 +124,7 @@ const hierarchy = {
       role: 'Trading strategy and market analysis',
       model: 'MiniMax + Research',
       status: 'active',
-      lastRun: '2026-02-21T12:30:00Z',
+      lastRun: '2026-02-22T20:10:00Z',
       tasks: ['Pattern recognition', 'Setup scouting', 'Volatility alerts', 'Trade ideas'],
       skills: ['Soul', 'Heartbeat'],
       soul: {
@@ -137,7 +137,7 @@ const hierarchy = {
       role: 'Data and screening',
       model: 'TBD',
       status: 'active',
-      lastRun: '2026-02-21T12:00:00Z',
+      lastRun: '2026-02-22T20:10:00Z',
       tasks: ['Stock screening', 'Earnings calendars', 'SEC filings', 'Metrics'],
       skills: ['Soul', 'Heartbeat'],
       soul: {
@@ -150,7 +150,7 @@ const hierarchy = {
       role: 'Tools and automation',
       model: 'TBD',
       status: 'active',
-      lastRun: '2026-02-21T11:45:00Z',
+      lastRun: '2026-02-22T20:10:00Z',
       tasks: ['Dashboard dev', 'Python scripts', 'Workflows', 'Integrations'],
       skills: ['Soul', 'Heartbeat'],
       soul: {

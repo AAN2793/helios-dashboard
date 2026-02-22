@@ -1,41 +1,35 @@
 {
-  "generated": "2026-02-21T13:38:00Z",
+  "generated": "2026-02-22T20:10:00Z",
   "posts": [
     {
-      "ticker": "$SPY",
-      "headline": "Supreme Court Strikes Down Trump Tariffs, Markets Rally",
-      "body": "The Supreme Court ruled against President Trump's emergency tariffs, sending stocks higher. The S&P 500 gained 0.69% to 6,909.51, while the Nasdaq rose 0.90% to 22,886.07. The Dow added 230.81 points, marking a significant relief rally amid reduced trade uncertainty.",
-      "source": "CNBC / Feb 20, 2026"
+      "ticker": "NVDA",
+      "headline": "Nvidia Poised for Earnings Breakout as AI Growth Remains Robust",
+      "body": "Nvidia shares are trading near record highs ahead of its February 25 earnings report, with Wall Street analysts projecting 57% year-over-year revenue growth for fiscal 2026. The semiconductor giant has beaten earnings estimates for twelve consecutive quarters, with shares up 35% over the past year. Despite concerns about potential growth slowdown, Nvidia's dominant position in AI chips and data center markets continues to drive investor confidence. The stock could see significant upside if results meet or exceed the high expectations set by analysts.",
+      "source": "The Motley Fool, February 21, 2026"
     },
     {
-      "ticker": "$QQQ",
-      "headline": "Nasdaq Snaps Five-Week Losing Streak with Tariff Relief",
-      "body": "The Nasdaq Composite is on track to break its longest weekly losing streak since May 2022, posting a weekly gain of 1.4%. Technology stocks led the rally after the Supreme Court's tariff ruling, with investors shifting focus to earnings and economic data.",
-      "source": "CNBC / Feb 20, 2026"
+      "ticker": "SPY",
+      "headline": "Dip-Buying Signals Complacency in Market Rally",
+      "body": "Despite a 1.1% gain in the S&P 500, persistent dip-buying signals potential market complacency and overconfidence rather than robust bullish conviction, according to Seeking Alpha. Growth outperformed value, with capital flowing from small/mid-caps, yield, and staples into high-growth tech names. The rally's narrow composition raises caution flags for sustainability.",
+      "source": "Seeking Alpha, February 22, 2026"
     },
     {
-      "ticker": "$CRWD",
-      "headline": "CrowdStrike Drops 8% on Anthropic Security Tool Competition",
-      "body": "CrowdStrike shares fell 8% after Anthropic announced its Claude Code Security tool, capable of finding software bugs and suggesting fixes. The move intensified competition concerns in the cybersecurity sector. Okta dropped 9.2% and Zscaler declined 5.5% on similar fears.",
-      "source": "CNBC / Feb 20, 2026"
+      "ticker": "AAPL",
+      "headline": "Apple Shares Trade Near $265 with Analyst Upside to $292",
+      "body": "Apple (AAPL) stock is currently trading around $265, with analysts maintaining a Buy consensus and a 12-month price target of $287.83, representing approximately 11% upside. The forecast reflects optimism about Apple's ecosystem strength and upcoming product cycles, despite broader market volatility.",
+      "source": "MarketBeat, February 20, 2026"
     },
     {
-      "ticker": "$TER",
-      "headline": "Teradyne Surges on Strong Q4 Earnings 'Blowout'",
-      "body": "Teradyne (TER) stock surged after reporting fourth-quarter results that 'blew out' analyst expectations. The test equipment maker benefited from strong semiconductor demand. Cognex (CGNX) also posted impressive results, contributing to the industrial sector's momentum.",
-      "source": "Stock Market Watch / Feb 20, 2026"
+      "ticker": "AMZN",
+      "headline": "Amazon Lags Magnificent Seven in 2026, Down 10% YTD",
+      "body": "Amazon has underperformed its Magnificent Seven peers in 2026, trading down 10% year-to-date and 18.4% from its all-time high. The underperformance raises questions about the e-commerce giant's growth prospects, though some analysts see a potential buying opportunity before the stock sets a new record.",
+      "source": "The Motley Fool, February 22, 2026"
     },
     {
-      "ticker": "$WMT",
-      "headline": "Walmart Slips 1.5% Despite Strong Quarter",
-      "body": "Walmart shares declined 1.5% despite reporting strong sales growth in its fourth-quarter earnings. The retail giant's conservative guidance and margin concerns may have outweighed the topline beat. Investors watching for further clarification on full-year outlook.",
-      "source": "Investopedia / Feb 19, 2026"
-    },
-    {
-      "ticker": "$CVNA",
-      "headline": "Carvana Skids 8% on Earnings Miss, Profitability Metrics",
-      "body": "Carvana stock dropped 8% after the online used car seller missed estimates on key profitability metrics. The company's Q4 results fell short of Wall Street expectations, reigniting concerns about margins in the used vehicle sector. Shares continue to face pressure in a competitive market.",
-      "source": "Investopedia / Feb 19, 2026"
+      "ticker": "INTC",
+      "headline": "Intel Struggles to Regain Semiconductor Leadership",
+      "body": "Intel stock has re-rated over the past two years, moving from the low-$20s in early 2024 to the mid-$40s by February 2026, but remains significantly off its all-time highs. The company faces fierce competition from AMD and Nvidia, with analysts maintaining a Hold consensus and an average price target of $43.13, suggesting limited upside.",
+      "source": "Benzinga, February 2026"
     }
   ]
 }

@@ -1,26 +1,61 @@
 {
-  "generated": "2026-02-21 13:06",
-  "updated": "2026-02-21T13:06:00.000000",
+  "generated": "2026-02-22",
+  "updated": "2026-02-22T13:00:00.000000",
+  "market_summary": "Tech stocks surged with Nasdaq up 0.41% to 22,776.33 and S&P 500 gaining 0.15% to 6,871.97, as the Supreme Court struck down Trump's tariffs boosting Alphabet and Amazon. The FTSE 100 hit a fresh record high, though some analysts warn of crash fears with the S&P 500 remaining range-bound. Investors remain cautious amid prediction market signals and Fed warnings, though tech leadership provides support.",
   "categories": {
-    "Breaking News": [],
-    "Unusual Options": [
+    "Breaking News": [
       {
-        "text": "BIGGEST API SALE EVER - Unusual Whales is having an API sale. Get up to 30% off annual, and try weekly and monthly passes! API limits have been increased.",
-        "id": "unusual_whales_001",
-        "created_at": "Fri Feb 20 19:50:30",
-        "author": "unusual_whales",
-        "retweet_count": 1,
-        "like_count": 28
+        "text": "NYC closing all streets and highways due to intense winter storm; travel ban begins 9PM Sunday, snow day Monday for schools.",
+        "id": "breaking_001",
+        "created_at": "Sat Feb 22 19:43",
+        "author": "StockMKTNewz",
+        "retweet_count": 8,
+        "like_count": 63
       },
       {
-        "text": "Trump: How's the economy doing, Scott? Good? Scott Bessent: Doing great, sir.",
-        "id": "unusual_whales_002",
-        "created_at": "Fri Feb 20 20:01:00",
-        "author": "unusual_whales",
-        "retweet_count": 6,
-        "like_count": 66
+        "text": "President Trump announces sending hospital boat to Greenland to address healthcare needs.",
+        "id": "breaking_002",
+        "created_at": "Sun Feb 22 00:23",
+        "author": "TheInsiderPaper",
+        "retweet_count": 241,
+        "like_count": 884
+      },
+      {
+        "text": "Arab/Islamic states condemns US ambassador Mike Huckabee's remarks justifying Israeli control of Middle Eastern lands.",
+        "id": "breaking_003",
+        "created_at": "Sun Feb 22 00:30",
+        "author": "TheInsiderPaper",
+        "retweet_count": 50,
+        "like_count": 195
       }
     ],
-    "Stock Alerts": []
+    "Unusual Options": [
+      {
+        "text": "CheddarFlow released comprehensive guide on gamma exposure - what it is and how it influences market volatility.",
+        "id": "uo_001",
+        "created_at": "Sat Feb 22 21:31",
+        "author": "CheddarFlow",
+        "retweet_count": 40,
+        "like_count": 393
+      },
+      {
+        "text": "Whales loading up on puts - millions worth in unusual options activity surge.",
+        "id": "uo_002",
+        "created_at": "Sat Feb 22 19:39",
+        "author": "CheddarFlow",
+        "retweet_count": 2,
+        "like_count": 23
+      }
+    ],
+    "Stock Alerts": [
+      {
+        "text": "@PlayBookTrades: Trim profits and raise stops at $1.65 target hit to stay green. Next week expected to be fire. Be ready!",
+        "id": "alert_001",
+        "created_at": "Sat Feb 22 17:45",
+        "author": "PlayBookTrades",
+        "retweet_count": 1,
+        "like_count": 52
+      }
+    ]
   }
 }

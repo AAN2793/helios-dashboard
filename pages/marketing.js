@@ -65,13 +65,13 @@ export default function Marketing() {
     <Layout>
       <div style={{ maxWidth: '900px', margin: '0 auto', padding: '20px' }}>
         <h1 style={{ fontSize: '28px', marginBottom: '10px' }}>📣 Marketing Content</h1>
-        <p style={{ color: '#444', marginBottom: '30px' }}>
+        <p style={{ color: '#555', marginBottom: '30px' }}>
           Generate marketing content using AI. Copy what you like, delete what you don't.
         </p>
 
         {/* Content Type Buttons */}
         <div style={{ marginBottom: '30px' }}>
-          <h3 style={{ marginBottom: '15px', color: '#333' }}>Generate New Content:</h3>
+          <h3 style={{ marginBottom: '15px', color: '#111' }}>Generate New Content:</h3>
           <div style={{ display: 'flex', flexWrap: 'wrap', gap: '10px' }}>
             {contentTypes.map(type => (
               <button
@@ -81,6 +81,7 @@ export default function Marketing() {
                 style={{
                   padding: '12px 20px',
                   background: loading ? '#ccc' : '#f0f0f0',
+                  color: '#111',
                   border: 'none',
                   borderRadius: '8px',
                   cursor: loading ? 'not-allowed' : 'pointer',
@@ -103,8 +104,8 @@ export default function Marketing() {
             background: '#f5f5f5',
             borderRadius: '10px'
           }}>
-            <p style={{ color: '#444' }}>No content generated yet.</p>
-            <p style={{ color: '#333', fontSize: '14px' }}>
+            <p style={{ color: '#222' }}>No content generated yet.</p>
+            <p style={{ color: '#111', fontSize: '14px' }}>
               Click a button above to generate marketing content.
             </p>
           </div>
@@ -194,7 +195,7 @@ export default function Marketing() {
         {/* Tips */}
         <div style={{ marginTop: '40px', padding: '20px', background: '#f0f7ff', borderRadius: '10px' }}>
           <h3 style={{ marginTop: 0, marginBottom: '10px' }}>💡 How to use this:</h3>
-          <ul style={{ color: '#333', lineHeight: '1.8', margin: 0 }}>
+          <ul style={{ color: '#111', lineHeight: '1.8', margin: 0 }}>
             <li>Click a category button to generate content</li>
             <li>Review the AI-generated output</li>
             <li>Click "Copy" to copy to clipboard, then paste to StockTwits/X</li>
