@@ -4,11 +4,11 @@ import Layout from '../components/Layout'
 export default function Marketing() {
   const [content, setContent] = useState([])
   const [loading, setLoading] = useState(false)
-  const [category, setCategory] = useState('trading-tips')
+  const [generatingType, setGeneratingType] = useState(null)
 
   const contentTypes = [
     { id: 'trading-tips', label: '💡 Trading Tips', prompt: 'Generate 5 practical trading tips for day traders. Keep each under 280 characters. Punchy and actionable.' },
-    { id: 'market-commentary', label: '📊 Market Commentary', prompt: 'Write a brief market commentary (3-4 sentences) about current market sentiment. Include 1-2 stock examples.' },
+    { id: 'market-commentary', label: '📊 Market Commentary', prompt: 'Write a Brief market commentary (3-4 sentences) about current market sentiment. Include 1-2 stock examples.' },
     { id: 'strategy', label: '🎯 Strategy Ideas', prompt: 'Explain a trading strategy in simple terms. Include entry criteria, exit plan, and risk management. Keep it beginner-friendly.' },
     { id: 'stock-ideas', label: '🚀 Stock Ideas', prompt: 'Generate 3 swing trade ideas with: Ticker, Entry price, Target price, Stop loss, and Why it\'s interesting. Use realistic prices.' },
     { id: 'earnings', label: '📈 Earnings Preview', prompt: 'Preview 3 stocks reporting earnings this week. Include: Ticker, Expected EPS, Date, and one key metric to watch.' },
@@ -17,26 +17,27 @@ export default function Marketing() {
 
   const generateContent = async (type) => {
     setLoading(true)
+    setGeneratingType(type)
     const contentType = contentTypes.find(c => c.id === type)
     
     try {
-      const SCRATCH = '/tmp/' + Math.random().toString(36).substr(2, 9)
-      const { execSync } = require('child_process')
+      const res = await fetch('/api/generate-marketing', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ prompt: contentType.prompt })
+      })
       
-      // Create temp git repo
-      execSync(`mkdir -p ${SCRATCH} && cd ${SCRATCH} && git init`, { stdio: 'pipe' })
+      const data = await res.json()
       
-      // Run Claude Code
-      const result = execSync(
-        `echo "${contentType.prompt}" | "/Users/helios/Library/Application Support/Claude/claude-code/2.1.49/claude" --print`,
-        { timeout: 60000 }
-      ).toString()
+      if (data.error) {
+        throw new Error(data.error)
+      }
 
       const newContent = {
         id: Date.now(),
         type: type,
         label: contentType.label,
-        text: result,
+        text: data.content,
         timestamp: new Date().toLocaleString()
       }
 
@@ -45,6 +46,7 @@ export default function Marketing() {
       alert('Error generating content: ' + err.message)
     } finally {
       setLoading(false)
+      setGeneratingType(null)
     }
   }
 
@@ -87,23 +89,11 @@ export default function Marketing() {
                   transition: 'all 0.2s'
                 }}
               >
-                {type.label}
+                {generatingType === type.id ? '⏳ Generating...' : type.label}
               </button>
             ))}
           </div>
         </div>
-
-        {loading && (
-          <div style={{ 
-            padding: '40px', 
-            textAlign: 'center', 
-            background: '#f9f9f9',
-            borderRadius: '10px',
-            marginBottom: '20px'
-          }}>
-            <p>🤖 Generating content with Claude Code...</p>
-          </div>
-        )}
 
         {/* Generated Content */}
         {content.length === 0 ? (
