@@ -1,0 +1,84 @@
+=== TWITTER TOM REPORT ===
+Generated: 2026-02-23 06:59
+
+--- Breaking News ---
+
+wallstengine | 13:36:35
+FED'S WALLER: WATCHING VACANCY RATE; IF THAT CONTINUES TO FALL WOULD BE UNUSUAL IF THE UNEMPLOYMENT RATE DID NOT RISE
+RT: 3 | LIKE: 10
+
+wallstengine | 13:40:06
+OpenAI secured multi-year deals with Accenture $ACN, BCG, Capgemini, and McKinsey to roll out its Frontier enterprise platform and push AI agents into production workflows faster. 
+
+Note: OpenAI has said enterprises are about 40% of its business today and it expects that closer t
+RT: 9 | LIKE: 46
+
+wallstengine | 13:47:09
+$LITE $COHR $GLW 
+
+JPM’s optics deep-dive argues AI data center capex is setting up a multi-year optics upcycle, with Top 5 U.S. hyperscaler spend rising from ~$450B in 2025 to ~$850B by 2027 (+37% CAGR). 
+
+They see transceiver attach rates moving from ~1x per XPU toward 2–5x+ as
+RT: 8 | LIKE: 35
+
+wallstengine | 13:55:57
+Domino's $DPZ expects U.S. comp sales to grow 3% in 2026, above Street estimates of 2.9%. https://t.co/dXrsk7DsvK
+RT: 0 | LIKE: 4
+
+StockMKTNewz | 13:33:04
+HERE'S HOW MUCH ETHEREUM TOM LEE AND BITMINE $BMNR HAVE HELD EACH TIME THEY'VE GIVEN AN OFFICIAL UPDATE
+
+2/22 - 4,422,659 ETH
+2/16 - 4,371,497 ETH
+2/8 - 4,325,738 ETH
+2/1 - 4,285,125 ETH
+1/26 - 4,243,338 ETH
+1/19 - 4,203,036 ETH
+1/11 - 4,167,768 ETH
+1/4 - 4,143,502 ETH
+12/28 - 4,
+RT: 0 | LIKE: 18
+
+--- Unusual Options ---
+
+unusual_whales | 13:35:57
+Domino’s Pizza, $DPZ, has raised its quarterly dividend by 14.4%, increasing it to $1.99 per share from $1.74.
+RT: 10 | LIKE: 134
+
+unusual_whales | 13:57:00
+Gover Pritzker of Illinois has sent President Donald Trump an invoice of $8.6 billion, per Reuters.
+RT: 3 | LIKE: 42
+
+--- Stock Alerts ---
+
+AlertsAndNews | 13:31:12
+$FBIO some hits on this
+
+Fortress Biotech's Subsidiary Cyprium Therapeutics Enters into Agreement to Sell Rare Pediatric Disease Priority Review Voucher for $205 Million
+RT: 0 | LIKE: 0
+
+AlertsAndNews | 13:45:35
+$GOSS Gossamer Bio Announces Topline Results from the Phase 3 PROSERA Study Evaluating Seralutinib in Pulmonary Arterial Hypertension
+
+"did not meet the prespecified threshold on the primary endpoint (α = 0.025); therefore, p‑values for the key secondary endpoints cannot be evalu
+RT: 0 | LIKE: 0
+
+AlertsAndNews | 13:46:34
+$IBRX still very strong. coming to 10. Cut this one a little early.
+RT: 0 | LIKE: 3
+
+PlayBookTrades | 13:37:59
+RT @DiogoMo14227945: @PlayBookTrades I'm joining the members' group this week. I've been following your good work for a while now. Looking…
+RT: 2 | LIKE: 7
+
+PlayBookTrades | 13:42:47
+RT @PlayBookTrades: $RXT
+
+And just like that, price just made new highs, $1.90. 💸
+
+We're now up 90% here. 🔥
+
+That deal with $PLTR was reall…
+RT: 2 | LIKE: 19
+
+=== END REPORT ===

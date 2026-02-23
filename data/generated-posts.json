@@ -1,35 +1,56 @@
-{
-  "generated": "2026-02-23T12:47:00Z",
-  "posts": [
-    {
-      "category": "Breaking News",
-      "headline": "DOW SURGES 200+ ON SCOTUS TARIFF RULING VICTORY",
-      "body": "The Dow Jones Industrial Average surged over 200 points Monday morning after the Supreme Court struck down President Trump's tariff authority in a major legal defeat for the administration's trade policy. The ruling removes significant uncertainty around trade relations, boosting market sentiment. $DIA $SPY $QQQ"
-    },
-    {
-      "category": "Earnings Spotlight",
-      "headline": "SPOT SOARS 15% ON BLOWOUT EARNINGSBEAT",
-      "body": "Spotify (SPOT) jumped 15% in early trading after exceeding Q4 expectations with an EPS beat of $0.28 and revenue beating by $210M. The audio streaming giant showed strong Premium subscriber growth, indicating robust demand for ad-free tier. Momentum carries into next session. $SPOT"
-    },
-    {
-      "category": "Trade Idea",
-      "headline": "TTWO STRONG BUY - 39% UPSIDE TARGET",
-      "body": "Raymond James upgraded Take-Two Interactive (TTWO) to STRONG BUY with a $285 price target, representing ~39% upside from current levels. Analyst notes: 'Recent AI fears have created a buying opportunity. The sell-off is overdone.' Accumulate on any weakness. $TTWO"
-    },
-    {
-      "category": "Unusual Options",
-      "headline": "WHALES LOADING UP ON NVDA PUTS AHEAD OF EARNINGS",
-      "body": "Unusual options flow shows significant put buying on NVIDIA (NVDA) ahead of Wednesday's Q4 earnings report. Bears are positioning for disappointment following the AI-driven rally. Expect increased volatility around the print. $NVDA"
-    },
-    {
-      "category": "Market Update",
-      "headline": "10-YEAR YIELDS DROP TO 4.15% - LOWEST IN A MONTH",
-      "body": "Bond yields are falling as tariff uncertainty clears. The 10-year Treasury yield has dipped to 4.15%, its lowest level in about a month, providing support for equity valuations. Fed still pricing 3 cuts for 2026 according to FedWatch. $TLT $IEF"
-    },
-    {
-      "category": "Earnings Calendar",
-      "headline": "KEY EARNINGS THIS WEEK: NVDA, ADBE, SNOW",
-      "body": "Major earnings on deck: NVIDIA (Wed after close), Adobe (Thurs before open), Snowflake (Fri after close). Results will set tone for AI infrastructure and cloud spending. Be prepared for high volatility around these names. $NVDA $ADBE $SNOW"
-    }
-  ]
-}
+[
+  {
+    "ticker": "NVDA",
+    "headline": "Nvidia Poised for Strong Q4 Results as AI Demand Remains Robust",
+    "body": "Nvidia Corporation is expected to report strong fourth-quarter results on Wednesday, February 26, 2026, following analyst upgrades from major investment banks. Citi recently reiterated a buy rating on the tech giant, citing attractive valuation levels as the stock has pulled back from recent highs. Bank of America analysts noted that Nvidia shares are trading at a significant discount compared to historical multiples, suggesting the market may have overreacted to AI disruption concerns. The company's dominance in AI chips and data center GPUs continues to drive investor interest, with analysts forecasting another quarter of substantial revenue growth driven by enterprise AI adoption and cloud infrastructure spending.",
+    "source": "Citi, Bank of America, 24/7 Wall St."
+  },
+  {
+    "ticker": "DELL",
+    "headline": "Dell Faces Headwinds as Memory Costs Pressure Margins Ahead of Earnings",
+    "body": "Dell Technologies is preparing to report fourth-quarter results on Wednesday, February 26, 2026, with analysts expressing caution about near-term profitability. Bank of America recently lowered its price target on Dell to $135 from $150, citing impending memory headwinds that could overshadow what is expected to be a strong quarterly print. The firm noted that rising memory prices are set to weigh on Dell's margins, particularly in its PC and server businesses. Despite these challenges, Dell's enterprise solutions and infrastructure offerings continue to show strength as businesses invest in digital transformation initiatives.",
+    "source": "Bank of America, 24/7 Wall St."
+  },
+  {
+    "ticker": "BWXT",
+    "headline": "BWX Technologies Reports Strong Q4 as Nuclear Energy Demand Surges",
+    "body": "BWX Technologies is scheduled to release fourth-quarter earnings on Monday, February 23, 2026, with analysts projecting earnings of $0.91 per share on revenue of $837.47 million. The company, which specializes in nuclear components and fuel for the U.S. government and commercial nuclear power plants, has benefited from increased defense spending and growing interest in nuclear energy as a clean power source. Recent contracts and the company's strong position in the nuclear supply chain have positioned BWXT for continued growth, with analysts noting the potential for low-double-digit to low-teen adjusted EBITDA growth in 2026.",
+    "source": "Benzinga, Markets Daily"
+  },
+  {
+    "ticker": "D",
+    "headline": "Dominion Energy Misses Estimates as Regulatory Challenges Persist",
+    "body": "Dominion Energy reported fourth-quarter earnings on Monday, February 23, 2026, with earnings per share of $0.68, slightly below consensus expectations of $0.65. The utility company posted revenue of $4.09 billion for the quarter, compared to the consensus estimate of $3.65 billion. For the full year, Dominion posted earnings per share of $3.45, slightly below consensus expectations of $3.47. The company's 2026 earnings guidance also fell a bit short at the midpoint, reflecting ongoing regulatory challenges and infrastructure investment requirements in Virginia and other service territories.",
+    "source": "Benzinga, Yahoo Finance"
+  },
+  {
+    "ticker": "FANG",
+    "headline": "Diamondback Energy Delivers Strong Q4 Despite Lower Oil Prices",
+    "body": "Diamondback Energy released fourth-quarter earnings on Monday, February 23, 2026, demonstrating the company's operational efficiency in the face of declining oil prices. The Permian Basin independent producer reported results showing resilience despite crude prices averaging around $58 per barrel during the quarter. Diamondback's focus on capital discipline and cost management has allowed it to maintain strong margins even as industry-wide realizations have softened. The company's dominant position in the Midland Basin and its track record of operational excellence continue to make it a standout performer in the energy sector.",
+    "source": "FinancialContent, Simply Wall St"
+  },
+  {
+    "ticker": "DPZ",
+    "headline": "Domino's Pizza Reports Robust Q4 as Digital Sales Drive Growth",
+    "body": "Domino's Pizza reported fourth-quarter earnings on Monday, February 23, 2026, delivering a strong finish to the 2025 fiscal year. The company has outperformed the broader QSR (Quick Service Restaurant) index by 8% over the past twelve months, buoyed by its successful integration with delivery platforms UberEats and DoorDash. Domino's continues to benefit from its digital transformation initiatives and efficient store operations, with same-store sales growth exceeding analyst expectations. The company's focus on technology and customer convenience has positioned it well in the competitive fast-food market.",
+    "source": "Benzinga, FinancialContent"
+  },
+  {
+    "ticker": "KEYS",
+    "headline": "Keysight Technologies Reports Strong Q1 Results in Semiconductor Testing",
+    "body": "Keysight Technologies is expected to report first-quarter 2026 results on Monday, February 23, 2026, with analysts forecasting earnings of $1.99 per share on revenue of $1.5404 billion. The company, a leader in electronic design automation and test equipment, continues to benefit from strong demand in the semiconductor industry. Keysight's solutions for 5G, automotive, and aerospace applications have driven growth as electronics manufacturers ramp up production. The company's focus on innovation and its broad portfolio of testing solutions position it well in the cyclical semiconductor equipment market.",
+    "source": "Markets Daily, Benzinga"
+  },
+  {
+    "ticker": "OKE",
+    "headline": "ONEOK Benefits from Magellan Merger as Midstream Sector Strengthens",
+    "body": "ONEOK continues to demonstrate the benefits of its Magellan merger as the midstream sector shows resilience in 2026. The company operates like a toll booth for the energy industry, with 60,000 miles of pipelines delivering crude oil, natural gas, and natural gas liquids. ONEOK's stock has risen 18% year-to-date, reflecting investor confidence in its integrated platform and the tax advantages from the merger. The company benefits from continued instability in European and Middle Eastern energy markets, which has made U.S. NGLs a strategic necessity for global petrochemical hubs.",
+    "source": "The Motley Fool, FinancialContent"
+  },
+  {
+    "ticker": "WDS",
+    "headline": "Woodside Energy Reports Q4 Results as LNG Market Faces Challenges",
+    "body": "Woodside Energy is scheduled to release fourth-quarter earnings on Monday, February 23, 2026, with analysts expecting earnings of $0.6970 per share on revenue of $6.3673 billion. The Australian LNG producer has faced challenges including a steeper decline in oil production from the Sangomar project and higher capital expenditure requirements. Woodside's diversified portfolio of LNG projects across Australia and international markets positions it to benefit from growing global demand for natural gas, though near-term results may be impacted by operational headwinds and higher interest costs.",
+    "source": "Defense World, The Motley Fool"
+  }
+]
