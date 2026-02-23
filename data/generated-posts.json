@@ -1,35 +1,35 @@
 {
-  "generated": "2026-02-22T20:10:00Z",
+  "generated": "2026-02-23T12:47:00Z",
   "posts": [
     {
-      "ticker": "NVDA",
-      "headline": "Nvidia Poised for Earnings Breakout as AI Growth Remains Robust",
-      "body": "Nvidia shares are trading near record highs ahead of its February 25 earnings report, with Wall Street analysts projecting 57% year-over-year revenue growth for fiscal 2026. The semiconductor giant has beaten earnings estimates for twelve consecutive quarters, with shares up 35% over the past year. Despite concerns about potential growth slowdown, Nvidia's dominant position in AI chips and data center markets continues to drive investor confidence. The stock could see significant upside if results meet or exceed the high expectations set by analysts.",
-      "source": "The Motley Fool, February 21, 2026"
+      "category": "Breaking News",
+      "headline": "DOW SURGES 200+ ON SCOTUS TARIFF RULING VICTORY",
+      "body": "The Dow Jones Industrial Average surged over 200 points Monday morning after the Supreme Court struck down President Trump's tariff authority in a major legal defeat for the administration's trade policy. The ruling removes significant uncertainty around trade relations, boosting market sentiment. $DIA $SPY $QQQ"
     },
     {
-      "ticker": "SPY",
-      "headline": "Dip-Buying Signals Complacency in Market Rally",
-      "body": "Despite a 1.1% gain in the S&P 500, persistent dip-buying signals potential market complacency and overconfidence rather than robust bullish conviction, according to Seeking Alpha. Growth outperformed value, with capital flowing from small/mid-caps, yield, and staples into high-growth tech names. The rally's narrow composition raises caution flags for sustainability.",
-      "source": "Seeking Alpha, February 22, 2026"
+      "category": "Earnings Spotlight",
+      "headline": "SPOT SOARS 15% ON BLOWOUT EARNINGSBEAT",
+      "body": "Spotify (SPOT) jumped 15% in early trading after exceeding Q4 expectations with an EPS beat of $0.28 and revenue beating by $210M. The audio streaming giant showed strong Premium subscriber growth, indicating robust demand for ad-free tier. Momentum carries into next session. $SPOT"
     },
     {
-      "ticker": "AAPL",
-      "headline": "Apple Shares Trade Near $265 with Analyst Upside to $292",
-      "body": "Apple (AAPL) stock is currently trading around $265, with analysts maintaining a Buy consensus and a 12-month price target of $287.83, representing approximately 11% upside. The forecast reflects optimism about Apple's ecosystem strength and upcoming product cycles, despite broader market volatility.",
-      "source": "MarketBeat, February 20, 2026"
+      "category": "Trade Idea",
+      "headline": "TTWO STRONG BUY - 39% UPSIDE TARGET",
+      "body": "Raymond James upgraded Take-Two Interactive (TTWO) to STRONG BUY with a $285 price target, representing ~39% upside from current levels. Analyst notes: 'Recent AI fears have created a buying opportunity. The sell-off is overdone.' Accumulate on any weakness. $TTWO"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Amazon Lags Magnificent Seven in 2026, Down 10% YTD",
-      "body": "Amazon has underperformed its Magnificent Seven peers in 2026, trading down 10% year-to-date and 18.4% from its all-time high. The underperformance raises questions about the e-commerce giant's growth prospects, though some analysts see a potential buying opportunity before the stock sets a new record.",
-      "source": "The Motley Fool, February 22, 2026"
+      "category": "Unusual Options",
+      "headline": "WHALES LOADING UP ON NVDA PUTS AHEAD OF EARNINGS",
+      "body": "Unusual options flow shows significant put buying on NVIDIA (NVDA) ahead of Wednesday's Q4 earnings report. Bears are positioning for disappointment following the AI-driven rally. Expect increased volatility around the print. $NVDA"
     },
     {
-      "ticker": "INTC",
-      "headline": "Intel Struggles to Regain Semiconductor Leadership",
-      "body": "Intel stock has re-rated over the past two years, moving from the low-$20s in early 2024 to the mid-$40s by February 2026, but remains significantly off its all-time highs. The company faces fierce competition from AMD and Nvidia, with analysts maintaining a Hold consensus and an average price target of $43.13, suggesting limited upside.",
-      "source": "Benzinga, February 2026"
+      "category": "Market Update",
+      "headline": "10-YEAR YIELDS DROP TO 4.15% - LOWEST IN A MONTH",
+      "body": "Bond yields are falling as tariff uncertainty clears. The 10-year Treasury yield has dipped to 4.15%, its lowest level in about a month, providing support for equity valuations. Fed still pricing 3 cuts for 2026 according to FedWatch. $TLT $IEF"
+    },
+    {
+      "category": "Earnings Calendar",
+      "headline": "KEY EARNINGS THIS WEEK: NVDA, ADBE, SNOW",
+      "body": "Major earnings on deck: NVIDIA (Wed after close), Adobe (Thurs before open), Snowflake (Fri after close). Results will set tone for AI infrastructure and cloud spending. Be prepared for high volatility around these names. $NVDA $ADBE $SNOW"
     }
   ]
 }
