@@ -36,6 +36,7 @@ export default function Layout({ children, title = 'Braxton Helios' }) {
     { name: 'Dashboard', path: '/', emoji: '◈' },
     { name: 'Hierarchy', path: '/hierarchy', emoji: '◎' },
     { name: 'News', path: '/news', emoji: '📰' },
+    { name: 'Tom Posts', path: '/tom', emoji: '🐦' },
     { name: 'Marketing', path: '/marketing', emoji: '📣' },
     { name: 'Tasks', path: '/tasks', emoji: '○' },
     { name: 'Trading Journal', path: '/trading-journal', emoji: '📊' },

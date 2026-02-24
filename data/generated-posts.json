@@ -1,1 +1,53 @@
-[{"ticker":"HD","headline":"Home Depot Earnings Preview: Q4 Sales Seen Lower as Housing Market Stays Frozen","body":"Home Depot (HD) is set to report fourth-quarter earnings Tuesday morning, with analysts expecting same-store sales to slip 0.4% year over year as the housing market remains in a deep freeze. The home improvement retailer has been grappling with declining consumer spending and a housing slowdown that has persisted through 2026. Despite shares gaining about 11% year-to-date amid a broader rotation out of tech stocks, the company faces pressure from years of weak earnings growth and operating margins hovering near decade lows. Options pricing suggests traders expect HD stock could move up to 4% in either direction by week’s end. The market will be watching closely for management commentary on whether demand could rebound later this year, particularly as the company provided preliminary 2026 guidance during its December investor conference.","source":"Investopedia"},{"ticker":"NVO","headline":"Novo Nordisk Shares Plunge 16% After Next-Gen Obesity Drug Fails Head-to-Head Trial","body":"Danish pharmaceutical giant Novo Nordisk (NVO) suffered a devastating setback Monday as its next-generation obesity drug CagriSema failed to match the weight-loss efficacy of Eli Lilly’s Zepbound in a landmark Phase 3 trial. Shares plummeted 16.43% to close at $39.63, wiping out the company’s Wegovy-era gains and erasing approximately $475 billion in market value. The trial results showed CagriSema achieved 20.2% weight loss versus tirzepatide’s 23.6%, falling short of the non-inferiority target. J.P. Morgan analysts called the miss a significant setback that could curb long-term sales hopes and leave Novo struggling to regain leadership in the fast-growing obesity treatment market. The disappointing data sent shockwaves across Denmark’s stock market, underscoring how tightly the country’s fortunes are tied to the obesity-drug maker.","source":"CNBC"},{"ticker":"NVDA","headline":"Nvidia Earnings Preview: AI Chip Demand to Drive Q4 Results Amid Market Uncertainty","body":"Nvidia (NVDA) prepares to report fourth-quarter earnings Wednesday after the close, with the AI chip leader facing its biggest test yet amid growing “AI fatigue” among investors. The company’s upcoming earnings report could be the biggest stock market event of 2026 so far, as Nvidia supplies the world’s best graphics processing units for data centers, which are the primary chips used in artificial intelligence applications. Analysts expect revenues approaching $65 billion, driven by booming AI datacenter chip demand, though initial market reactions have been cautious with the Nasdaq Composite down roughly 3% year-to-date. Options positioning suggests potential volatility around the report, while investors will be watching closely for Blackwell platform updates and guidance on hyperscaler capital expenditure plans that continue to stretch higher in 2026.","source":"Nasdaq"},{"ticker":"GMR","headline":"GMR Airports Recommended as Top Buy Amid Strong Passenger Growth","headline":"GMR Airports Recommended as Top Buy Amid Strong Passenger Growth","body":"Mirae Asset Sharekhan has identified GMR Airports as a key buy opportunity for February 24, 2026, citing strong technical chart patterns and momentum. The airport operator recorded its highest-ever passenger traffic in December 2024, handling 1.08 crore passengers, a 9% year-over-year increase. Technical breakouts are fueling stock picks amidst sectoral shifts, with analysts pointing to favorable risk-reward ratios for long positions. The recommendation comes as part of a broader India market analysis that includes other financial sector picks, with GMR Airports positioned to benefit from continued travel demand recovery and infrastructure expansion in the aviation sector.","source":"Times of India"},{"ticker":"KOTAK","headline":"Kotak Mahindra Bank Named Top Pick Amid Strong Growth and Undervaluation","body":"Kotak Mahindra Bank has been named a top stock pick for February 24, 2026, by Mirae Asset Sharekhan, which cited strong technical chart patterns and momentum. The private sector lender reported a standalone net profit of Rs 3,446 crore for the quarter ended December 31, 2025, up 4.3% from the previous year. As of February 4, 2026, the bank is considered undervalued based on intrinsic value estimates, potentially presenting a good buying opportunity according to share valuation metrics. The recommendation comes amid a broader sectoral shift favoring financial services stocks, with Kotak positioned to benefit from strong growth in net advances and a robust capital position.","source":"Times of India"},{"ticker":"LTF","headline":"L\u0026T Finance Recommended as Strong Buy Amid Technical Momentum","body":"L\u0026T Finance has been identified as a key buy opportunity for February 24, 2026, by Mirae Asset Sharekhan, which highlighted strong technical chart patterns and momentum. The recommendation comes as part of a broader India market analysis focusing on financial sector opportunities. Technical breakouts are fueling stock picks amidst sectoral shifts, with L\u0026T Finance positioned to benefit from favorable risk-reward ratios for long positions. The stock is being watched closely by investors seeking exposure to India’s growing financial services sector, particularly as technical indicators suggest continued upward momentum in the near term.","source":"Times of India"}]
+{
+  "date": "2026-02-24",
+  "posts": [
+    {
+      "id": 1,
+      "category": "Earnings",
+      "title": "Keysight Technologies Soars 20% on Blowout Earnings Beat",
+      "content": "Keysight Technologies (KEYS) rallied 20% after surpassing Q2 estimates by $0.45 and raising full-year guidance. Strong demand for 5G and AI testing solutions drove a significant revenue beat. Options market activity suggests continued upward momentum. $KEYS",
+      "hashtags": ["KEYS", "Earnings", "Tech", "Testing"],
+      "sentiment": "bullish"
+    },
+    {
+      "id": 2,
+      "category": "Consumer",
+      "title": "Amer Sports Gains on Technical Apparel Strength",
+      "content": "Amer Sports (AS) rose 8% following a better-than-expected Q4 report, fueled by robust performance in technical apparel segments. Brands like Arc'teryx and Salomon are capturing growing market share. Momentum play with holiday season tailwinds. $AS",
+      "hashtags": ["AS", "Consumer", "Retail", "Apparel"],
+      "sentiment": "bullish"
+    },
+    {
+      "id": 3,
+      "category": "Market Watch",
+      "title": "NVIDIA Short Interest at Record Levels Amid AI Debate",
+      "content": "NVIDIA (NVDA) short interest now stands at 265 million shares (notional value ~$300B) as bears accumulate positions on AI disruption concerns. Despite this, major firms maintain buy ratings, citing AI infrastructure growth. Volatile setup heading into earnings. $NVDA",
+      "hashtags": ["NVDA", "Shorts", "AI", "Volatility"],
+      "sentiment": "neutral"
+    },
+    {
+      "id": 4,
+      "category": "Tech",
+      "title": "Meta Platforms Rises 2.7% on Massive AI Capex Plan",
+      "content": "Meta (META) gained 2.7% after announcing plans to invest up to $66 billion in AI and data center capital expenditures for 2026, including a multiyear deployment of AMD GPUs. This demonstrates sustained confidence in AI monetization. $META",
+      "hashtags": ["META", "AI", "Capex", "Tech"],
+      "sentiment": "bullish"
+    },
+    {
+      "id": 5,
+      "category": "Tech",
+      "title": "Apple Dipping on China Demand Softness",
+      "content": "Apple (AAPL) slipped 3% this week as analysts point to weakening iPhone demand in Greater China. Supply chain checks indicate potential Q1 production cuts. Could present a buying opportunity ahead of the next product cycle. $AAPL",
+      "hashtags": ["AAPL", "China", "iPhone", "Dip"],
+      "sentiment": "bearish"
+    },
+    {
+      "id": 6,
+      "category": "Tech",
+      "title": "Microsoft Faces AI Disruption Concerns",
+      "content": "Microsoft (MSFT) is facing headwinds as enterprise AI agents threaten legacy software revenue streams. While Azure AI growth remains solid, investors worry about increasing competitive pressures. Market watching for Q3 earnings guidance. $MSFT",
+      "hashtags": ["MSFT", "AI", "Cloud", "Earnings"],
+      "sentiment": "neutral"
+    }
+  ]
+}

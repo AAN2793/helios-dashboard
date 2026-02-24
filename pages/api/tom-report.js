@@ -2,86 +2,99 @@ import fs from 'fs'
 import path from 'path'
 
 export default function handler(req, res) {
-  // Try to read from the data folder (synced from Tom)
-  const jsonFile = path.join(process.cwd(), 'data', 'tom-report.json')
+  // Try multiple possible locations for Tom's report
+  const possiblePaths = [
+    path.join(process.cwd(), 'data', 'tom-report.json'),
+    path.join(process.cwd(), '..', 'twitter_tom_report.txt'),
+    path.join(process.cwd(), '..', '..', 'twitter_tom_report.txt'),
+    path.join(process.cwd(), 'data', 'twitter_tom_report.txt'),
+  ]
 
-  try {
-    if (fs.existsSync(jsonFile)) {
-      const jsonData = JSON.parse(fs.readFileSync(jsonFile, 'utf-8'))
-      return res.status(200).json(jsonData)
-    }
-    
-    // Fallback: try local report file
-    const reportFile = '/Users/helios/.openclaw/workspace/twitter_tom_report.txt'
-    if (!fs.existsSync(reportFile)) {
+  // GET - return Tom posts
+  if (req.method === 'GET') {
+    try {
+      let tomData = null
+      let foundPath = null
+
+      // Try to find and parse Tom's report
+      for (const filePath of possiblePaths) {
+        if (fs.existsSync(filePath)) {
+          foundPath = filePath
+          const content = fs.readFileSync(filePath, 'utf-8')
+          
+          // Try to parse as JSON first
+          try {
+            tomData = JSON.parse(content)
+          } catch {
+            // If not JSON, create a structured response from text
+            tomData = {
+              lastRun: new Date().toISOString(),
+              rawContent: content,
+              posts: parseTomReport(content)
+            }
+          }
+          break
+        }
+      }
+
+      if (tomData) {
+        return res.status(200).json(tomData)
+      }
+
+      // Return sample data if no report found
       return res.status(200).json({
-        generated: new Date().toISOString(),
-        categories: {},
-        message: 'No Tom report available yet. Tom runs at 5:40 AM, 11:12 AM, 4:45 PM, 8:12 PM weekdays.'
+        lastRun: null,
+        posts: [],
+        message: 'No Tom report found. Run Tom to generate content.'
+      })
+    } catch (err) {
+      return res.status(200).json({
+        lastRun: null,
+        posts: [],
+        error: err.message
       })
     }
-    
-    const content = fs.readFileSync(reportFile, 'utf-8')
-    const lines = content.split('\n')
-    
-    // Parse the report into structured data
-    const result = {
-      generated: '',
-      categories: {},
-      raw: content
-    }
-
-    let currentCategory = ''
-    let currentTweets = []
-
-    for (const line of lines) {
-      const trimmed = line.trim()
-
-      if (trimmed.startsWith('Generated:')) {
-        result.generated = trimmed.replace('Generated:', '').trim()
-      } else if (trimmed.startsWith('===') || trimmed.startsWith('---')) {
-        // Save previous category
-        if (currentCategory && currentTweets.length > 0) {
-          result.categories[currentCategory] = currentTweets
-        }
-        currentCategory = trimmed.replace(/^[-=]+\s*|[-=]+$/g, '').trim()
-        currentTweets = []
-      } else if (trimmed.startsWith('@')) {
-        // Parse tweet: @author | time
-        const parts = trimmed.split('|')
-        const author = parts[0].trim()
-        const created_at = parts[1]?.trim() || ''
-        
-        currentTweets.push({
-          author,
-          created_at,
-          text: '',
-          retweet_count: 0,
-          like_count: 0
-        })
-      } else if (trimmed && currentTweets.length > 0 && !trimmed.startsWith('RT:') && !trimmed.startsWith('LIKE:')) {
-        // This is the tweet text
-        currentTweets[currentTweets.length - 1].text = trimmed
-      } else if (trimmed.startsWith('RT:')) {
-        currentTweets[currentTweets.length - 1].retweet_count = trimmed.replace('RT:', '').trim()
-      } else if (trimmed.startsWith('LIKE:')) {
-        currentTweets[currentTweets.length - 1].like_count = trimmed.replace('LIKE:', '').trim()
-      }
-    }
-
-    // Save last category
-    if (currentCategory && currentTweets.length > 0) {
-      result.categories[currentCategory] = currentTweets
-    }
-
-    res.status(200).json(result)
-  } catch (err) {
-    // If file doesn't exist, return empty state
-    res.status(200).json({
-      generated: new Date().toISOString(),
-      categories: {},
-      raw: 'No report available. Run Twitter Tom to generate feed.',
-      error: err.message
-    })
   }
+
+  res.status(405).json({ error: 'Method not allowed' })
+}
+
+// Parse Tom's report text into structured posts
+function parseTomReport(content) {
+  const posts = []
+  const lines = content.split('\n')
+  
+  let currentPost = null
+  
+  for (const line of lines) {
+    const trimmed = line.trim()
+    
+    // Look for ticker symbols (e.g., $AMD, $META)
+    const tickerMatch = trimmed.match(/\$([A-Z]{1,5})/)
+    const ticker = tickerMatch ? tickerMatch[1] : null
+    
+    // Look for category markers
+    let category = null
+    if (trimmed.toLowerCase().includes('breaking')) category = 'Breaking News'
+    else if (trimmed.toLowerCase().includes('earnings')) category = 'Earnings'
+    else if (trimmed.toLowerCase().includes('market') || trimmed.toLowerCase().includes('futures')) category = 'Market Watch'
+    else if (trimmed.toLowerCase().includes('options')) category = 'Unusual Options'
+    
+    if (ticker || (category && trimmed.length > 20)) {
+      if (currentPost) posts.push(currentPost)
+      currentPost = {
+        id: posts.length + 1,
+        ticker: ticker,
+        category: category,
+        title: trimmed.substring(0, 100),
+        content: trimmed
+      }
+    } else if (currentPost && trimmed.length > 0) {
+      currentPost.content += '\n' + trimmed
+    }
+  }
+  
+  if (currentPost) posts.push(currentPost)
+  
+  return posts
 }

@@ -1,100 +1,129 @@
-import Head from 'next/head'
 import { useState, useEffect } from 'react'
 import Layout from '../components/Layout'
 
-export default function Tom() {
-  const [feed, setFeed] = useState([])
-  const [lastUpdated, setLastUpdated] = useState(null)
-  const [loading, setLoading] = useState(false)
+export const dynamic = 'force-dynamic'
 
-  // Load feed from Tom's report file
+export default function Tom() {
+  const [posts, setPosts] = useState([])
+  const [loading, setLoading] = useState(true)
+  const [lastRun, setLastRun] = useState(null)
+  const [copied, setCopied] = useState(null)
+
   useEffect(() => {
-    loadTomFeed()
+    fetchTomPosts()
   }, [])
 
-  const loadTomFeed = async () => {
+  const fetchTomPosts = async () => {
     setLoading(true)
     try {
-      const response = await fetch('/tom-feed.json')
-      if (response.ok) {
-        const data = await response.json()
-        setFeed(data.feed || [])
-        setLastUpdated(data.timestamp || null)
+      // Fetch Tom's report if available
+      const res = await fetch('/api/tom-report')
+      const data = await res.json()
+      
+      if (data.posts && data.posts.length > 0) {
+        setPosts(data.posts)
+        setLastRun(data.lastRun)
       }
-    } catch (e) {
-      console.log('No feed file yet')
+    } catch (err) {
+      console.error('Error loading Tom posts:', err)
+    } finally {
+      setLoading(false)
     }
-    setLoading(false)
   }
 
-  const formatTime = (isoString) => {
-    if (!isoString) return ''
-    const date = new Date(isoString)
-    return date.toLocaleString('en-US', {
-      month: 'short',
-      day: 'numeric',
-      hour: 'numeric',
-      minute: '2-digit',
-      hour12: true
-    })
+  const copyToClipboard = (text, idx) => {
+    navigator.clipboard.writeText(text)
+    setCopied(idx)
+    setTimeout(() => setCopied(null), 2000)
   }
 
-  const categories = {
-    'Breaking News': { color: 'text-red-400', border: 'border-red-500' },
-    'Unusual Options': { color: 'text-yellow-400', border: 'border-yellow-500' },
-    'Stock Alerts': { color: 'text-green-400', border: 'border-green-500' },
+  const getFullText = (post) => {
+    return `${post.ticker || ''}\n${post.title || post.headline}\n\n${post.content || post.body}`
   }
 
   return (
-    <Layout title="Tom Feed | Braxton Helios">
+    <Layout title="Tom Posts | Braxton Helios">
       <header className="mb-8">
-        <h1 className="text-3xl font-bold text-orange-500">Tom Feed</h1>
-        <p className="text-slate-400 mt-2">Raw Twitter data - what Tom is seeing</p>
+        <h1 className="text-3xl font-bold text-cyan-500">🐦 Tom Posts</h1>
+        <p className="text-slate-400 mt-2">AI-generated tweets from Tom - Copy & paste ready</p>
       </header>
 
-      <div className="flex justify-between items-center mb-6">
-        <div className="text-sm text-slate-400">
-          {lastUpdated && (
-            <span>Last updated: {formatTime(lastUpdated)}</span>
-          )}
+      {/* Last Run Info */}
+      {lastRun && (
+        <div className="mb-6 p-4 bg-slate-800 rounded-lg">
+          <p className="text-slate-400 text-sm">
+            Last Run: <span className="text-cyan-400">{new Date(lastRun).toLocaleString()}</span>
+          </p>
         </div>
+      )}
+
+      {/* Refresh Button */}
+      <div className="mb-6">
         <button
-          onClick={loadTomFeed}
-          disabled={loading}
-          className={`px-4 py-2 rounded-lg text-sm font-medium transition-colors ${
-            loading 
-              ? 'bg-slate-700 text-slate-500' 
-              : 'bg-orange-500/20 text-orange-400 hover:bg-orange-500/30'
-          }`}
+          onClick={fetchTomPosts}
+          className="px-4 py-2 bg-cyan-800 text-cyan-100 rounded-lg text-sm hover:bg-cyan-700"
         >
-          {loading ? 'Loading...' : 'Refresh Feed'}
+          ↻ Refresh Tom Posts
         </button>
       </div>
 
-      {feed.length === 0 ? (
-        <div className="card p-8 text-center">
-          <p className="text-slate-400">No feed data yet. Tom runs at:</p>
-          <div className="mt-4 space-y-2 text-sm">
-            <p><span className="text-slate-500">Weekdays:</span> 5:40 AM, 11:12 AM, 4:45 PM, 8:12 PM</p>
-            <p><span className="text-slate-500">Weekends:</span> 1:18 PM</p>
+      {loading ? (
+        <div className="text-slate-400">Loading Tom's posts...</div>
+      ) : posts.length === 0 ? (
+        <div className="text-slate-400">
+          <p className="mb-4">No posts from Tom yet. Run Tom to generate content.</p>
+          <div className="card p-6 bg-slate-800/50">
+            <h3 className="font-semibold text-cyan-400 mb-2">How Tom Works</h3>
+            <p className="text-slate-400 text-sm">
+              Tom scans market news and generates tweets for AlertsAndNews. 
+              Posts are saved to the news feed and can be copied directly to StockTwits or X.
+            </p>
           </div>
         </div>
       ) : (
-        <div className="space-y-4">
-          {feed.map((item, idx) => (
-            <div key={idx} className={`card p-4 border-l-4 ${categories[item.category]?.border || 'border-slate-500'}`}>
-              <div className="flex justify-between items-start mb-2">
-                <span className={`text-xs uppercase tracking-wide ${categories[item.category]?.color || 'text-slate-400'}`}>
-                  {item.category}
-                </span>
-                <span className="text-xs text-slate-500">{item.author}</span>
+        <div className="grid gap-4">
+          {posts.map((post, idx) => (
+            <div key={post.id || idx} className="bg-slate-800 rounded-lg p-5 border-l-4 border-cyan-500">
+              <div className="flex justify-between items-start mb-3">
+                <div className="flex gap-2 items-center">
+                  <span className="px-2 py-1 text-xs rounded-full bg-cyan-900 text-cyan-300">
+                    Tom
+                  </span>
+                  <span className="text-cyan-400 font-mono text-sm">
+                    {post.ticker || 'N/A'}
+                  </span>
+                  {post.category && (
+                    <span className="px-2 py-1 text-xs rounded-full bg-slate-700 text-slate-300">
+                      {post.category}
+                    </span>
+                  )}
+                </div>
+                <button
+                  onClick={() => copyToClipboard(getFullText(post), idx)}
+                  className={`px-3 py-1 text-sm rounded transition-colors ${
+                    copied === idx 
+                      ? 'bg-green-900 text-green-300' 
+                      : 'bg-slate-700 text-slate-300 hover:bg-slate-600'
+                  }`}
+                >
+                  {copied === idx ? '✓ Copied' : '📋 Copy'}
+                </button>
               </div>
-              <div className="text-slate-300 text-sm mb-2">{item.text}</div>
-              <div className="flex gap-4 text-xs text-slate-500">
-                <span>{item.time}</span>
-                {item.rt > 0 && <span>RT: {item.rt}</span>}
-                {item.likes > 0 && <span>Likes: {item.likes}</span>}
-              </div>
+              
+              <h3 className="text-lg font-bold text-white mb-2">
+                {post.title || post.headline}
+              </h3>
+              <p className="text-slate-300 text-sm whitespace-pre-wrap">
+                {post.content || post.body}
+              </p>
+              
+              {post.hashtags && (
+                <div className="flex gap-2 mt-3 flex-wrap">
+                  {post.hashtags.map((tag, i) => (
+                    <span key={i} className="text-xs text-slate-500">#{tag}</span>
+                  ))}
+                </div>
+              )}
             </div>
           ))}
         </div>
