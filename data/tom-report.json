@@ -1,61 +1,61 @@
 {
-  "lastRun": "2026-02-24T18:25:14Z",
+  "lastRun": "2026-02-25T03:30:00Z",
   "posts": [
     {
       "category": "Market Summary",
-      "headline": "U.S. Markets Rally as AI Optimism Returns",
-      "body": "U.S. stocks rebounded Tuesday with the Dow gaining 400+ points (0.9%), S&P 500 up 0.8%, and Nasdaq rising 1.1% as investors recovered from Monday's AI-fueled sell-off. The rally was led by technology shares and supported by strong earnings from Home Depot, which beat estimates and rose nearly 4%. Despite lingering tariff uncertainty, market sentiment improved with the AI trade showing signs of stabilization ahead of Nvidia's earnings tomorrow.",
+      "headline": "Tech-Led Rally Reverses Monday's Losses as AI Fears Ease",
+      "body": "U.S. markets staged a strong turnaround Tuesday with the Dow gaining 400 points (0.9%), S&P 500 up 0.8%, and Nasdaq rising 1.1% after Monday's AI-driven sell-off. The rebound was led by semiconductor and software stocks recovering from last week's pressure, with the S&P Software & Services index advancing 1.3%. Investor sentiment improved despite lingering tariff uncertainty and Jamie Dimon's warnings about pre-crisis conditions, setting up a pivotal Nvidia earnings tomorrow as the ultimate AI trade test.",
       "ticker": null,
-      "source": "CNBC, Bloomberg, StockMarketWatch"
+      "source": "Bloomberg, Reuters, CNBC"
     },
     {
-      "category": "Earnings Alert",
-      "headline": "WATCH: Workday & Lucid Reporting After Close Today",
-      "body": "Workday Inc. (WDAY), a key SaaS stock, reports earnings after market close today with analysts watching closely for AI product adoption metrics. Lucid Group (LCID) also reports Q4 results after the bell, with expectations of a $2.67 loss per share on $459.53M revenue. Both reports could provide insight into enterprise spending and EV market conditions, respectively. Results expected around 4:00-4:30 PM ET.",
-      "ticker": "WDAY, LCID",
-      "source": "Benzinga, TipRanks"
+      "category": "Asia Markets",
+      "headline": "Asia-Pac Markets Extend US Rally with Broad Gains",
+      "body": "Asia-Pacific markets followed Wall Street's positive momentum with Nikkei 225 up 0.87% to 57,321, Hang Seng rising 0.45%, and mainland China's CSI 300 gaining 0.6%. Australia's S&P/ASX 200 climbed 1.17% to 9,128.3, while South Korea's Kospi added 1.22%. The region's strength reflects improved AI sentiment and easing concerns about technology disruption risks that had plagued markets last week.",
+      "ticker": null,
+      "source": "CNBC, Business Standard, MarketScreener"
     },
     {
       "category": "Earnings Beat",
-      "headline": "Home Depot Crushes Estimates, Rallies 4%",
-      "body": "Home Depot (HD) delivered a much-needed beat, posting Q4 EPS of $2.72 vs. $2.54 estimates on revenue of $38.2B. The home improvement retailer's strong performance, with same-store sales exceeding expectations, boosted home goods sector sentiment. Shares jumped nearly 4% in premarket and continued climbing through the session. Options pricing now suggests the stock could move up to 4% more by week's end. Rival Lowe's (LOW) reports Wednesday.",
-      "ticker": "HD",
-      "source": "CNBC, Investopedia"
+      "headline": "Keysight Technologies Soars 20% on Blowout Results",
+      "body": "Keysight Technologies (KEYS) surged 20% after Q1 earnings of $2.17/share topped $2.00 estimates with revenue of $1.60B vs. $1.54B expected. The electronics test equipment maker benefited from strong 5G and AI infrastructure spending, making it one of today's top S&P 500 performers. The breakout highlights continued momentum in semiconductor-adjacent plays and suggests the AI supply chain remains robust heading into Nvidia's report.",
+      "ticker": "KEYS",
+      "source": "StockMarketWatch, Yahoo Finance"
     },
     {
-      "category": "Major Mover",
-      "headline": "Keysight Technologies Soars 20% on Blowout Earnings",
-      "body": "Keysight Technologies (KEYS) surged 20% after delivering a stellar quarterly report that exceeded analyst expectations across revenue and earnings metrics. The test and measurement equipment provider benefited from strong demand in 5G and AI-related infrastructure spending. The breakout performance makes KEYS one of today's top S&P 500 gainers and highlights continued momentum in semiconductor-adjacent plays. The stock's relative strength suggests the AI trade recovery has legs.",
-      "ticker": "KEYS",
-      "source": "StockMarketWatch"
+      "category": "Earnings Miss",
+      "headline": "Planet Fitness, Workday, Lucid Disappoint in After-Hours",
+      "body": "Planet Fitness (PLNT) fell 5% premarket despite beating revenue estimates, as margin pressure concerned investors. Workday (WDAY) dropped nearly 10% after guiding Q1 subscription revenue below consensus at $2.34B. Lucid Group (LCID) slid 4%+ with a wider-than-expected loss of $3.62/share though revenue topped estimates; the EV maker also cut 12% of its U.S. workforce. These results underscore uneven corporate performance ahead of the pivotal NVDA report.",
+      "ticker": "PLNT, WDAY, LCID",
+      "source": "CNBC, Yahoo Finance"
     },
     {
       "category": "Upcoming Catalyst",
-      "headline": "Nvidia Earnings Tomorrow: AI Trade's Biggest Test",
-      "body": "All eyes are on Nvidia's (NVDA) Q4 fiscal 2026 earnings report due Wednesday after market close. The AI chip giant faces heightened scrutiny after nearly 20% decline in 2026, with analysts expecting 62%+ profit growth. Revenue is projected around $57B with EPS near $1.30. Results will serve as the ultimate barometer for AI spending trends and could trigger significant market moves. The stock is up 2.7% heading into the report, while Microsoft and Amazon remain down double-digits for the year.",
+      "headline": "Nvidia Earnings Tomorrow: AI Market's Biggest Test",
+      "body": "Nvidia (NVDA) reports Q4 fiscal 2026 earnings after market close Wednesday, with Wall Street expecting $1.45 EPS on $65.7B revenue. The chipmaker faces intense scrutiny after nearly 20% decline in 2026, with analysts forecasting 65%+ revenue growth and 71% EPS increase. Results will be the ultimate barometer for AI spending trends and could trigger major market moves; options pricing suggests an 8-10% swing. The stock is up 2.7% YTD while tech peers remain down double-digits.",
       "ticker": "NVDA",
-      "source": "Reuters, CNBC, 247WallSt"
+      "source": "Kiplinger, Motley Fool, Reuters"
     },
     {
-      "category": "Actionable Trade",
-      "headline": "NVDA Call Options Surge Ahead of Earnings",
-      "body": "Traders are aggressively positioning for Nvidia's earnings with call option volumes spiking 300% above average. The most active strikes are $150 and $160 calls expiring this Friday, representing bets that the stock will surge post-earnings. Implied volatility is sitting at 85%, pricing in a potential 8-10% swing. Given the stock is down 20% YTD, a strong beat could trigger a massive short-covering rally. Consider risk-defined strategies like call spreads to manage elevated premiums.",
-      "ticker": "NVDA",
-      "source": "MarketWatch Options, Bloomberg"
-    },
-    {
-      "category": "Daily Themes",
-      "headline": "AI Recovery & Home Goods Lead Today's Rally",
-      "body": "Today's market leadership shows two clear themes: 1) AI recovery plays rebounding from last week's sell-off, with semiconductor and software stocks recovering; 2) Home goods/retail strength following HD's beat. The 'Magnificent 7' composition is shifting as Apple (+2.94%) gains on iPhone 17e anticipation while Meta maintains $1.61T market cap. Tariff concerns remain in the background but aren't currently pressuring sentiment. The technical bounce off Monday's lows suggests the correction may be finding a bottom.",
+      "category": "Political Catalyst",
+      "headline": "Trump's State of the Union Reinforces Tariff Agenda",
+      "body": "President Trump's Tuesday State of the Union doubled down on trade protectionism, declaring 'we're winning so much' while imposing new tariffs. The administration maintains 15% global tariffs and 50% levies on steel/aluminum/copper, with threats of higher rates for 'game-playing' nations. These policies create uncertainty for multinational companies and could impact supply chains, particularly in tech hardware and automotive sectors in coming months.",
       "ticker": null,
-      "source": "Yahoo Finance, 24/7 Wall St."
+      "source": "AP News, CNBC, CNN"
     },
     {
-      "category": "Urgent Alert",
-      "headline": "Bitcoin Testing Critical $60K Support",
-      "body": "Bitcoin (BTC) dropped 3.1% to $62,557, threatening to break below the critical $60,000 support level. The cryptocurrency is down 19% for February, its worst month since June 2022, as tariff fears weigh on risk assets. A breach of $60K could trigger liquidations and send BTC toward $52,500. Despite 'digital gold' narrative, BTC continues trading in lockstep with equities, making it vulnerable to market volatility. Watch for correlation spikes with Nasdaq during NVDA earnings.",
-      "ticker": "BTC",
-      "source": "Bloomberg, Yahoo Finance"
+      "category": "Notable Mover",
+      "headline": "Home Depot Beats Despite Housing Market Headwinds",
+      "body": "Home Depot (HD) delivered an unexpected beat with Q4 EPS of $2.72 vs. $2.54 estimates on revenue of $38.2B, sending shares up 4%. The home improvement giant maintained guidance despite higher interest rates and lower housing turnover, highlighting strength in professional contractor business. The performance suggests consumer resilience on home projects even as big-ticket purchases slow, providing a positive signal for retail discretionary heading into Q1.",
+      "ticker": "HD",
+      "source": "CNBC, StockMarketWatch"
+    },
+    {
+      "category": "Overnight Watch",
+      "headline": "NVDA, AMD, and Lowe's Headline Wednesday's Catalysts",
+      "body": "Wednesday's key events: 1) Nvidia (NVDA) Q4 earnings after close - the most important report of the quarter; 2) Advanced Micro Devices (AMD) saw positive technical action today on Meta AI chips deal; 3) Lowe's (LOW) reports Q4 earnings pre-market, with investor focus on comparison to HD's strong performance; 4) Continued Asia market momentum and any post-SOTU policy announcements. Traders should expect elevated volatility around NVDA results with potential 8-10% overnight move priced in.",
+      "ticker": "NVDA, AMD, LOW",
+      "source": "Yahoo Finance, TipRanks"
     }
   ]
 }

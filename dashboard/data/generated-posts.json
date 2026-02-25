@@ -1,38 +1,53 @@
-[
-  {
-    "ticker": "GSK",
-    "headline": "GSK Acquires RAPT Therapeutics for $2.2 Billion to Boost Immunology Pipeline",
-    "body": "British pharmaceutical giant GSK has agreed to acquire U.S.-based clinical-stage biopharmaceutical company RAPT Therapeutics for approximately $2.2 billion in an all-cash transaction. The deal, structured as a tender offer followed by a second-step merger, is expected to close in the first quarter of 2026. GSK aims to strengthen its immunology portfolio with RAPT's promising food allergy treatment, positioning the company to capitalize on the growing market for allergy therapies. The acquisition represents a strategic move to diversify GSK's pipeline and leverage RAPT's innovative research capabilities.",
-    "source": "Reuters, January 20, 2026"
-  },
-  {
-    "ticker": "HIMS",
-    "headline": "Hims & Hers Health to Acquire Eucalyptus for Up to $1.15 Billion, Accelerating Global Expansion",
-    "body": "Hims & Hers Health announced Thursday it will acquire Australian digital health company Eucalyptus in a deal valued at up to $1.15 billion, as the U.S. telehealth firm pushes into international markets to expand its personalized-care business. The acquisition will accelerate Hims & Hers' vision to become the leading global consumer health platform, giving it immediate access to Eucalyptus' established presence in Australia and New Zealand. This strategic move positions the company to compete more effectively in the rapidly growing digital health market while diversifying its revenue streams beyond the U.S.",
-    "source": "Reuters, February 19, 2026"
-  },
-  {
-    "ticker": "SCHW",
-    "headline": "Nuveen to Acquire Schroders for $13.5 Billion, Creating $2.5 Trillion Asset Management Giant",
-    "body": "Chicago-based Nuveen has agreed to buy London-listed asset manager Schroders in a $13.5 billion deal that will create one of the world's largest asset management firms with $2.5 trillion in assets under management. The acquisition values Schroders at 16.5 times 2026 earnings and ends two centuries of family ownership of the historic British firm. The merger will combine Nuveen's strength in U.S. retirement markets with Schroders' global investment expertise, creating significant cost synergies and expanded product offerings for clients across 40 global markets.",
-    "source": "Reuters, February 12, 2026"
-  },
-  {
-    "ticker": "GETY",
-    "headline": "Getty Images-Shutterstock Merger Faces Regulatory Setback in UK Over Editorial Content Concerns",
-    "body": "The $3.7 billion merger between Getty Images and Shutterstock faces a regulatory setback in the U.K. after the competition regulator found concerns about reduced competition in the editorial content market. While the deal was cleared in the global stock content market, the UK's Competition and Markets Authority identified potential issues with the combined company's dominance in editorial photography and news imagery. The merger, announced in 2025, would create the world's largest visual content provider, combining Getty's premium editorial content with Shutterstock's broader creative assets.",
-    "source": "Reuters, February 19, 2026"
-  },
-  {
-    "ticker": "DASH",
-    "headline": "DoorDash Shares Rise 14% After Earnings Miss as Investors Focus on Long-Term Growth Strategy",
-    "body": "DoorDash shares surged 14% Friday despite the company reporting fourth-quarter earnings and revenue that missed analyst expectations. The food delivery giant forecast adjusted EBITDA between $675 million and $775 million for the first quarter, below StreetAccount estimates of $802 million. However, investors focused on DoorDash's strategic acquisition of Deliveroo and management's outlook for improved full-year 2026 EBITDA margins. The company's expansion into international markets and continued dominance in U.S. food delivery position it for long-term growth despite near-term headwinds.",
-    "source": "CNBC, February 18, 2026"
-  },
-  {
-    "ticker": "EQX",
-    "headline": "Equinox Gold Declares Inaugural Dividend After Transformational Year with Record Production",
-    "body": "Equinox Gold announced an inaugural quarterly cash dividend of $0.015 per share and applied for a normal course issuer bid to repurchase approximately 5% of its outstanding shares. The gold mining company reported a transformational 2025 with strategic mergers, record production of 778,561 ounces, and more than $1.1 billion in debt reduction. The dividend announcement, targeting a regular quarterly payment of $0.015 per share ($0.06 annually), signals management's confidence in the company's strong cash flow generation and improved balance sheet position following its debt reduction efforts.",
-    "source": "GlobeNewswire, February 18, 2026"
-  }
-]
+{
+  "date": "2026-02-25",
+  "posts": [
+    {
+      "id": 1,
+      "category": "Earnings Preview",
+      "title": "Nvidia Earnings Tonight: Market Braces for $5B+ Move as Short Interest Hits Record",
+      "content": "Nvidia (NVDA) reports Q4 earnings after the bell Wednesday with options pricing in a roughly 5% move. Short interest has reached a record 265 million shares (~$300B notional), creating potential for a massive short squeeze if results beat expectations. 95% of prediction markets still expect a beat. The AI infrastructure leader faces high expectations as data center demand continues. Watch guidance closely—sustaining AI sector momentum hinges on NVDA's outlook.\n\nKey numbers: Est. $1.63 EPS on $25.98B revenue (per LSEG).\n\nWill NVDA confirm the AI boom or signal a deceleration?",
+      "hashtags": ["NVDA", "Earnings", "AI", "Chips"],
+      "sentiment": "anticipation"
+    },
+    {
+      "id": 2,
+      "category": "Market Movers",
+      "title": "Circle Ignites $CRCG Rally: Leverage Shares ETF Soars 35% on Earnings Beat",
+      "content": "Circle, the crypto payments giant, topped estimates on both top and bottom line, sending the Leverage Shares 2X Long $CRCL Daily ETF (CRCG) rocketing 35%. The beat underscores continued strength in digital asset infrastructure ahead of broader crypto adoption. Traders are rotating into crypto-exposed names as sentiment improves.\n\nCRCG's leveraged structure amplified the move—classic example of how earnings can trigger outsized gains in thematic ETFs.\n\nAre you positioned for the crypto infrastructure wave?",
+      "hashtags": ["CRCG", "Circle", "Crypto", "ETF"],
+      "sentiment": "bullish"
+    },
+    {
+      "id": 3,
+      "category": "Earnings",
+      "title": "PLAB Beats with 17% EPS Growth, Guides Mid-Range—Is This a Value Play?",
+      "content": "PhotoLab (PLAB) delivered Q1 earnings: $0.61 Adj. EPS vs. $0.54 est., Revenue $225.07M vs. $221M est. (+6.1% YoY). IC revenue grew 7% to $165.3M. Q2 guide ranges $0.49–$0.55 EPS on $212–$220M revenue, roughly in line with consensus.\n\nMargins held steady despite macro pressures. The print shows resilience in photo and imaging services—a niche that's flying under the radar.\n\nForward PE remains attractive. Could PLAB be an under-the-radar value candidate?",
+      "hashtags": ["PLAB", "Earnings", "Value", "SmallCap"],
+      "sentiment": "bullish"
+    },
+    {
+      "id": 4,
+      "category": "Retail",
+      "title": "TJX Posts 9% Revenue Growth, Comp Sales Up 5%—But Guidance Disappoints",
+      "content": "The TJX Companies (TJX) beat Q4 estimates with $17.7B revenue (+9% YoY) and $1.43 Adj. EPS. Comp sales rose 5%. However, FY27 guidance fell short: EPS $4.93–$5.02 vs. higher consensus, and comp sales guide of +2-3% versus +3.49% expected. Pretax margin guidance also light.\n\nManagement cited cautious consumer behavior despite strong holiday season. Shares may face pressure given the tepid outlook.\n\nIs this a buying opportunity on the dip or sign of retail softness?",
+      "hashtags": ["TJX", "Retail", "Earnings", "Consumer"],
+      "sentiment": "mixed"
+    },
+    {
+      "id": 5,
+      "category": "Macro Watch",
+      "title": "OPEC+ Set to Resume Modest Supply Hikes—What It Means for Energy Stocks",
+      "content": "OPEC+ delegates expect the group to resume modest supply increases in the coming months, according to recent tweets. The move signals confidence in demand recovery and could cap oil price upside.\n\nFor energy producers, additional supply typically pressures margins. However, if demand holds, the impact may be muted.\n\nWatch E&P stocks for potential pullback. Navigate accordingly.",
+      "hashtags": ["OIL", "OPEC", "Energy", "Commodities"],
+      "sentiment": "bearish"
+    },
+    {
+      "id": 6,
+      "category": "Market Sentiment",
+      "title": "Dollar at Risk: State Street Warns 10% Drop Possible If Fed Eases Aggressively",
+      "content": "State Street analysts warn the U.S. dollar could drop 10% in 2026 if the Federal Reserve eases rates more aggressively than markets expect under new leadership. The remark comes as policy uncertainty rises.\n\nA 10% dollar weakness would boost multinationals and commodity-sensitive names while hurting importers.\n\nPrepare portfolios for FX volatility—hedges may get expensive fast.",
+      "hashtags": ["USD", "Fed", "Macro", "FX"],
+      "sentiment": "neutral"
+    }
+  ]
+}

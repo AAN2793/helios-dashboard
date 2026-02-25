@@ -1,53 +1,53 @@
 {
-  "date": "2026-02-24",
+  "date": "2026-02-25",
   "posts": [
     {
       "id": 1,
-      "category": "Market Wrap",
-      "title": "Turnaround Tuesday: Broad Rally Lifts Dow 370 Points as Tech Rebounds",
-      "content": "U.S. equity markets staged a powerful comeback on Tuesday, with the Dow jumping 370 points (0.76%), the S&P 500 rising 0.77% to 6,890, and the Nasdaq gaining 1.04% to 22,864. The rally was fueled by tech strength, improving consumer confidence, and a relief bounce in AI-related stocks after recent sell-offs. Investors are positioning ahead of Nvidia's earnings tomorrow and Trump's State of the Union address. The market breadth was widespread, with software leading the recovery and AI disruption fears temporarily set aside. This turnaround demonstrates resilience despite ongoing tariff uncertainty.",
-      "hashtags": ["Markets", "Rally", "Tech", "AI"],
-      "sentiment": "bullish"
+      "category": "Earnings Preview",
+      "title": "Nvidia Earnings Tonight: Market Braces for $5B+ Move as Short Interest Hits Record",
+      "content": "Nvidia (NVDA) reports Q4 earnings after the bell Wednesday with options pricing in a roughly 5% move. Short interest has reached a record 265 million shares (~$300B notional), creating potential for a massive short squeeze if results beat expectations. 95% of prediction markets still expect a beat. The AI infrastructure leader faces high expectations as data center demand continues. Watch guidance closely—sustaining AI sector momentum hinges on NVDA's outlook.\n\nKey numbers: Est. $1.63 EPS on $25.98B revenue (per LSEG).\n\nWill NVDA confirm the AI boom or signal a deceleration?",
+      "hashtags": ["NVDA", "Earnings", "AI", "Chips"],
+      "sentiment": "anticipation"
     },
     {
       "id": 2,
-      "category": "Earnings",
-      "title": "Home Depot Beats Q4 Despite Housing Slump",
-      "content": "Home Depot (HD) shares rose nearly 4% after posting better-than-expected Q4 results. The company earned $2.72 per share on revenue of $38.2 billion, beating estimates of $2.54 EPS and $38.12B revenue. However, housing market turnover remains near historic lows with sales down 3.8% YoY. Management expects a 'thaw' with existing home sales rising 3-4% as mortgage rates stabilize near 6%. HD maintained its fiscal 2026 forecast of flat to 2% comp sales growth. The results show resilience in consumer home improvement spending even as the housing market struggles.",
-      "hashtags": ["HD", "Earnings", "Housing", "Retail"],
+      "category": "Market Movers",
+      "title": "Circle Ignites $CRCG Rally: Leverage Shares ETF Soars 35% on Earnings Beat",
+      "content": "Circle, the crypto payments giant, topped estimates on both top and bottom line, sending the Leverage Shares 2X Long $CRCL Daily ETF (CRCG) rocketing 35%. The beat underscores continued strength in digital asset infrastructure ahead of broader crypto adoption. Traders are rotating into crypto-exposed names as sentiment improves.\n\nCRCG's leveraged structure amplified the move—classic example of how earnings can trigger outsized gains in thematic ETFs.\n\nAre you positioned for the crypto infrastructure wave?",
+      "hashtags": ["CRCG", "Circle", "Crypto", "ETF"],
       "sentiment": "bullish"
     },
     {
       "id": 3,
-      "category": "Tech",
-      "title": "AMD Surges 11% on Historic $60B AI Chip Deal with Meta",
-      "content": "Advanced Micro Devices (AMD) rocketed 11% after announcing a landmark multiyear agreement to supply up to $60 billion worth of AI chips to Meta Platforms over five years. The deal includes provisions for AMD to issue Meta 160 million shares (up to 10% ownership) and covers 6 gigawatts of Instinct GPUs. This is Meta's largest AI chip purchase to date and validates AMD's MI450 chip in the competitive AI hardware market. The agreement demonstrates sustained demand for AI infrastructure and strengthens AMD's position against Nvidia. Shares had been under pressure earlier in 2026 but this deal repositions AMD as a serious AI infrastructure player.",
-      "hashtags": ["AMD", "AI", "Meta", "Chips"],
+      "category": "Earnings",
+      "title": "PLAB Beats with 17% EPS Growth, Guides Mid-Range—Is This a Value Play?",
+      "content": "PhotoLab (PLAB) delivered Q1 earnings: $0.61 Adj. EPS vs. $0.54 est., Revenue $225.07M vs. $221M est. (+6.1% YoY). IC revenue grew 7% to $165.3M. Q2 guide ranges $0.49–$0.55 EPS on $212–$220M revenue, roughly in line with consensus.\n\nMargins held steady despite macro pressures. The print shows resilience in photo and imaging services—a niche that's flying under the radar.\n\nForward PE remains attractive. Could PLAB be an under-the-radar value candidate?",
+      "hashtags": ["PLAB", "Earnings", "Value", "SmallCap"],
       "sentiment": "bullish"
     },
     {
       "id": 4,
-      "category": "Market Watch",
-      "title": "Nvidia Short Interest Hits Record $300B Ahead of Earnings",
-      "content": "Nvidia (NVDA) short interest has reached a record 265 million shares with a notional value of approximately $300 billion, as bears accumulate positions betting on a pullback after earnings. Despite the massive short positioning, 95% of prediction markets still expect a beat. Major firms like Truist maintain buy ratings, citing AI infrastructure growth and data center demand. Nvidia reports Q4 earnings after the bell on Wednesday, February 25. With the stock carrying the largest short exposure in the S&P 500, any significant move could trigger a short squeeze. The market's reaction to guidance will be crucial for sustaining AI sector momentum.",
-      "hashtags": ["NVDA", "Shorts", "Earnings", "AI"],
-      "sentiment": "neutral"
+      "category": "Retail",
+      "title": "TJX Posts 9% Revenue Growth, Comp Sales Up 5%—But Guidance Disappoints",
+      "content": "The TJX Companies (TJX) beat Q4 estimates with $17.7B revenue (+9% YoY) and $1.43 Adj. EPS. Comp sales rose 5%. However, FY27 guidance fell short: EPS $4.93–$5.02 vs. higher consensus, and comp sales guide of +2-3% versus +3.49% expected. Pretax margin guidance also light.\n\nManagement cited cautious consumer behavior despite strong holiday season. Shares may face pressure given the tepid outlook.\n\nIs this a buying opportunity on the dip or sign of retail softness?",
+      "hashtags": ["TJX", "Retail", "Earnings", "Consumer"],
+      "sentiment": "mixed"
     },
     {
       "id": 5,
-      "category": "Healthcare",
-      "title": "Eli Lilly Poised to Win GLP-1 Race as Novo Nordisk Underperforms",
-      "content": "Deutsche Bank reiterated a buy rating on Eli Lilly (LLY) with a $1,285 price target, implying 21% upside. The bank believes Lilly is outpacing competitors in the GLP-1 weight loss drug market, citing superior clinical data where tirzepatide users achieved 25.5% weight loss. Novo Nordisk's competing drug has underperformed in comparative studies. The GLP-1 market continues to expand beyond diabetes into obesity treatment, with analysts projecting both companies could capture significant market share. Lilly's innovative pipeline and stronger efficacy profile position it to dominate the next phase of the weight-loss pharmaceutical boom.",
-      "hashtags": ["LLY", "Healthcare", "GLP1", "Pharma"],
-      "sentiment": "bullish"
+      "category": "Macro Watch",
+      "title": "OPEC+ Set to Resume Modest Supply Hikes—What It Means for Energy Stocks",
+      "content": "OPEC+ delegates expect the group to resume modest supply increases in the coming months, according to recent tweets. The move signals confidence in demand recovery and could cap oil price upside.\n\nFor energy producers, additional supply typically pressures margins. However, if demand holds, the impact may be muted.\n\nWatch E&P stocks for potential pullback. Navigate accordingly.",
+      "hashtags": ["OIL", "OPEC", "Energy", "Commodities"],
+      "sentiment": "bearish"
     },
     {
       "id": 6,
       "category": "Market Sentiment",
-      "title": "Consumer Confidence Jumps, Boosting Market Sentiment Ahead of SOTU",
-      "content": "The Conference Board's consumer confidence index rose unexpectedly in February, climbing to 102.8 from a revised 97.4 in January. This marks the largest monthly increase in two years and suggests households are feeling more optimistic about the economy despite recent tariff rhetoric and market volatility. The improvement in consumer sentiment buoyed markets on Tuesday, providing a fundamental support for the 'Turnaround Tuesday' rally. Investors are now focused on President Trump's State of the Union address Wednesday night, seeking clarity on trade policy and economic direction. Strong consumer confidence typically bodes well for retail spending and overall economic growth.",
-      "hashtags": ["Economy", "Confidence", "Consumer", "Sentiment"],
-      "sentiment": "bullish"
+      "title": "Dollar at Risk: State Street Warns 10% Drop Possible If Fed Eases Aggressively",
+      "content": "State Street analysts warn the U.S. dollar could drop 10% in 2026 if the Federal Reserve eases rates more aggressively than markets expect under new leadership. The remark comes as policy uncertainty rises.\n\nA 10% dollar weakness would boost multinationals and commodity-sensitive names while hurting importers.\n\nPrepare portfolios for FX volatility—hedges may get expensive fast.",
+      "hashtags": ["USD", "Fed", "Macro", "FX"],
+      "sentiment": "neutral"
     }
   ]
 }
