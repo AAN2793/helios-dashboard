@@ -1,53 +1,32 @@
-{
-  "date": "2026-02-25",
-  "posts": [
-    {
-      "id": 1,
-      "category": "Earnings Preview",
-      "title": "Nvidia Earnings Tonight: Market Braces for $5B+ Move as Short Interest Hits Record",
-      "content": "Nvidia (NVDA) reports Q4 earnings after the bell Wednesday with options pricing in a roughly 5% move. Short interest has reached a record 265 million shares (~$300B notional), creating potential for a massive short squeeze if results beat expectations. 95% of prediction markets still expect a beat. The AI infrastructure leader faces high expectations as data center demand continues. Watch guidance closely—sustaining AI sector momentum hinges on NVDA's outlook.\n\nKey numbers: Est. $1.63 EPS on $25.98B revenue (per LSEG).\n\nWill NVDA confirm the AI boom or signal a deceleration?",
-      "hashtags": ["NVDA", "Earnings", "AI", "Chips"],
-      "sentiment": "anticipation"
-    },
-    {
-      "id": 2,
-      "category": "Market Movers",
-      "title": "Circle Ignites $CRCG Rally: Leverage Shares ETF Soars 35% on Earnings Beat",
-      "content": "Circle, the crypto payments giant, topped estimates on both top and bottom line, sending the Leverage Shares 2X Long $CRCL Daily ETF (CRCG) rocketing 35%. The beat underscores continued strength in digital asset infrastructure ahead of broader crypto adoption. Traders are rotating into crypto-exposed names as sentiment improves.\n\nCRCG's leveraged structure amplified the move—classic example of how earnings can trigger outsized gains in thematic ETFs.\n\nAre you positioned for the crypto infrastructure wave?",
-      "hashtags": ["CRCG", "Circle", "Crypto", "ETF"],
-      "sentiment": "bullish"
-    },
-    {
-      "id": 3,
-      "category": "Earnings",
-      "title": "PLAB Beats with 17% EPS Growth, Guides Mid-Range—Is This a Value Play?",
-      "content": "PhotoLab (PLAB) delivered Q1 earnings: $0.61 Adj. EPS vs. $0.54 est., Revenue $225.07M vs. $221M est. (+6.1% YoY). IC revenue grew 7% to $165.3M. Q2 guide ranges $0.49–$0.55 EPS on $212–$220M revenue, roughly in line with consensus.\n\nMargins held steady despite macro pressures. The print shows resilience in photo and imaging services—a niche that's flying under the radar.\n\nForward PE remains attractive. Could PLAB be an under-the-radar value candidate?",
-      "hashtags": ["PLAB", "Earnings", "Value", "SmallCap"],
-      "sentiment": "bullish"
-    },
-    {
-      "id": 4,
-      "category": "Retail",
-      "title": "TJX Posts 9% Revenue Growth, Comp Sales Up 5%—But Guidance Disappoints",
-      "content": "The TJX Companies (TJX) beat Q4 estimates with $17.7B revenue (+9% YoY) and $1.43 Adj. EPS. Comp sales rose 5%. However, FY27 guidance fell short: EPS $4.93–$5.02 vs. higher consensus, and comp sales guide of +2-3% versus +3.49% expected. Pretax margin guidance also light.\n\nManagement cited cautious consumer behavior despite strong holiday season. Shares may face pressure given the tepid outlook.\n\nIs this a buying opportunity on the dip or sign of retail softness?",
-      "hashtags": ["TJX", "Retail", "Earnings", "Consumer"],
-      "sentiment": "mixed"
-    },
-    {
-      "id": 5,
-      "category": "Macro Watch",
-      "title": "OPEC+ Set to Resume Modest Supply Hikes—What It Means for Energy Stocks",
-      "content": "OPEC+ delegates expect the group to resume modest supply increases in the coming months, according to recent tweets. The move signals confidence in demand recovery and could cap oil price upside.\n\nFor energy producers, additional supply typically pressures margins. However, if demand holds, the impact may be muted.\n\nWatch E&P stocks for potential pullback. Navigate accordingly.",
-      "hashtags": ["OIL", "OPEC", "Energy", "Commodities"],
-      "sentiment": "bearish"
-    },
-    {
-      "id": 6,
-      "category": "Market Sentiment",
-      "title": "Dollar at Risk: State Street Warns 10% Drop Possible If Fed Eases Aggressively",
-      "content": "State Street analysts warn the U.S. dollar could drop 10% in 2026 if the Federal Reserve eases rates more aggressively than markets expect under new leadership. The remark comes as policy uncertainty rises.\n\nA 10% dollar weakness would boost multinationals and commodity-sensitive names while hurting importers.\n\nPrepare portfolios for FX volatility—hedges may get expensive fast.",
-      "hashtags": ["USD", "Fed", "Macro", "FX"],
-      "sentiment": "neutral"
-    }
-  ]
-}
+[
+  {
+    "ticker": "NVDA",
+    "headline": "Nvidia Earnings in Focus as Market Braces for AI Results",
+    "body": "Nvidia Corp. (NVDA) shares were under pressure ahead of its fiscal fourth-quarter earnings report, with investors anxious about the outlook for artificial intelligence spending. The chipmaker’s results could have major implications for the broader tech sector, as signs of risk to Nvidia’s long-held dominance have emerged. Despite AI companies facing market concerns, analysts at Citi reiterated a buy rating on the tech giant, noting that the valuation looks attractive and the stock is likely to outperform in the second half of 2026. The company’s gross margin could be under pressure due to higher costs for memory, but customers have indicated plans to boost AI infrastructure spending this year.",
+    "source": "Bloomberg, Reuters, CNBC"
+  },
+  {
+    "ticker": "CAVA",
+    "headline": "Cava Group Soars on Strong Earnings, Growth Outlook",
+    "body": "Shares of Mediterranean fast-casual restaurant chain CAVA Group (CAVA) jumped 20.7% in morning trading after the company reported fourth-quarter results that topped Wall Street’s expectations for revenue and earnings per share. The company guided to roughly 74–76 new restaurant openings and 3–5% same-store sales growth for 2026, laying out an aggressive growth plan that investors found appetizing. Management called out ongoing menu innovation and operational improvements as key drivers of the positive outlook. The results came as the broader restaurant sector continues to benefit from consumers trading up to premium dining experiences despite inflationary pressures.",
+    "source": "CNBC, Markets Daily, Stock Observer"
+  },
+  {
+    "ticker": "CSGP",
+    "headline": "CoStar Group Falls on Soft Q1 Guidance",
+    "body": "Shares of online real estate marketplace provider CoStar Group (CSGP) fell 8% after the company issued first-quarter guidance that fell short of expectations. CoStar called for adjusted earnings in the range of 16 to 19 cents per share, below analyst estimates. The guidance disappointment comes despite the company’s strong full-year 2025 performance, which included 19% revenue growth and adjusted EBITDA of $442 million, up 83% year-over-year. The company also announced a new $1.5 billion share repurchase program and $700 million in buybacks for 2026, signaling confidence in its long-term outlook despite the near-term headwinds.",
+    "source": "CNBC, Business Wire, CoStar Group"
+  },
+  {
+    "ticker": "SPY",
+    "headline": "S&P 500 Gains on Tech Strength, Nvidia in Focus",
+    "body": "The S&P 500 (SPY) edged higher as technology stocks led the market, with investors preparing for Nvidia’s earnings report later today. Redburn and other analysts reiterated buy ratings on the chipmaker, noting that the valuation looks attractive and the stock is likely to outperform in the second half of 2026. The market rally was also supported by positive labor market and economic reports, as well as Anthropic’s launch of new artificial intelligence integrations aimed at enterprise customers. However, concerns about the broader AI outlook and competitive pressures on Nvidia kept gains modest, with investors remaining cautious ahead of the highly anticipated earnings release.",
+    "source": "247 Wall St., Nasdaq, Bloomberg"
+  },
+  {
+    "ticker": "AI",
+    "headline": "Anthropic’s Enterprise AI Push Boosts Software Sector",
+    "body": "The software sector staged a comeback as Anthropic launched new artificial intelligence integrations aimed at enterprise customers, easing fears about AI’s impact on specialized software companies. The San Francisco-based AI lab’s expansion of Claude Cowork allows companies to connect the platform to existing tools like Google Drive and Gmail, while installing customizable plugins across domains such as financial analysis and human resources. This development has provided a much-needed “reality check” for the AI hype cycle, with investors now understanding how these technologies coexist rather than replace existing software solutions. The news helped lift major averages as software stocks rebounded from recent pressure.",
+    "source": "Reuters, FinancialContent, The Indian Express"
+  }
+]
