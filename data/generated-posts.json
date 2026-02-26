@@ -1,38 +1,50 @@
 [
   {
     "ticker": "NVDA",
-    "headline": "Nvidia Shatters Records with Blockbuster Earnings Report",
-    "body": "Nvidia (NVDA) reported fiscal 2026 fourth-quarter earnings of $1.62 per share (+82.0% year over year) on revenue of $68.1 billion (+73.2% YoY), crushing Wall Street expectations. The AI chip giant guided to fiscal 2027 first-quarter revenue of $78.0 billion, plus or minus 2%, as demand for AI computing continues to surge. Data center revenue climbed 75% from a year earlier to $62.3 billion, cementing Nvidia's dominance in the AI infrastructure market. Shares jumped over 7% in after-hours trading, extending the year-to-date rally.",
-    "source": "CNBC, February 25, 2026"
+    "headline": "Nvidia Beats but Momentum Stalls: Is AI Fatigue Setting In?",
+    "body": "Nvidia (NVDA) delivered Q4 FY2026 earnings beat with $1.62 EPS and $68.13B revenue (+73% YoY), powered by 91% data center mix. The stock rose 2% after-hours but premarket gains faded, raising questions about AI sustainability.\n\nDespite strong numbers, futures indicate caution. Analysts note elevated valuations leave little margin for error. The 'buy the rumor, sell the news' pattern may be emerging after a substantial run-up.\n\nKey question: Can NVDA maintain hypergrowth as hyperscaler capex scrutiny intensifies? Guidance will be pivotal. The modest premarket gain suggests markets may be pricing in a plateau rather than acceleration.",
+    "source": "Helios AI, February 26, 2026"
   },
   {
     "ticker": "AXON",
-    "headline": "Axon Soars on Record-Breaking AI-Driven Growth",
-    "body": "Shares of Axon Enterprise (NASDAQ: AXON) surged more than 18% in early trading on Wednesday, February 25, 2026, following a fourth-quarter earnings report that shattered Wall Street's expectations. The public safety technology giant reported 39% revenue growth from a year ago, with net income totaling about $3 million, or 3 cents per share. CEO Rick Smith highlighted that AI for the company 'will create value that our customers simply cannot replicate,' as the company's AI-driven public safety ecosystem continues to gain traction across law enforcement agencies.",
-    "source": "FinancialContent, February 25, 2026"
+    "headline": "Axon Rallies 20% as AI Drives 40% Software Growth Despite Sector Fears",
+    "body": "Axon Enterprise (AXON) defied the software sector malaise, jumping 20% after Q4 earnings beat and revealing its software business grew 40% annually, powered by AI product adoption. The stock had slid 25% in 2026 amid broader AI disruption fears.\n\nCEO Rick Smith emphasizes AI creates defensible value: 'Our customers simply cannot replicate this.' Axon's integrated hardware-software ecosystem and real-time data moat challenge the narrative that AI universally undermines software business models.\n\nThe rally signals market discrimination between AI threats and AI opportunities. Vertical integration with proprietary data may be the key differentiator. Watch for continued software margin expansion.",
+    "source": "Helios AI, February 26, 2026"
   },
   {
-    "ticker": "META",
-    "headline": "Meta Partners with AMD for Massive AI Chip Deal",
-    "body": "Meta Platforms (META) announced a landmark agreement with Advanced Micro Devices to provide the Facebook and Instagram parent with up to $60 billion worth of AI chips over five years. The deal, which allows Meta to purchase as much as 10% of AMD's chip production, sent AMD shares soaring more than 6% while Meta's stock gained 2.3%. The partnership strengthens Meta's AI computing capabilities as it races to build out data centers for AI training and inference, positioning the company to better compete with rivals in the AI arms race.",
-    "source": "Reuters, February 24, 2026"
+    "ticker": "ORCL",
+    "headline": "Oracle Jumps 4% as Oppenheimer Upgrades to Outperform on AI Infrastructure",
+    "body": "Oracle (ORCL) surged 4% after Oppenheimer upgraded shares to 'Outperform,' citing strong positioning in AI infrastructure and favorable risk-reward following recent weakness. The upgrade underscores investor appetite for AI enablers with tangible monetization.\n\nOracle's multi-cloud AI database partnerships position it as a key beneficiary of enterprise AI adoption. Unlike pure-play infrastructure, Oracle brings enterprise relationships and recurring revenue visibility.\n\nThe upgrade fuels broader software sector optimism after last week's AI-driven selloff. ORCL's rally signals that AI infrastructure monetization is gaining recognition as a durable growth vector, not just hype.",
+    "source": "Helios AI, February 26, 2026"
   },
   {
-    "ticker": "AAPL",
-    "headline": "Apple Shatters Records with Q4 Performance and Strong 2026 Outlook",
-    "body": "Apple (AAPL) delivered blockbuster fourth-quarter results, with revenue growing 12% year over year to $124.3 billion, driven by strong iPhone 16 sales and record services revenue. The tech giant announced plans to expand its domestic production network, which could benefit shareholders through potential tax incentives and supply chain resilience. Despite broader market volatility, Apple's stock gained 1.8% on the news, as investors bet on the company's AI integration strategy and robust cash flow generation.",
-    "source": "FinancialContent, February 25, 2026"
+    "ticker": "TTD",
+    "headline": "Trade Desk Plummets 16% Despite Earnings Beat - What Gives?",
+    "body": "The Trade Desk (TTD) reported an earnings beat but saw its stock drop over 16% in premarket trading—a puzzling reaction that highlights market sensitivity to guidance and near-term expectations.\n\nWhile exact reasons await analyst commentary, the sharp reversal suggests investors are focusing on deceleration signals, margin compression fears, or competitive pressures in the ad-tech space. The stock had rallied significantly into the print, making it vulnerable to 'sell the news' flows.\n\nTTD's sell-off contrasts with NVDA's muted gain, indicating that even quality AI-exposed names aren't immune to scrutiny. Execution consistency and revenue sustainability remain paramount in this environment.",
+    "source": "Helios AI, February 26, 2026"
   },
   {
-    "ticker": "TSLA",
-    "headline": "Tesla Faces Mounting Headwinds Despite Tech Sector Rally",
-    "body": "Tesla (TSLA) struggled to keep pace with the broader tech sector rally, with shares down 1.2% amid mounting challenges including production delays at the Berlin Gigafactory and increased competition in the EV market. The company's stock has shed approximately 7% of its value since the start of the year, as investors grow concerned about near-term cash flow and capital expenditure requirements. However, analysts note that Tesla's energy storage business continues to show strong growth, providing a potential offset to automotive segment weakness.",
-    "source": "Primary Ignition, February 25, 2026"
+    "ticker": "PAR",
+    "headline": "PAR Technology Reports Q4 Loss Amid Restaurant Tech Headwinds",
+    "body": "PAR Technology is projected to report a fourth-quarter loss of $0.02 per share on revenue of $115.71 million, according to analyst estimates. The restaurant technology provider faces ongoing challenges in the hospitality sector as consumer spending patterns shift. The company's cloud-based solutions for restaurant operations continue to gain traction, but near-term profitability remains pressured by macroeconomic uncertainty and competitive pricing in the point-of-sale market. Investors will watch for commentary on 2026 outlook and cost control measures.",
+    "source": "Benzinga, February 26, 2026"
   },
   {
-    "ticker": "SPY",
-    "headline": "S&P 500 Powers Higher on Tech Strength and Nvidia Catalyst",
-    "body": "The S&P 500 (SPY) posted strong gains Wednesday, February 25, 2026, as technology shares led the market higher ahead of Nvidia's highly anticipated earnings report. The index gained 1.8%, with the tech-heavy Nasdaq Composite rising 2.3%, as investors positioned for what many consider the most critical earnings report of the season. The rally was broad-based, with all 11 S&P 500 sectors finishing in positive territory, suggesting improving market breadth and renewed investor confidence in the AI-driven growth narrative.",
-    "source": "247wallst.com, February 25, 2026"
+    "ticker": "HEPS",
+    "headline": "D-MARKET Reports Q4 Results as Turkish E-Commerce Faces Headwinds",
+    "body": "D-MARKET Electronic is scheduled to report fourth-quarter earnings, providing insight into Turkish e-commerce performance amid regional economic challenges. The company, which operates the Hepsiburada platform, faces pressure from inflation and currency volatility in its core markets. Investors will focus on gross merchandise value trends, active customer metrics, and the company's ability to maintain profitability while expanding its logistics network. The results will offer perspective on emerging market e-commerce resilience compared to developed market peers.",
+    "source": "Benzinga, February 26, 2026"
+  },
+  {
+    "ticker": "STLA",
+    "headline": "Stellantis Braces for $26B Loss as EV Transition Bears Down",
+    "body": "Stellantis (STLA) is preparing to report what sources describe as its first annual loss—approximately $26 billion—a staggering figure that underscores the auto sector's EV transition challenges. The looming loss has European markets on edge.\n\nThe magnitude reflects massive investments in electrification and softening demand for combustion vehicles. Stellantis faces dual pressure: legacy business erosion and expensive EV ramp-up.\n\nThis serves as a cautionary tale for automakers: EV transition requires enormous capital with uncertain payback. Parts suppliers and battery makers may face similar headwinds if adoption slows. Sector profitability remains under pressure.",
+    "source": "Helios AI, February 26, 2026"
+  },
+  {
+    "ticker": "DELL",
+    "headline": "Dell Earnings in Focus: Will AI Server Demand Sustain After Nvidia's Beat?",
+    "body": "Dell Technologies (DELL) reports earnings today before the bell, with investors scrutinizing AI server demand trends following Nvidia's strong but not explosive results. Dell is a key bellwether for enterprise AI infrastructure spending.\n\nGiven Nvidia's muted premarket gain despite a beat, expectations for Dell are tempered. Markets will look for order book growth, margin trends, and commentary on hyperscaler vs. enterprise demand bifurcation.\n\nCoreWeave (CRWV) also reports after the close, offering another lens on AI infrastructure. Diversification across vendor ecosystems will be in focus.\n\nWatch Dell's data center segment growth and AI-optimized product pipeline updates.",
+    "source": "Helios AI, February 26, 2026"
   }
 ]

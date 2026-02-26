@@ -9,7 +9,9 @@ export default function handler(req, res) {
     try {
       if (fs.existsSync(jsonFile)) {
         const jsonData = JSON.parse(fs.readFileSync(jsonFile, 'utf-8'))
-        return res.status(200).json(jsonData)
+        // Handle both raw array and { posts: [...] } format
+        const posts = Array.isArray(jsonData) ? jsonData : (jsonData.posts || [])
+        return res.status(200).json({ posts })
       }
       return res.status(200).json({
         generated: new Date().toISOString(),
