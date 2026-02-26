@@ -1,50 +1,33 @@
 [
   {
     "ticker": "NVDA",
-    "headline": "Nvidia Beats but Momentum Stalls: Is AI Fatigue Setting In?",
-    "body": "Nvidia (NVDA) delivered Q4 FY2026 earnings beat with $1.62 EPS and $68.13B revenue (+73% YoY), powered by 91% data center mix. The stock rose 2% after-hours but premarket gains faded, raising questions about AI sustainability.\n\nDespite strong numbers, futures indicate caution. Analysts note elevated valuations leave little margin for error. The 'buy the rumor, sell the news' pattern may be emerging after a substantial run-up.\n\nKey question: Can NVDA maintain hypergrowth as hyperscaler capex scrutiny intensifies? Guidance will be pivotal. The modest premarket gain suggests markets may be pricing in a plateau rather than acceleration.",
-    "source": "Helios AI, February 26, 2026"
+    "headline": "Nvidia shares plunge 5% despite strong earnings beat",
+    "body": "Nvidia shares fell sharply Thursday, declining about 5%, even after the chip giant posted a fourth-quarter earnings and revenue beat. The decline puts the stock on pace for its worst day since April, as investor concerns around the artificial intelligence infrastructure boom dampened enthusiasm about its better-than-expected results.\n\nNvidia reported record revenue of $68.13 billion for the quarter, up 73% year-over-year, and adjusted earnings of $1.62 per share, exceeding analyst expectations of $1.53. The company generated a free cash flow of $35 billion in the quarter and $97 billion for fiscal year 2026.\n\nHowever, the market is very much in 'prove it' mode, and Nvidia just didn't quite 'prove it' with these earnings, according to Tom Graff, Facet's chief investment officer. 'Nvidia is dealing with the cross section of high expectations priced into the stock, but also a skeptical market,' he said. 'That will probably make for a bumpy ride for at least the next couple of quarters.'",
+    "source": "CNBC"
   },
   {
-    "ticker": "AXON",
-    "headline": "Axon Rallies 20% as AI Drives 40% Software Growth Despite Sector Fears",
-    "body": "Axon Enterprise (AXON) defied the software sector malaise, jumping 20% after Q4 earnings beat and revealing its software business grew 40% annually, powered by AI product adoption. The stock had slid 25% in 2026 amid broader AI disruption fears.\n\nCEO Rick Smith emphasizes AI creates defensible value: 'Our customers simply cannot replicate this.' Axon's integrated hardware-software ecosystem and real-time data moat challenge the narrative that AI universally undermines software business models.\n\nThe rally signals market discrimination between AI threats and AI opportunities. Vertical integration with proprietary data may be the key differentiator. Watch for continued software margin expansion.",
-    "source": "Helios AI, February 26, 2026"
-  },
-  {
-    "ticker": "ORCL",
-    "headline": "Oracle Jumps 4% as Oppenheimer Upgrades to Outperform on AI Infrastructure",
-    "body": "Oracle (ORCL) surged 4% after Oppenheimer upgraded shares to 'Outperform,' citing strong positioning in AI infrastructure and favorable risk-reward following recent weakness. The upgrade underscores investor appetite for AI enablers with tangible monetization.\n\nOracle's multi-cloud AI database partnerships position it as a key beneficiary of enterprise AI adoption. Unlike pure-play infrastructure, Oracle brings enterprise relationships and recurring revenue visibility.\n\nThe upgrade fuels broader software sector optimism after last week's AI-driven selloff. ORCL's rally signals that AI infrastructure monetization is gaining recognition as a durable growth vector, not just hype.",
-    "source": "Helios AI, February 26, 2026"
-  },
-  {
-    "ticker": "TTD",
-    "headline": "Trade Desk Plummets 16% Despite Earnings Beat - What Gives?",
-    "body": "The Trade Desk (TTD) reported an earnings beat but saw its stock drop over 16% in premarket trading—a puzzling reaction that highlights market sensitivity to guidance and near-term expectations.\n\nWhile exact reasons await analyst commentary, the sharp reversal suggests investors are focusing on deceleration signals, margin compression fears, or competitive pressures in the ad-tech space. The stock had rallied significantly into the print, making it vulnerable to 'sell the news' flows.\n\nTTD's sell-off contrasts with NVDA's muted gain, indicating that even quality AI-exposed names aren't immune to scrutiny. Execution consistency and revenue sustainability remain paramount in this environment.",
-    "source": "Helios AI, February 26, 2026"
-  },
-  {
-    "ticker": "PAR",
-    "headline": "PAR Technology Reports Q4 Loss Amid Restaurant Tech Headwinds",
-    "body": "PAR Technology is projected to report a fourth-quarter loss of $0.02 per share on revenue of $115.71 million, according to analyst estimates. The restaurant technology provider faces ongoing challenges in the hospitality sector as consumer spending patterns shift. The company's cloud-based solutions for restaurant operations continue to gain traction, but near-term profitability remains pressured by macroeconomic uncertainty and competitive pricing in the point-of-sale market. Investors will watch for commentary on 2026 outlook and cost control measures.",
-    "source": "Benzinga, February 26, 2026"
-  },
-  {
-    "ticker": "HEPS",
-    "headline": "D-MARKET Reports Q4 Results as Turkish E-Commerce Faces Headwinds",
-    "body": "D-MARKET Electronic is scheduled to report fourth-quarter earnings, providing insight into Turkish e-commerce performance amid regional economic challenges. The company, which operates the Hepsiburada platform, faces pressure from inflation and currency volatility in its core markets. Investors will focus on gross merchandise value trends, active customer metrics, and the company's ability to maintain profitability while expanding its logistics network. The results will offer perspective on emerging market e-commerce resilience compared to developed market peers.",
-    "source": "Benzinga, February 26, 2026"
+    "ticker": "SJM",
+    "headline": "J.M. Smucker shares surge 7.8% on strong coffee pricing strategy",
+    "body": "J.M. Smucker shares jumped 7.8% in pre-market trading Thursday after the food company reported better-than-expected fiscal third-quarter results, boosted by strong performance in its coffee segment and effective price increases.\n\nThe company earned $2.38 per share, excluding certain items, on revenue of $2.34 billion, beating analyst expectations of $2.27 per share on revenue of $2.32 billion. The increase in comparable net sales reflects a 10 percentage point increase from net price realization, primarily driven by pricing actions taken to offset inflation and tariff impacts.\n\nSmucker's third-quarter gross margin improved to 40.2% from 36.9% last year, and the company now expects annual adjusted earnings per share in the range of $9.85 to $10.15, compared with the prior forecast of $9.70 to $10.10. The company currently purchases approximately 500 million pounds of green coffee annually, with the majority coming from Brazil and Vietnam."
   },
   {
     "ticker": "STLA",
-    "headline": "Stellantis Braces for $26B Loss as EV Transition Bears Down",
-    "body": "Stellantis (STLA) is preparing to report what sources describe as its first annual loss—approximately $26 billion—a staggering figure that underscores the auto sector's EV transition challenges. The looming loss has European markets on edge.\n\nThe magnitude reflects massive investments in electrification and softening demand for combustion vehicles. Stellantis faces dual pressure: legacy business erosion and expensive EV ramp-up.\n\nThis serves as a cautionary tale for automakers: EV transition requires enormous capital with uncertain payback. Parts suppliers and battery makers may face similar headwinds if adoption slows. Sector profitability remains under pressure.",
-    "source": "Helios AI, February 26, 2026"
+    "headline": "Stellantis posts first annual loss in company history after $26.3 billion EV write-downs",
+    "body": "Jeep maker Stellantis reported its first annual loss in company history, posting a net loss of $26.3 billion, or 22.3 billion euros, after taking massive write-downs due to electric vehicles and scaling back its EV strategy. The loss includes write-downs totaling 25.4 billion euros, as the company sharply scales back its electric vehicle strategy.\n\n"Our 2025 full year results reflect the cost of over-estimating the pace of the energy transition and of the need to reset our business around our customers' freedom to choose from the full range of electric, hybrid and internal combustion technologies," said Stellantis CEO Antonio Filosa in a statement.\n\nThe writedowns - also caused by vehicle quality problems that Filosa attributed to cost-cutting under former boss Carlos Tavares - include about 6.5 billion euros in cash payments, expected to be spread across four years from 2026. The company now expects a preliminary net loss of between 19 billion and 21 billion euros in the second half of fiscal 2025 and won't pay a dividend this year."
   },
   {
-    "ticker": "DELL",
-    "headline": "Dell Earnings in Focus: Will AI Server Demand Sustain After Nvidia's Beat?",
-    "body": "Dell Technologies (DELL) reports earnings today before the bell, with investors scrutinizing AI server demand trends following Nvidia's strong but not explosive results. Dell is a key bellwether for enterprise AI infrastructure spending.\n\nGiven Nvidia's muted premarket gain despite a beat, expectations for Dell are tempered. Markets will look for order book growth, margin trends, and commentary on hyperscaler vs. enterprise demand bifurcation.\n\nCoreWeave (CRWV) also reports after the close, offering another lens on AI infrastructure. Diversification across vendor ecosystems will be in focus.\n\nWatch Dell's data center segment growth and AI-optimized product pipeline updates.",
-    "source": "Helios AI, February 26, 2026"
+    "ticker": "COPX",
+    "headline": "Copper miners rally as 'Dr. Copper' extends seven-month advance",
+    "body": "Copper futures, often called 'Dr. Copper' for their use in electronics and building materials and utility in gauging the health of the economy, rallied another 0.9% Wednesday, putting the metal on pace to advance for a seventh consecutive month in February. May contracts are ahead by a little more than 2% in February and are set to record their longest monthly advance since February 2011.\n\nOn the London Metal Exchange (LME), the 'red metal' climbed to a staggering $14,527 per metric ton in late January 2026, maintaining a steady altitude above the $13,000 mark as of February 25, 2026. So far in 2026, copper futures are higher by 6.4%.\n\nCopper miners have benefited significantly from the rally. The $8 billion Global X Copper Miners ETF (COPX), a portfolio of 41 stocks, has gained 12% in February alone, over 30% year to date and more than 140% in the past 12 months. The strong performance reflects robust demand for copper in electric vehicles, renewable energy infrastructure, and data centers."
+  },
+  {
+    "ticker": "Q",
+    "headline": "Qnity shares jump 3.5% on strong earnings beat and transformation plan",
+    "body": "Shares of Qnity, the semiconductor technology company, jumped more than 3.5% after the company reported fourth-quarter results that significantly exceeded analyst expectations and announced a multi-year transformation initiative.\n\nThe company reported adjusted earnings per share of $0.82 for Q4, crushing the consensus forecast of $0.55 by 49%, while simultaneously announcing a multi-year transformation initiative targeting $100 million in annual cost savings through automation and artificial intelligence tools.\n\nQnity posted $729 million in 2025 net income and $1.4 billion in adjusted EBITDA, issuing 2026 sales and EPS guidance that exceeded expectations. The company also started a $500 million share buyback program. MSI wafer start data remains a good indicator for Qnity's overall demand, and the company continues to expect MSI to grow approximately mid-single digits this year."
+  },
+  {
+    "ticker": "LNTH",
+    "headline": "Lantheus shares slide 5% despite earnings beat, weak forward guidance",
+    "body": "Lantheus Holdings shares fell nearly 5% Thursday after the radiopharmaceutical firm issued lower-than-expected forward guidance for 2026, despite reporting fourth-quarter results that exceeded analyst expectations.\n\nThe company reported worldwide revenue of $406.8 million for the fourth quarter and $1.54 billion for the full year 2025, with GAAP fully diluted earnings per share of $0.82 and $3.41 for the fourth quarter and full year, respectively. Adjusted fully diluted earnings per share came in at $1.67 for the quarter, beating estimates by $0.51.\n\nHowever, Lantheus expects full-year 2026 earnings in the range of $5 to $5.25 per share, with revenue in the range of $1.4 billion to $1.45 billion. This outlook fell short of analyst expectations of $5.51 in earnings per share, leading to the post-earnings decline despite the quarterly beat."
   }
 ]

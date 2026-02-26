@@ -1,0 +1,59 @@
+{
+  "date": "2026-02-25",
+  "eveningSummary": "Nvidia Q4 earnings: $1.62 EPS (+82% YoY) on $68.1B revenue (+73%), guiding Q1 at $78B +/- 2%. After-hours up 5-7% to ~$142-145. Volume surged 3x. Options volatility crush as expectations exceeded.",
+  "overnightWatch": [
+    {
+      "ticker": "NVDA",
+      "price": "$142-145 AH",
+      "change": "+5-7%",
+      "keyLevels": { "support": 138, "resistance": 150 },
+      "risk": "High",
+      "note": "AI sentiment barometer; gap watch"
+    },
+    {
+      "ticker": "AVGO",
+      "price": "AH +2%",
+      "keyLevels": { "support": 240, "resistance": 255 },
+      "risk": "Medium",
+      "note": "Broadcom AI infrastructure play"
+    },
+    {
+      "ticker": "AMD",
+      "price": "AH +1.5%",
+      "keyLevels": { "support": 105, "resistance": 115 },
+      "risk": "Medium",
+      "note": "Secondary AI chip correlation"
+    },
+    {
+      "ticker": "SPY",
+      "trigger": "Gamma at $700",
+      "keyLevels": { "$700 call wall": "1.5B notional" },
+      "risk": "High",
+      "note": "Gamma-driven acceleration risk"
+    },
+    {
+      "ticker": "CAVA",
+      "price": "+20.7% day",
+      "keyLevels": { "gapFill": 105 },
+      "risk": "Medium",
+      "note": "Overnight gap fill potential"
+    }
+  ],
+  "alerts": [
+    {
+      "ticker": "NVDA",
+      "type": "earnings_reaction",
+      "message": "NVDA Q4 beats and raises. After-hours +5-7% on $1.62 EPS vs $1.53 est, $68.1B revenue vs $66B est. Q1 guide $78B +/- 2%."
+    },
+    {
+      "ticker": "AVGO",
+      "type": "following",
+      "message": "Broadcom up +2% after-hours on NVDA coattails. AI infrastructure theme extending."
+    },
+    {
+      "ticker": "SPY",
+      "type": "technical",
+      "message": "$700 call wall at $1.5B notional remains in play. Gamma could accelerate move if approached."
+    }
+  ]
+}

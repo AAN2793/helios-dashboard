@@ -1,21 +1,28 @@
 {
-  "date": "2026-02-25",
-  "summary": "Nvidia delivered a stellar Q4 report with EPS of $1.62 (+82% YoY) on revenue of $68.1B (+73%), crushing estimates. The chipmaker guided Q1 revenue to $78B +/- 2%, extending the AI infrastructure boom. After-hours trading showed NVDA jumping 5-7% on the results, reaffirming its dominance in the AI hardware space.",
+  "date": "2026-02-26",
+  "summary": "Midday trading shows a 'sell-the-news' pattern following Nvidia's blowout earnings, with tech sector weakness as investors book profits despite strong fundamentals. The Dow is gaining on defensive rotation while S&P 500 and Nasdaq slip, reflecting caution around AI valuations and mixed earnings from Trade Desk and Stellantis. Key afternoon catalysts include Dell, Warner Bros. Discovery, and CoreWeave earnings, along with the upcoming PPI data on Friday.",
   "keyMovers": [
-    { "ticker": "NVDA", "change": "+5-7% after hours", "note": " earnings beat and guide above consensus" },
-    { "ticker": "SPY", "change": "+0.8% close", "note": "Tech-led rally ahead of NVDA" },
-    { "ticker": "CAVA", "change": "+20.7%", "note": "Strong earnings, comp growth guide" },
-    { "ticker": "CSGP", "change": "-8%", "note": "Soft Q1 guidance" },
-    { "ticker": "CRM", "change": "-3%", "note": "Benioff AI comments, buyback stance" }
+    { "ticker": "NVDA", "change": "+1.2% premarket to -2% midday", "note": "Muted reaction to beat, profit-taking evident" },
+    { "ticker": "TTD", "change": "-16.8%", "note": "Weak guidance despite earnings beat" },
+    { "ticker": "STLA", "change": "-5%+", "note": "$26B annual loss confirmed, EV write-downs" },
+    { "ticker": "C3.ai", "change": "-24.8%", "note": "Weak guidance + 26% workforce cuts" },
+    { "ticker": "ORCL", "change": "+4%", "note": "AI infrastructure upgrade" },
+    { "ticker": "AXON", "change": "+20%", "note": "Q4 beat, software +40%" },
+    { "ticker": "Dow", "change": "+0.3%", "note": "Defensive rotation" },
+    { "ticker": "Nasdaq", "change": "-0.8%", "note": "Tech weakness dominant" }
   ],
   "volumeSpikes": [
-    { "ticker": "SNOW", "volume": "+250%", "activity": "Unusual options call buying" },
-    { "ticker": "SPY", "volume": "+180%", "activity": "$700 call wall accumulation" },
-    { "ticker": "NVDA", "volume": "+300% after hours", "activity": "Earnings reaction volume surge" }
+    { "ticker": "TTD", "volume": "+300%", "activity": "Selling pressure on weak guidance" },
+    { "ticker": "NVDA", "volume": "+200%", "activity": "Earnings day high volume" },
+    { "ticker": "C3.ai", "volume": "+400%", "note": "Crash on layoffs and guidance miss" }
   ],
   "afterHours": [
-    { "ticker": "NVDA", "price": "~$142-145", "change": "+5-7%", "volume": "Very High" },
-    { "ticker": "AVGO", "change": "+2%", "volume": "Moderate" },
-    { "ticker": "AMD", "change": "+1.5%", "volume": "Moderate" }
-  ]
+    { "ticker": "DELL", "status": "Reporting after close", "watch": "AI server demand, PC recovery" },
+    { "ticker": "WBD", "status": "Reporting after close", "watch": "Streaming subscriber metrics" },
+    { "ticker": "CRWV", "status": "Reporting after close", "watch": "AI infrastructure 2026 guidance" }
+  ],
+  "economicData": {
+    "joblessClaims": { "initial": "216K", "continuing": "1858K", "reaction": "In-line, neutral impact" },
+    "next": "January PPI - Friday 8:30 AM EST"
+  }
 }
