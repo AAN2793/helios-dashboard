@@ -1,0 +1,62 @@
+{
+  "date": "2026-02-25",
+  "overnightWatch": [
+    {
+      "ticker": "NVDA",
+      "trigger": "After-hours earnings reaction",
+      "keyLevel": "$135 support, $145 resistance",
+      "risk": "High",
+      "note": "AI sentiment barometer"
+    },
+    {
+      "ticker": "SPY",
+      "trigger": "Gamma at $700 strike",
+      "keyLevel": "$700",
+      "risk": "High",
+      "note": "$1.5B call wall concentration"
+    },
+    {
+      "ticker": "CAVA",
+      "trigger": "Gap fill potential",
+      "keyLevel": "$105 (pre-gap)",
+      "risk": "Medium",
+      "note": "Follow-through on 20% gain"
+    },
+    {
+      "ticker": "CSGP",
+      "trigger": "Buyback execution",
+      "keyLevel": "$185 support",
+      "risk": "Medium",
+      "note": "Value vs. trap debate"
+    },
+    {
+      "ticker": "BA/LMT",
+      "trigger": "Pentagon-Anthropic supply chain risk news",
+      "keyLevel": "N/A",
+      "risk": "Medium",
+      "note": "Watch for headline risk"
+    }
+  ],
+  "alerts": [
+    {
+      "ticker": "NVDA",
+      "type": "earnings_reaction",
+      "message": "Nvidia Q4 earnings: Revenue beat but guidance cautious. Watch for AI sector contagion."
+    },
+    {
+      "ticker": "CRM",
+      "type": "fundamental",
+      "message": "Salesforce CFO downplays buybacks. Benioff's 'buying opportunity' narrative tests."
+    },
+    {
+      "ticker": "AI",
+      "type": "sector",
+      "message": "Anthropic enterprise push lifts software. Defense scrutiny could be overhang."
+    },
+    {
+      "ticker": "SNOW",
+      "type": "options",
+      "message": "Unusual call activity netted $1.2M. Watch for momentum continuation."
+    }
+  ]
+}

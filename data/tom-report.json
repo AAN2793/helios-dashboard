@@ -1,22 +1,18 @@
 {
-  "generated": "2026-02-25T11:22:00.000Z",
-  "finance_summary": "S&P 500 and Nasdaq hit two-week highs heading into Nvidia earnings, with software stocks leading an AI relief rally. Nvidia shares up 2.2% premarket as investors price in a 'beat and raise' quarter following AMD's Meta deal. VIX has dropped from Monday's 21+ to around 19.5, signaling improved risk sentiment.",
-  "market_snapshot": {
-    "sp500_futures": "+0.3%",
-    "nasdaq_futures": "+0.5%",
-    "vix": "19.5 (-8%)",
-    "nvda_premarket": "+2.2%"
-  },
-  "afternoon_catalysts": [
-    "NVDA earnings after close (4:00 PM EST)",
-    "Salesforce (CRM) earnings after close",
-    "Fed speakers throughout session"
+  "date": "2026-02-25",
+  "summary": "Technology stocks led the market higher for a second straight session ahead of Nvidia's highly anticipated earnings report. Salesforce CEO Marc Benioff called the current AI-driven SaaS pullback a \"great buying opportunity,\" while Cava soared 20.7% on strong restaurant growth guidance. CoStar fell 8% on soft Q1 guidance, and Anthropic's enterprise AI push helped lift the software sector.",
+  "keyMovers": [
+    { "ticker": "NVDA", "change": "+2.3% pre-earnings", "note": "Ahead of earnings after close" },
+    { "ticker": "CRM", "change": "-3%", "note": "Benioff AI comments, buyback stance" },
+    { "ticker": "CAVA", "change": "+20.7%", "note": "Strong earnings, growth outlook" },
+    { "ticker": "CSGP", "change": "-8%", "note": "Soft Q1 guidance" },
+    { "ticker": "AI", "change": "+5%", "note": "Anthropic enterprise integrations" }
   ],
-  "top_movers": [
-    "AMD (+10% premarket on Meta deal)",
-    "NVDA (+2.2% pre-earnings)",
-    "HSBC (+5.4% on strong revenue)",
-    "CAVA (+11% on Q4 beat)",
-    "FSLR (-16.5% on weak outlook)"
+  "volumeSpikes": [
+    { "ticker": "SNOW", "volume": "+250%", "activity": "Unusual options call buying" },
+    { "ticker": "SPY", "volume": "+180%", "activity": "$700 call wall accumulation" }
+  ],
+  "afterHours": [
+    { "ticker": "NVDA", "price": "~$135", "change": "-2.1%", "volume": "Moderate" }
   ]
 }

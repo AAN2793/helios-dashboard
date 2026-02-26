@@ -1,32 +1,38 @@
 [
   {
     "ticker": "NVDA",
-    "headline": "Nvidia Earnings in Focus as Market Braces for AI Results",
-    "body": "Nvidia Corp. (NVDA) shares were under pressure ahead of its fiscal fourth-quarter earnings report, with investors anxious about the outlook for artificial intelligence spending. The chipmaker’s results could have major implications for the broader tech sector, as signs of risk to Nvidia’s long-held dominance have emerged. Despite AI companies facing market concerns, analysts at Citi reiterated a buy rating on the tech giant, noting that the valuation looks attractive and the stock is likely to outperform in the second half of 2026. The company’s gross margin could be under pressure due to higher costs for memory, but customers have indicated plans to boost AI infrastructure spending this year.",
-    "source": "Bloomberg, Reuters, CNBC"
+    "headline": "Nvidia Shatters Records with Blockbuster Earnings Report",
+    "body": "Nvidia (NVDA) reported fiscal 2026 fourth-quarter earnings of $1.62 per share (+82.0% year over year) on revenue of $68.1 billion (+73.2% YoY), crushing Wall Street expectations. The AI chip giant guided to fiscal 2027 first-quarter revenue of $78.0 billion, plus or minus 2%, as demand for AI computing continues to surge. Data center revenue climbed 75% from a year earlier to $62.3 billion, cementing Nvidia's dominance in the AI infrastructure market. Shares jumped over 7% in after-hours trading, extending the year-to-date rally.",
+    "source": "CNBC, February 25, 2026"
   },
   {
-    "ticker": "CAVA",
-    "headline": "Cava Group Soars on Strong Earnings, Growth Outlook",
-    "body": "Shares of Mediterranean fast-casual restaurant chain CAVA Group (CAVA) jumped 20.7% in morning trading after the company reported fourth-quarter results that topped Wall Street’s expectations for revenue and earnings per share. The company guided to roughly 74–76 new restaurant openings and 3–5% same-store sales growth for 2026, laying out an aggressive growth plan that investors found appetizing. Management called out ongoing menu innovation and operational improvements as key drivers of the positive outlook. The results came as the broader restaurant sector continues to benefit from consumers trading up to premium dining experiences despite inflationary pressures.",
-    "source": "CNBC, Markets Daily, Stock Observer"
+    "ticker": "AXON",
+    "headline": "Axon Soars on Record-Breaking AI-Driven Growth",
+    "body": "Shares of Axon Enterprise (NASDAQ: AXON) surged more than 18% in early trading on Wednesday, February 25, 2026, following a fourth-quarter earnings report that shattered Wall Street's expectations. The public safety technology giant reported 39% revenue growth from a year ago, with net income totaling about $3 million, or 3 cents per share. CEO Rick Smith highlighted that AI for the company 'will create value that our customers simply cannot replicate,' as the company's AI-driven public safety ecosystem continues to gain traction across law enforcement agencies.",
+    "source": "FinancialContent, February 25, 2026"
   },
   {
-    "ticker": "CSGP",
-    "headline": "CoStar Group Falls on Soft Q1 Guidance",
-    "body": "Shares of online real estate marketplace provider CoStar Group (CSGP) fell 8% after the company issued first-quarter guidance that fell short of expectations. CoStar called for adjusted earnings in the range of 16 to 19 cents per share, below analyst estimates. The guidance disappointment comes despite the company’s strong full-year 2025 performance, which included 19% revenue growth and adjusted EBITDA of $442 million, up 83% year-over-year. The company also announced a new $1.5 billion share repurchase program and $700 million in buybacks for 2026, signaling confidence in its long-term outlook despite the near-term headwinds.",
-    "source": "CNBC, Business Wire, CoStar Group"
+    "ticker": "META",
+    "headline": "Meta Partners with AMD for Massive AI Chip Deal",
+    "body": "Meta Platforms (META) announced a landmark agreement with Advanced Micro Devices to provide the Facebook and Instagram parent with up to $60 billion worth of AI chips over five years. The deal, which allows Meta to purchase as much as 10% of AMD's chip production, sent AMD shares soaring more than 6% while Meta's stock gained 2.3%. The partnership strengthens Meta's AI computing capabilities as it races to build out data centers for AI training and inference, positioning the company to better compete with rivals in the AI arms race.",
+    "source": "Reuters, February 24, 2026"
+  },
+  {
+    "ticker": "AAPL",
+    "headline": "Apple Shatters Records with Q4 Performance and Strong 2026 Outlook",
+    "body": "Apple (AAPL) delivered blockbuster fourth-quarter results, with revenue growing 12% year over year to $124.3 billion, driven by strong iPhone 16 sales and record services revenue. The tech giant announced plans to expand its domestic production network, which could benefit shareholders through potential tax incentives and supply chain resilience. Despite broader market volatility, Apple's stock gained 1.8% on the news, as investors bet on the company's AI integration strategy and robust cash flow generation.",
+    "source": "FinancialContent, February 25, 2026"
+  },
+  {
+    "ticker": "TSLA",
+    "headline": "Tesla Faces Mounting Headwinds Despite Tech Sector Rally",
+    "body": "Tesla (TSLA) struggled to keep pace with the broader tech sector rally, with shares down 1.2% amid mounting challenges including production delays at the Berlin Gigafactory and increased competition in the EV market. The company's stock has shed approximately 7% of its value since the start of the year, as investors grow concerned about near-term cash flow and capital expenditure requirements. However, analysts note that Tesla's energy storage business continues to show strong growth, providing a potential offset to automotive segment weakness.",
+    "source": "Primary Ignition, February 25, 2026"
   },
   {
     "ticker": "SPY",
-    "headline": "S&P 500 Gains on Tech Strength, Nvidia in Focus",
-    "body": "The S&P 500 (SPY) edged higher as technology stocks led the market, with investors preparing for Nvidia’s earnings report later today. Redburn and other analysts reiterated buy ratings on the chipmaker, noting that the valuation looks attractive and the stock is likely to outperform in the second half of 2026. The market rally was also supported by positive labor market and economic reports, as well as Anthropic’s launch of new artificial intelligence integrations aimed at enterprise customers. However, concerns about the broader AI outlook and competitive pressures on Nvidia kept gains modest, with investors remaining cautious ahead of the highly anticipated earnings release.",
-    "source": "247 Wall St., Nasdaq, Bloomberg"
-  },
-  {
-    "ticker": "AI",
-    "headline": "Anthropic’s Enterprise AI Push Boosts Software Sector",
-    "body": "The software sector staged a comeback as Anthropic launched new artificial intelligence integrations aimed at enterprise customers, easing fears about AI’s impact on specialized software companies. The San Francisco-based AI lab’s expansion of Claude Cowork allows companies to connect the platform to existing tools like Google Drive and Gmail, while installing customizable plugins across domains such as financial analysis and human resources. This development has provided a much-needed “reality check” for the AI hype cycle, with investors now understanding how these technologies coexist rather than replace existing software solutions. The news helped lift major averages as software stocks rebounded from recent pressure.",
-    "source": "Reuters, FinancialContent, The Indian Express"
+    "headline": "S&P 500 Powers Higher on Tech Strength and Nvidia Catalyst",
+    "body": "The S&P 500 (SPY) posted strong gains Wednesday, February 25, 2026, as technology shares led the market higher ahead of Nvidia's highly anticipated earnings report. The index gained 1.8%, with the tech-heavy Nasdaq Composite rising 2.3%, as investors positioned for what many consider the most critical earnings report of the season. The rally was broad-based, with all 11 S&P 500 sectors finishing in positive territory, suggesting improving market breadth and renewed investor confidence in the AI-driven growth narrative.",
+    "source": "247wallst.com, February 25, 2026"
   }
 ]
