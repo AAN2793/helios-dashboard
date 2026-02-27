@@ -1,0 +1,32 @@
+[
+  {
+    "ticker": "MARKET",
+    "headline": "Evening Wrap: Tech Sell-Off Continues, NVDA -5% Despite Blowout",
+    "body": "Markets closed lower for a second consecutive day on Thursday as tech stocks sold off despite Nvidia's stellar Q4 results. The Dow managed a modest +0.4% gain on defensive rotation, but the S&P 500 slipped -0.54% to 6,908.86 and the Nasdaq fell -1.18% to 22,878.38. The action reflects a classic \"sell the news\" pattern and growing concerns about AI valuations ahead of tomorrow's inflation data (PPI).\n\nKey Movers:\n- NVDA: -5% close despite $1.62 EPS, $68.1B revenue\n- DELL: +2% regular, +3% AH on AI server strength\n- CRWV: +8% AH on $12.025B 2026 revenue guide\n- STLA: -5% confirming $26B annual loss\n- TTD: -16.8% on weak guidance",
+    "category": "Market Wrap"
+  },
+  {
+    "ticker": "PPI",
+    "headline": "January PPI (8:30 AM) - Key Inflation Gauge to Set Tone",
+    "body": "Tomorrow morning's January Producer Price Index will be the first major economic data point that could sway the market's direction. Expectations: +0.3% m/m, +3.2% y/y.\n\nScenarios:\n• Hot (>0.4%) — Bad for tech, could accelerate rate hike fears, equities sell\n• Cool (<0.2%) — Relief rally in tech and growth names likely\n• In-line — market may grind sideways\n\nThis is the Fed's preferred inflation gauge (alongside CPI). Hot PPI = higher yields = pressure on high-PE stocks. Light PPI = short-covering rally possible. Watch EUR/USD and 10-Year yield reaction for clues.",
+    "category": "Economic Calendar"
+  },
+  {
+    "ticker": "SNOW",
+    "headline": "Snowflake Earnings After-Close - High Volatility Setup",
+    "body": "Snowflake (SNOW) reports Q4 earnings after market close tomorrow. Expectations: loss $0.58, revenue $1.89B.\n\nWhy it matters:\n- Cloud spending health check for 2026\n- AI/data warehouse narrative barometer\n- High short interest (~15%) → potential short squeeze on any good news\n- Options implied move ~10% both ways\n\nPast quarters have triggered major moves (up 15% on good news, down 20% on weak). High IV straddle suggests options are pricing a big move. Likely sets tone for cloud/software sector next week.",
+    "category": "Earnings"
+  },
+  {
+    "ticker": "SPY",
+    "headline": "SPY Put Wall at $690 - Critical Support Test Tomorrow",
+    "body": "SPY is trading just above a massive $3.3 billion put wall at $690 according to options data. This concentration of put options acts as both resistance (if market tries to rally) and support (if sellers need to hedge or roll).\n\nBulls want: Hold above $690 into PPI\nBears want: Push below $690 to trigger gamma hedging\nBias: Range-bound until PPI breaks the pattern\n\nIf SPY breaks $690: quick drop to 685-680 likely\nIf SPY holds $690 and PPI is good: short-cover to 695-700\nTomorrow's PPI is likely the catalyst to string this range.",
+    "category": "Technical"
+  },
+  {
+    "ticker": "CDIO",
+    "headline": "Small Cap Alert: $CDIO +257% from $2.80 Entry (Multi-Day Setup)",
+    "body": "Twitter alert last night: $CDIO hit $9.99, a 257% gain from a $2.80 entry. This was a called multi-day setup.\n\nWhat happened:\n- Low float micro-cap with catalyst\n- Strong momentum into earnings\n- Perfect execution on the posted alert\n\nLesson: Small-cap swing setups with low floats and upcoming catalysts can produce multi-bagger returns in days. Requires patience and tight risk management. AlertsAndNews followers caught this move. Another win for the community.\n\nCurrent: Pullback expected; watch for re-entry if key levels hold.",
+    "category": "Alerts Recap"
+  }
+]

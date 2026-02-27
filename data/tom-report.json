@@ -1,6 +1,6 @@
 {
   "date": "2026-02-26",
-  "summary": "Market close confirms the 'sell-the-news' pattern: Dow +0.4%, S&P -0.54% (6908.86), Nasdaq -1.18% (22878.38) as Nvidia falls 5% despite stellar earnings. After-hours, Dell gained +3% on strong AI server demand while CoreWeave jumped +8% on robust 2026 guidance; S&P and Nasdaq futures are up slightly (+0.02-0.05%) pointing to a neutral open tomorrow ahead of the January PPI release at 8:30 AM EST.",
+  "summary": "Evening wrap: Tech sell-off persists with S&P -0.54% (6908.86), Nasdaq -1.18% (22878.38) as NVDA drops 5% despite record $68B revenue. After-hours DELL +3% on AI server demand, CRWV +8% on $12B 2026 guidance, WBD -2% on streaming woes. Futures flat, Asian markets up 6.7% MTD but San Francisco faces geopolitical tensions (Pakistan Kabul strikes, Canada-Iran advisory). Tomorrow's key: Jan PPI at 8:30 AM; SNOW earnings after-close.",
   "keyMovers": [
     { "ticker": "NVDA", "change": "+1.2% premarket to -2% midday", "note": "Muted reaction to beat, profit-taking evident" },
     { "ticker": "TTD", "change": "-16.8%", "note": "Weak guidance despite earnings beat" },

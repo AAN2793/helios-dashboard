@@ -15,7 +15,7 @@ const hierarchy = {
     title: 'Chief of Staff',
     status: 'Online',
     model: 'MiniMax M2.1',
-    skills: ['Soul', 'Heartbeat', 'Memory', 'Tools'],
+    skills: ['Soul', 'Heartbeat', 'Memory', 'Tools', 'Bulletproof Memory', 'Secrets'],
     soul: {
       coreTruths: [
         'Have opinions. Strong ones. Commit to a take.',
@@ -50,7 +50,25 @@ const hierarchy = {
         'Never set Perplexity as primary model - it crashes gateway',
         'Perplexity is a tool, not a brain - use as subagent only',
         'Before editing config: backup first, make incremental changes'
-      ]
+      ],
+      bulletproof: {
+        protocol: 'Write-Ahead Log (WAL)',
+        trigger: 'User input - not agent memory',
+        files: ['SESSION-STATE.md', 'MEMORY.md', 'memory/YYYY-MM-DD.md'],
+        rules: [
+          'SESSION-STATE.md is hot RAM - check FIRST every session',
+          'When user gives concrete detail -> write to SESSION-STATE.md BEFORE responding',
+          'Never ask what were we doing - check file first',
+          'Update on user input, not agent recall'
+        ]
+      }
+    },
+    secrets: {
+      status: 'Enabled v2026.2.26',
+      providers: ['env', 'file', 'exec'],
+      audit: '4 plaintext keys found',
+      keys: ['Brave Search', 'OpenRouter', 'Anthropic', 'Perplexity (removed)'],
+      plan: 'Migrate all keys to env vars, remove from config files'
     }
   },
   subagents: [
