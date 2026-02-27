@@ -1,0 +1,86 @@
+{
+  "date": "2026-02-26",
+  "overnightCatalysts": [
+    {
+      "ticker": "PPI",
+      "release": "2026-02-27 08:30 EST",
+      "expectation": "+0.3% m/m, +3.2% y/y",
+      "importance": "Major inflation gauge; hot reading could stoke rate hike fears, cool reading supportive of rate cuts",
+      "watch": "If >0.4%, sell tech rally; if <0.2%, relief bounce likely"
+    }
+  ],
+  "earningsOvernight": [
+    {
+      "ticker": "SNOW",
+      "release": "After-close Friday",
+      "expectation": "Loss $0.58, revenue $1.89B",
+      "sentiment": "Mixed - cloud spending concerns but AI narrative intact",
+      "watch": "Guidance key; data cloud growth rate"
+    },
+    {
+      "ticker": "LOW",
+      "release": "Pre-open Friday",
+      "expectation": "EPS $3.05, revenue $18.5B",
+      "sentiment": "Home improvement demand weakening?",
+      "watch": "Housing market, DIY trends, margin pressure"
+    },
+    {
+      "ticker": "TJX",
+      "release": "Pre-open Friday",
+      "expectation": "EPS $0.78, revenue $11.8B",
+      "sentiment": "Off-price retail holding up",
+      "watch": "Consumer health, inventory management"
+    }
+  ],
+  "internationalOvernight": [
+    {
+      "region": "Asia",
+      "watch": "Japan GDP, China industrial profits",
+      "impact": "Modest"
+    },
+    {
+      "region": "Europe",
+      "watch": "German CPI, UK retail sales",
+      "impact": "Moderate - could affect USD strength"
+    }
+  ],
+  "futuresSnapshot": {
+    "s": "+0.02%",
+    "nasdaq": "+0.05%",
+    "dow": "+0.01%",
+    "vix": "18.5",
+    "dollarIndex": "+0.1%",
+    "gold": "$5,173/oz (-0.1%)",
+    "oil": "$69.50/bbl (+0.3%)"
+  },
+  "keyLevels": {
+    "spy": {
+      "support": [690, 685, 680],
+      "resistance": [695, 700, 710],
+      "bias": "Neutral to slightly bullish overnight but PPI dominates"
+    },
+    "nvda": {
+      "support": [620, 600, 580],
+      "resistance": [650, 670, 700],
+      "bias": "Bearish short-term until buyside re-accumulates"
+    },
+    "spx": {
+      "support": [6900, 6850, 6800],
+      "resistance": [6950, 7000, 7100],
+      "bias": "Range-bound pending PPI"
+    }
+  },
+  "riskEvents": [
+    "Friday PPI inflation data (8:30 AM EST) - main driver",
+    "Snowflake earnings could impact cloud/software sector",
+    "Retail earnings (LOW, TJX) test consumer resilience",
+    "Geopolitical: Iran nuclear talks progress (positive risk sentiment)"
+  ],
+  "premarketPreview": "Markets likely to open flat to slightly up based on futures. PPI data at 8:30 AM will set the tone. If PPI is hot, expect sell-off in rate-sensitive sectors (tech, growth). If PPI is cool, potential relief rally. Snowflake after-close will be watched as cloud sector barometer.",
+  "tradingIdeas": [
+    "If PPI >0.4%: Short SPY/QQQ or buy UVXY/VOL exposure",
+    "If PPI <0.2%: Long tech names with strong AI narratives (NVDA, CRWV)",
+    "SNOW straddle ahead of earnings - high IV suggests big move either way",
+    "SPY 690 put wall in play - options gamma could amplify moves through 690"
+  ]
+}

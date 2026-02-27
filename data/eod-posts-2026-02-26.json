@@ -1,0 +1,58 @@
+[
+  {
+    "ticker": "NVDA",
+    "headline": "Nvidia Falls 5% Despite Blowout Earnings as Investors Book Profits",
+    "body": "Nvidia (NVDA) closed down 5% Thursday despite reporting Q4 earnings of $1.62 EPS and $68.1B revenue (+73% YoY), both beating estimates. The stock weakened throughout the day in a classic \"sell-the-news\" pattern, falling below the $650 support level to close around $645. The move reflects valuation concerns with the stock up over 150% in the past year and questions about sustainability of AI spending growth. After-hours, NVDA continued slightly lower (-3%) as analysts digest the valuation. The stock remains in a consolidation phase after its parabolic run.\n\nMarket Impact: The AI leadership narrative remains intact, but the stock may need a breather. Key support levels to watch: $620 (major), then $600. A break below $620 could trigger further profit-taking. Long-term investors see this as healthy - the trade needs to digest gains before next leg.\n\nSource: CNBC, Yahoo Finance, StockMarketWatch",
+    "sentiment": "Bearish",
+    "category": "Earnings Reaction"
+  },
+  {
+    "ticker": "DELL",
+    "headline": "Dell Jumps 3% After-Hours on Strong AI Server Demand and Solid Guidance",
+    "body": "Dell Technologies (DELL) reported Q4 EPS of $2.15 (in-line) with revenue of $25.2B (slightly above estimates). More importantly, the company provided solid Q1 guidance citing strong demand for AI-optimized servers. The stock gained +3% in after-hours trading, building on a +2% gain during the regular session.\n\nMarket Impact: DELL is a direct beneficiary of the AI infrastructure build-out, competing with HPE and Supermicro. The AI server backlog remains robust, and Dell's positioning in enterprise markets gives it a sticky client base. With NVIDIA's data center growth still strong, the entire AI server supply chain (DELL, SMCI, HPE) should continue to see strong demand. Watch for continued momentum into Friday's session.\n\nSource: CNBC, Benzinga",
+    "sentiment": "Bullish",
+    "category": "Earnings Reaction"
+  },
+  {
+    "ticker": "CRWV",
+    "headline": "CoreWeave Soars 8% After-Hours on $12B 2026 Revenue Guidance",
+    "body": "CoreWeave (CRWV) reported Q4 results that met expectations (loss $0.65/share, revenue $1.53B) but delivered jaw-dropping 2026 guidance: revenue $12.025B and EBITDA $8.19B. That's nearly 8x revenue growth from 2025 levels. The stock jumped +8% in after-hours trading as investors digest the explosive AI infrastructure growth story.\n\nMarket Impact: CoreWeave is the pure-play AI cloud infrastructure provider - essentially NVIDIA's cloud. The guidance validates the thesis that AI compute demand is doubling every 6-9 months. CRWV is a high-beta, high-growth name that could see continued rallies as it proves unit economics. However, valuation is steep - current price implies significant execution risk. If they hit the guide, the stock could double from here.\n\nSource: CNBC, The Motley Fool",
+    "sentiment": "Bullish",
+    "category": "Earnings Guidance"
+  },
+  {
+    "ticker": "WBD",
+    "headline": "Warner Bros. Discovery Dips 2% After-Hours on Streaming Subscriber Losses",
+    "body": "Warner Bros. Discovery (WBD) reported mixed Q4 results with revenue and EPS declines, and streaming subscriber losses that disappointed investors. The company is making progress on debt reduction but the streaming pivot remains challenging amid competition from Netflix and Disney+. The stock fell -2% in after-hours trading.\n\nMarket Impact: WBD continues to face an uphill battle in streaming. The stock may struggle until streaming profitability improves and subscriber growth re-accelerates. The debt reduction plan is a positive, but the core business faces structural challenges. Could see further pressure unless next quarter shows better streaming metrics.\n\nSource: Yahoo Finance",
+    "sentiment": "Bearish",
+    "category": "Earnings Reaction"
+  },
+  {
+    "ticker": "TTD",
+    "headline": "Trade Desk Plunges 16.8% on Weak Guidance Despite Earnings Beat",
+    "body": "The Trade Desk (TTD) dropped 16.8% Thursday despite beating Q4 estimates, as management provided weak Q1 guidance citing competitive pressure from larger ad platforms like Google and Amazon. The stock had been a high-flyer in the ad tech space, and the guidance miss triggered a broad sell-off in digital advertising names.\n\nMarket Impact: TTD's correction shows that even quality companies face headwinds when guidance softens in a high-beta sector. The stock could be in for a multi-week consolidation. Rivals GOOGL and META may see some spillover weakness as investors re-evaluate ad tech valuations. Potential support around $150-160 if momentum continues negative.\n\nSource: Yahoo Finance, Investopedia",
+    "sentiment": "Bearish",
+    "category": "Guidance Miss"
+  },
+  {
+    "ticker": "STLA",
+    "headline": "Stellantis Confirms $26B Annual Loss - First Ever - But Turnaround Starting",
+    "body": "Stellantis (STLA) confirmed a massive $26 billion full-year loss, its first annual loss ever, driven by EV-related write-downs. However, the company showed improvement in the second half versus the first half, suggesting a turnaround is beginning. The stock was down 5% on the news.\n\nMarket Impact: The legacy auto industry faces existential challenges in the EV transition. Stellantis, F, GM all face similar headwinds. While the loss was expected, the magnitude is concerning. Watch for signs of operational improvement - if Stellantis can stabilize margins and EV sales ramp, the stock could bottom here. But sector remains under pressure.\n\nSource: Yahoo Finance",
+    "sentiment": "Neutral",
+    "category": "Corporate News"
+  },
+  {
+    "ticker": "SPY",
+    "headline": "SPY Holds Above 690 - $3.3B Put Wall @ 690 Key Support",
+    "body": "SPDR S&P 500 ETF (SPY) closed at ~$690, holding above a critical level where options data shows a $3.3 billion put concentration according to CheddarFlow. This put wall represents a large cluster of options that could act as both resistance (if sellers defend) and support (if sellers roll or close). Bulls want SPY above this level to maintain upside momentum; bears are defending it.\n\nMarket Impact: The 690-692 zone is the line in the sand for the current uptrend. A close below 690 could trigger a quick drop to 680 as those puts get tested. A push above 700 would likely cause a short-covering rally. Tomorrow's PPI data could be the catalyst that breaks this range.\n\nSource: CheddarFlow",
+    "sentiment": "Neutral",
+    "category": "Options Activity"
+  },
+  {
+    "ticker": "META",
+    "headline": "Meta Inks Multi-Billion AI Chip Deal with Google - Rent Google TPUs",
+    "body": "Meta Platforms (META) has signed a multi-billion dollar deal to rent Google's AI chips (tensor processing units) to develop new AI models, according to The Information. This is a significant move as Meta builds out its AI infrastructure while maintaining diversity from its own in-house chip efforts.\n\nMarket Impact: This is a win for Google Cloud and shows that even large tech companies are using multi-cloud strategies for AI training. META's capex spend is massive (~$70B+) and deals with GOOGL help scale infrastructure faster. Could be positive sentiment for both META (execution) and GOOGL (cloud growth). Watch for more cloud AI deals in the coming quarters.\n\nSource: The Information via StockMKTNewz",
+    "sentiment": "Bullish",
+    "category": "Corporate News"
+  }
+]
